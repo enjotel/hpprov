@@ -1,0 +1,83 @@
+@font-face {
+    font-family: LinuxLibertineDisplay0Regular, times, serif;
+    src: url(fonts/LinLibertine_DR.woff);
+}
+* {box-sizing: border-box;}
+body {background-color: #FFFFFF; font-family: 'LinuxLibertineDisplayORegular'; font-weight: normal; font-style: normal; font-size: 18px; padding: 20px 100px 20px; width: 1600px;}
+
+ul {list-style: circle;}
+
+ul.dash {list-style: none; margin-left: .5em; padding-left: .5em;}
+ul.dash > li:before {display: inline-block; content: "–"; width: 1em; margin-left: 0em;}
+
+a:link {color: black; text-decoration: underline;}
+a:visited {color: black; text-decoration: underline;}
+a:hover {color: black; text-decoration: none;}
+a:active {color: black; text-decoration: underline;}
+
+p {padding-left: .5em; padding-right: .5em;}
+
+h4 {margin-bottom: 0px;}
+mark {background-color: #FFFFCC;}
+q:before {content: "»";}
+q:after {content: "«";}
+
+.noindent {padding: 0px;}
+.comm {padding-left: 1em; padding-right: 1em;}
+.app {width: 80%; text-align: left; font-size: 14px; padding-left: 1em;}
+.lem {display:inline-block; font-weight: bold}
+.ref {font-size: 14px; padding: inherit;}
+.lb {font-weight: bold; font-size: 14px;}
+.lb:before {content: "["}
+.lb:after {content: "]"}
+.pb {font-weight: bold; font-size: 14px;}
+.pb:before {content: " ["}
+.pb:after {content: "] "}
+.note {font-weight: bold; font-size: 14px;}
+.note:before {content: " ["}
+.note:after {content: "] "}
+.subhead {font-weight: bold; font-size: 14px;}
+.appnote {font-size: 14px;}
+.appnote:before {content: " ["}
+.appnote:after {content: "] "}
+.hi {font-style: italic}
+.sic:before {content: "†"}
+.sic:after {content: "†"}
+.corr {color: #008000;}
+.supplied {color: #1E90FF;}
+.surplus {color: #ff3333;}
+.unclear {color: #D2B48C;}
+
+/* custom renditions */
+.b, .bf, .textbf, .bold {font-weight: bold}
+.i, .it, .textit, .italic {font-style: italic}
+.u, .underline {text-decoration: underline}
+.blue {color: #0000e6;}
+.red {color: #b30000;}
+
+.row:after {content: ""; display: table; clear: both;}
+.column {float: left; width: 50%; padding-left: .5em; padding-right: .5em;}
+.analysis {font-size: 14px; color: #0066ff; padding-left: .5em; padding-right: .5em; padding-top: .1em;}
+.analysis:before {content: "["}
+.analysis:after {content: "]"}
+
+div.wapp:hover  span.lem {background-color: #FFFFCC;}
+
+@media screen and (max-width: 800px) {
+    body {font-size: 16px;}
+    .column {width: 100%;}
+    .analysis {width: 100%;}
+}
+
+@media screen and (max-width: 1200px) {
+    body {padding: 10px;}
+    .app {width: 90%;}
+}
+
+@media only screen and (max-width: 1600px) {
+    body {width: auto; padding: 20px;}
+}
+
+#toc_container {background: #f9f9f9 none repeat scroll 0 0; border: 1px solid #aaa; display: table; font-size: 95%; margin-bottom: 1em; padding: 1em; width: auto;}
+.toc_title {font-weight: 700; text-align: center;}	  
+#toc_container li, #toc_container ul, #toc_container ul li{list-style: outside none none !important; padding-left: .5em;}

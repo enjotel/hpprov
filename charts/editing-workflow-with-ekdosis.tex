@@ -1,0 +1,56 @@
+\documentclass[border=20pt]{standalone}
+\usepackage{libertine}
+\usepackage{tikz}
+\usetikzlibrary{positioning, decorations.pathreplacing}
+
+\usepackage{hyperref}
+\pagecolor{white}
+
+\usepackage{enumitem}
+
+\tikzset{enc/.append style={black, draw=black, fill=gray!20, scale=.7,}}
+\tikzset{nope/.append style={scale=.7, draw=black}}
+\tikzset{pres/.append style={black, rounded corners, draw=black, fill=blue!20, scale=.7,}}
+\tikzset{purp/.append style={black, scale=.5,}}
+
+\begin{document}
+\begin{tikzpicture}
+
+  %nodes
+  \node[align=center, scale=1.4] (title) at (.8, 2.7) {Editing Workflow with ἔκδοσις};
+  
+  \node[black, draw=black, fill=gray!20, align=left, scale=.7] (subtitle2) at (-.2, 2) {text encoding};
+  \node[align=center, scale=.7] (subtitle2) at (.8, 2) {to};
+  \node[black, rounded corners, draw=black, fill=blue!20, align=left, scale=.7] (subtitle3) at (1.7, 2) {presentation};
+
+  \node[enc, align=center] (latex) at (-2, .5) {\LaTeX };
+  
+  \node[nope, align=center] (tei) at (-.5, -.5) {TEI-conformant\\ XML};
+  
+  \node[pres, align=center] (pdf) at (1.75, 1) {PDF};
+  \node[purp, align=center]  at (3.5, 1) {publication};
+
+  \node[pres, align=center] (html) at (1.75, 0) {XHTML};
+  \node[purp, align=center] at (3.5, 0) {progress sharing};
+
+  \node[pres, align=center] (pt) at (1.75, -1) {plain text};
+  \node[purp, align=center] at (3.5, -1) {string search\\ text mining\\ NLP};
+
+  % edges
+
+  \draw[->] (latex) -- (pdf) node [midway, above, sloped, scale=.5] {lualatex};
+
+  \draw[->] (latex) -- (tei) node [midway, above, sloped, scale=.5] {lua};
+
+  \draw[->] (tei) -- (html) node [midway, above, sloped, scale=.5] {xslt};
+
+  \draw[->] (tei) -- (pt) node [midway, above, sloped, scale=.5] {xslt};
+
+  \draw[decorate,decoration={brace}] (2.7,.8) -- (2.7,1.2);
+
+  \draw[decorate,decoration={brace}] (2.7,-.2) -- (2.7,.2);
+
+  \draw[decorate,decoration={brace}] (2.7,-1.4) -- (2.7,-.6);
+
+\end{tikzpicture}
+\end{document}

@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Title --></title>
+<respStmt>
+<resp><!-- Edited by --></resp>
+<name><!-- Name --></name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<distributor><!-- Distributor name  --></distributor>
+</publicationStmt>
+<sourceDesc>
+<listWit>
+<witness xml:id="Vu">
+<abbr type="siglum">Vulg</abbr>
+Vulgate, i.e. Brahmānanda's version
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="X">
+<abbr type="siglum">X</abbr>
+TenChapter Version, Jodhpur 02228 and 02225 (ed. Lonavla)
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="Six">
+<abbr type="siglum">Ṣ</abbr>
+SixChapterVersion, ``6ChapterHPms'', fragment of enlarged text, Jodhpur
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="V1">
+<abbr type="siglum">V<hi rend="sub">1</hi></abbr>
+Sampurnananda Library Sarasvati Bhavan 30109
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="V2">
+<abbr type="siglum">V<hi rend="sub">2</hi></abbr>
+Sampurnananda Library Sarasvati Bhavan 29869
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="V3">
+<abbr type="siglum">V<hi rend="sub">3</hi></abbr>
+Sampurnananda Library Sarasvati Bhavan 29899
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="V4">
+<abbr type="siglum">V<hi rend="sub">4</hi></abbr>
+Sampurnananda Library Sarasvati Bhavan 29937
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="V5">
+<abbr type="siglum">V<hi rend="sub">5</hi></abbr>
+Sampurnananda Library Sarasvati Bhavan 29938
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="V6">
+<abbr type="siglum">V<hi rend="sub">6</hi></abbr>
+Sampurnananda Library Sarasvati Bhavan 29991
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="V8">
+<abbr type="siglum">V<hi rend="sub">8</hi></abbr>
+Sampurnananda Library Sarasvati Bhavan 30014
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="V11">
+<abbr type="siglum">V<hi rend="sub">11</hi></abbr>
+Sampurnananda Library Sarasvati Bhavan 30029
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="V19">
+<abbr type="siglum">V<hi rend="sub">19</hi></abbr>
+Sampurnananda Library Sarasvati Bhavan 30069
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="V22">
+<abbr type="siglum">V<hi rend="sub">22</hi></abbr>
+Sampurnananda Library Sarasvati Bhavan 30110
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="V25">
+<abbr type="siglum">V<hi rend="sub">25</hi></abbr>
+Sampurnananda Library Sarasvati Bhavan 30122
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="V26">
+<abbr type="siglum">V<hi rend="sub">26</hi></abbr>
+Sampurnananda Library Sarasvati Bhavan 30123
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="K1">
+<abbr type="siglum">K<hi rend="sub">1</hi></abbr>
+Raghunātha Temple Library 4383
+<msDesc>
+<msIdentifier>
+<settlement>Jammu</settlement>
+</msIdentifier>
+</msDesc>
+</witness>
+<witness xml:id="K1ac">
+<abbr type="siglum">K<rlap><hi rend="sub">1</hi></rlap><hi rend="sup">ac</hi>\space </abbr>
+
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="K1pc">
+<abbr type="siglum">K<rlap><hi rend="sub">1</hi></rlap><hi rend="sup">pc</hi>\space </abbr>
+
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="L1">
+<abbr type="siglum">L<hi rend="sub">1</hi></abbr>
+SOAS RE 43454
+<msDesc>
+<msIdentifier>
+<settlement>Jammu</settlement>
+</msIdentifier>
+</msDesc>
+</witness>
+<witness xml:id="J10">
+<abbr type="siglum">J<hi rend="sub">10</hi></abbr>
+MSPP Jodhpur 2230
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="J10ac">
+<abbr type="siglum">J<rlap><hi rend="sub">10</hi></rlap><hi rend="sup">ac</hi>\space </abbr>
+MSPP Jodhpur 2230
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="J10pc">
+<abbr type="siglum">J<rlap><hi rend="sub">10</hi></rlap><hi rend="sup">pc</hi>\space </abbr>
+MSPP Jodhpur 2230
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="J1">
+<abbr type="siglum">J<hi rend="sub">1</hi></abbr>
+Jodhpur 02231
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="J2">
+<abbr type="siglum">J<hi rend="sub">2</hi></abbr>
+Jodhpur 02232
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="J3">
+<abbr type="siglum">J<hi rend="sub">3</hi></abbr>
+Jodhpur 02233
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="J4">
+<abbr type="siglum">J<hi rend="sub">4</hi></abbr>
+Jodhpur 02234
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="J4ac">
+<abbr type="siglum">J<rlap><hi rend="sub">4</hi></rlap><hi rend="sup">ac</hi>\space </abbr>
+MSPP Jodhpur 02234
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="J4pc">
+<abbr type="siglum">J<rlap><hi rend="sub">4</hi></rlap><hi rend="sup">pc</hi>\space </abbr>
+MSPP Jodhpur 02234
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="J5">
+<abbr type="siglum">J<hi rend="sub">5</hi></abbr>
+Jodhpur 02235
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="J6">
+<abbr type="siglum">J<hi rend="sub">6</hi></abbr>
+Jodhpur 02237
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="J7">
+<abbr type="siglum">J<hi rend="sub">7</hi></abbr>
+Jodhpur 02241
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="J8">
+<abbr type="siglum">J<hi rend="sub">8</hi></abbr>
+Jodhpur 23709
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="J9">
+<abbr type="siglum">J<hi rend="sub">9</hi></abbr>
+Jodhpur 02224
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="J13">
+<abbr type="siglum">J<hi rend="sub">13</hi></abbr>
+Jodhpur 02229
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="J14">
+<abbr type="siglum">J<hi rend="sub">14</hi></abbr>
+Jodhpur 02239
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="J15">
+<abbr type="siglum">J<hi rend="sub">15</hi></abbr>
+Jodhpur 9732A
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="J17">
+<abbr type="siglum">J<hi rend="sub">17</hi></abbr>
+Jodhpur 3013
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="B1">
+<abbr type="siglum">B<hi rend="sub">1</hi></abbr>
+Bodleian Library No. d.457(8)
+<msDesc>
+<msIdentifier>
+<settlement>Oxford</settlement>
+</msIdentifier>
+</msDesc>
+</witness>
+<witness xml:id="B2">
+<abbr type="siglum">B<hi rend="sub">2</hi></abbr>
+Bodleian Library No. d.458(1)
+<msDesc>
+<msIdentifier>
+<settlement>Oxford</settlement>
+</msIdentifier>
+</msDesc>
+</witness>
+<witness xml:id="B3">
+<abbr type="siglum">B<hi rend="sub">3</hi></abbr>
+Bodleian Library No. d.458(9)
+<msDesc>
+<msIdentifier>
+<settlement>Oxford</settlement>
+</msIdentifier>
+</msDesc>
+</witness>
+<witness xml:id="C1">
+<abbr type="siglum">C<hi rend="sub">1</hi></abbr>
+Lalchand M 2080
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="C2">
+<abbr type="siglum">C<hi rend="sub">2</hi></abbr>
+Lalchand M 6065
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="C3">
+<abbr type="siglum">C<hi rend="sub">2</hi></abbr>
+Lalchand M 1293
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="C4">
+<abbr type="siglum">C<hi rend="sub">2</hi></abbr>
+Lalchand M 2081
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="C4ac">
+<abbr type="siglum">C<rlap><hi rend="sub">4</hi></rlap><hi rend="sup">ac</hi>\space </abbr>
+
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="C4pc">
+<abbr type="siglum">C<rlap><hi rend="sub">4</hi></rlap><hi rend="sup">pc</hi>\space </abbr>
+
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="C5">
+<abbr type="siglum">C<hi rend="sub">2</hi></abbr>
+Lalchand M 2082
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="C6">
+<abbr type="siglum">C<hi rend="sub">2</hi></abbr>
+Lalchand M 2089
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="C7">
+<abbr type="siglum">C<hi rend="sub">7</hi></abbr>
+Lalchand M 6494
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="C8">
+<abbr type="siglum">C<hi rend="sub">2</hi></abbr>
+Lalchand M 2091
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="C9">
+<abbr type="siglum">C<hi rend="sub">2</hi></abbr>
+Lalchand M 4530
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="N1">
+<abbr type="siglum">N<hi rend="sub">1</hi></abbr>
+NGMPP A1400 2
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="N2">
+<abbr type="siglum">N<hi rend="sub">2</hi></abbr>
+NGMPP B 39 19
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="N3">
+<abbr type="siglum">N<hi rend="sub">3</hi></abbr>
+NGMPP B 62 20
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="N5">
+<abbr type="siglum">N<hi rend="sub">5</hi></abbr>
+NGMPP A60 15 + A61 1
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="N6">
+<abbr type="siglum">N<hi rend="sub">6</hi></abbr>
+NGMPP A61 6
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="N9">
+<abbr type="siglum">N<hi rend="sub">9</hi></abbr>
+NGMPP A62 33
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="N10">
+<abbr type="siglum">N<hi rend="sub">10</hi></abbr>
+NGMPP A62 37
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="N11">
+<abbr type="siglum">N<hi rend="sub">11</hi></abbr>
+NGMPP A63 15
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="N12">
+<abbr type="siglum">N<hi rend="sub">12</hi></abbr>
+NGMPP A939 19
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="N13">
+<abbr type="siglum">N<hi rend="sub">13</hi></abbr>
+NGMPP A1378 18
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="N16">
+<abbr type="siglum">N<hi rend="sub">16</hi></abbr>
+NGMPP B39 20
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="N17">
+<abbr type="siglum">N<hi rend="sub">17</hi></abbr>
+NGMPP B 111 10
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="N18">
+<abbr type="siglum">N<hi rend="sub">18</hi></abbr>
+NGMPP E 929 3
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="N19">
+<abbr type="siglum">N<hi rend="sub">19</hi></abbr>
+NGMPP E 1528 1 / E 1527 7(4)
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="N20">
+<abbr type="siglum">N<hi rend="sub">20</hi></abbr>
+NGMPP E 2037 13 
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="N21">
+<abbr type="siglum">N<hi rend="sub">21</hi></abbr>
+NGMPP E 2097 31
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="N22">
+<abbr type="siglum">N<hi rend="sub">22</hi></abbr>
+NGMPP G 4 4
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="N23">
+<abbr type="siglum">N<hi rend="sub">23</hi></abbr>
+NGMPP G 25 2
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="N24">
+<abbr type="siglum">N<hi rend="sub">23</hi></abbr>
+NGMPP G 190 16
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="N24ac">
+<abbr type="siglum">N<rlap><hi rend="sub">24</hi></rlap><hi rend="sup">ac</hi>\space </abbr>
+
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="N24pc">
+<abbr type="siglum">N<rlap><hi rend="sub">24</hi></rlap><hi rend="sup">pc</hi>\space </abbr>
+
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="M1">
+<abbr type="siglum">M<hi rend="sub">1</hi></abbr>
+P 5682/4
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="M1a">
+<abbr type="siglum">M<rlap><hi rend="sub">1</hi></rlap><hi rend="sup">alt</hi>\space </abbr>
+alternative reading written in M<hi rend="sub">1</hi> usually separated by a daṇḍa
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="Tü">
+<abbr type="siglum">Tü</abbr>
+Ma I 339
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="YC">
+<abbr type="siglum">YC</abbr>
+Yogacintāmaṇi
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="ceteri">
+<abbr type="siglum">cet.</abbr>
+ceteri
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+</listWit>
+<listPerson xml:id="scholars">
+<person xml:id="nos">
+<persName>
+<abbr type="siglum">nos</abbr>
+<forename>HPP</forename>
+<surname>Team</surname>
+</persName>
+</person>
+</listPerson>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<variantEncoding method="parallel-segmentation" location="internal"/>
+</encodingDesc>
+</teiHeader>
+<text>
+<body>
+<lg xml:id="hp11"> <l> <app><lem wit="#ceteri">śrīādināthāya</lem><rdg wit="#V1">ādīśanāthāya</rdg><rdg wit="#J2 #J10">śrīādityanāthāya</rdg><rdg wit="#N10">śrīādināthā</rdg><rdg wit="#N5">śrī oṃ ādināthāya</rdg><rdg wit="#J4">ādināthāya</rdg></app> namo<app><lem wit="#ceteri">'stu</lem><rdg wit="#V8"> stu te</rdg></app> <app><lem wit="#ceteri">tasmai</lem><rdg wit="#N22">tasmaiḥ</rdg><rdg wit="#V26">te tasmai</rdg></app> <app><lem wit="#ceteri">yenopadiṣṭā</lem><rdg wit="#N5">yonopadiṣṭā</rdg><rdg wit="#J2">yenopadiśyā</rdg><rdg wit="#M1">+ .. p. .. .[ā]</rdg></app> <app><lem wit="#ceteri">haṭhayogavidyā</lem><rdg wit="#N22">haṭhajogavidyā</rdg></app>/</l> <l> <app><lem wit="#ceteri">virājate</lem><rdg wit="#C6 #N13 #Tü #Vu #N24 #V22">vibhrājate</rdg><rdg wit="#M1">vi .. jate</rdg></app> pronnata<app><lem wit="#ceteri" type="stemmapoint">rājasaudham </lem><rdg wit="#J2">rājasaudhām </rdg><rdg wit="#J3 #N23">rājasaudha</rdg><rdg wit="#N16">rājasaidhaṃm </rdg><rdg wit="#N22">rājasaukham </rdg><rdg wit="#B1 #B2 #B3 #C1 #C2 #C3 #J1 #J10 #J13 #J15 #J17 #N1 #N6 #N9 #N10 #N13 #N17 #N20 #N24 #Tü #V1 #V3 #V4 #V6 #V11 #V22">rājayogam </rdg><rdg wit="#V8">rājayogar </rdg></app><app><lem wit="#ceteri">āroḍhum</lem><rdg wit="#J2 #N5">āroḍham</rdg><rdg wit="#C1 #N6 #V5">āroham</rdg><rdg wit="#V4">ārodum</rdg><rdg wit="#J17">ārohim</rdg><rdg wit="#J14">ārūḍham</rdg><rdg wit="#N19">ārūdham</rdg><rdg wit="#N23">sarādhum</rdg><rdg wit="#N22">dharmādhi</rdg><rdg wit="#N24">armādhi</rdg></app><app><lem wit="#ceteri"> icchor</lem><rdg wit="#N22">rūvam</rdg></app><app><lem wit="#ceteri"> adhirohiṇīva</lem><rdg wit="#C4 #N5"> adhirohaṇīva</rdg><rdg wit="#J2 #N9 #N16 #N22"> adhirohiṇī ca</rdg><rdg wit="#J15"> adhirohaṇi ca</rdg><rdg wit="#C1 #V3 #V5"> adhiroha eva</rdg><rdg wit="#N12"> adhirohanena</rdg><rdg wit="#N19"> adhirohatīva</rdg><rdg wit="#V6"> adhirohaṇāya</rdg></app>// </l> </lg> <lg xml:id="hp12"> <l> praṇamya śrī<app><lem wit="#ceteri">guruṃ</lem><rdg wit="#C3 #J2">guru</rdg><rdg wit="#J15 #V6">gurū</rdg></app> <app><lem wit="#ceteri">nāthaṃ</lem><rdg wit="#J2 #N22 #V6">nātha</rdg></app> <app><lem wit="#ceteri">svātmārāmeṇa</lem><rdg wit="#J2 #V26">ātmārāmeṇa</rdg><rdg wit="#C3">svātmāroṇa</rdg><rdg wit="#V5">svātmārāmena</rdg></app> <app><lem wit="#ceteri">yoginā</lem><rdg wit="#C1 #C4 #C7 #J1 #J3 #L1 #N5 #N11 #N16 #V5 #V19" type="stemmapoint">dhīmatā</rdg><rdg wit="#N22">yoginī</rdg></app>/</l><l> <app><lem wit="#ceteri">kevalaṃ</lem><rdg wit="#N5">kaivalaṃ</rdg></app> <app><lem wit="#ceteri">rājayogāya</lem><rdg wit="#J3">rājayogoya</rdg><rdg wit="#N16">rājayogo yaṃ</rdg></app> haṭha<app><lem wit="#ceteri">vidyopadiśyate</lem><rdg wit="#B2">vidyaḥ pradiśyate</rdg><rdg wit="#J2">vidyā prakāśayet</rdg><rdg wit="#V26">vidyā prakāśyate</rdg><rdg wit="#B3 #J13 #J14 #J15 #N1 #N2 #N6 #N17 #N19 #V4 #V8">yogopadiśyate</rdg><rdg wit="#N17">yogo pradiśyate</rdg><rdg wit="#C3">yogapradiśyate</rdg><rdg wit="#N10 #V11">yogaḥ pradṛśyate</rdg><rdg wit="#J10">yogoyadiśyate</rdg></app>// </l> </lg> <lg xml:id="hp13"> <l> <app><lem wit="#ceteri">bhrāntyā</lem><rdg wit="#C4 #C7 #J13 #J15 #L1 #N5 #N20 #V3 #V19">bhrāntvā</rdg><rdg wit="#J2">bhrātā</rdg><rdg wit="#N3">bhrāṃtā</rdg><rdg wit="#N24ac">bhrāṃtar</rdg><rdg wit="#M1">bhrāṃtair</rdg><rdg wit="#N22">bhrāṃnmā</rdg></app> <app><lem wit="#ceteri">bahu</lem><rdg wit="#J2 #J10">vahū</rdg><rdg wit="#V3">vaṃhu</rdg><rdg wit="#N24ac">bahā</rdg></app><app><lem wit="#ceteri">mata</lem><rdg wit="#V1">mataṃ</rdg><rdg wit="#V22">mate</rdg><rdg wit="#J2 #J17">matā</rdg><rdg wit="#J4">mati</rdg><rdg wit="#J15">matva</rdg><rdg wit="#N11">gata</rdg><rdg wit="#N24ac">{<supplied><gap reason="lost" unit="word" quantity="2"/></supplied>}</rdg></app><app><lem wit="#ceteri">dhvānte</lem><rdg wit="#C6 #V2 #V8 #V26 #N23">dhvāntai</rdg><rdg wit="#V6">dhvāntaiḥ</rdg><rdg wit="#J2">dhvāntā</rdg><rdg wit="#V1">bhrāntaṃ</rdg><rdg wit="#V22">dhyāna</rdg><rdg wit="#M1">bhrāṃtai</rdg><rdg wit="#V8">bhrāṃtair</rdg></app> <app><lem wit="#ceteri">rajayogam </lem><rdg wit="#J2 #M1 #N3 #N12 #N23 #V26">rājamārgam</rdg></app><app><lem wit="#ceteri">ajānatām</lem><rdg wit="#B2 #V6">ajānatā</rdg><rdg wit="#C3 #J1 #J4">ajānatam</rdg><rdg wit="#C1 #C4 #C7 #L1 #N5 #N16 #V5 #V19 #V26">ajānataḥ</rdg><rdg wit="#C2">prajānatāṃ</rdg><rdg wit="#J2">ajānate</rdg><rdg wit="#V8">ayānatāṃ</rdg><rdg wit="#N19">vijānatā</rdg><rdg wit="#N22">jānanaṃ</rdg></app>/</l> <l> haṭha<app><lem wit="#ceteri">pradīpikāṃ</lem><rdg wit="#C3">pradīpikaṃ</rdg><rdg wit="#J15">pradipakāṃ</rdg><rdg wit="#J2 #N16 #N19 #N22">pradīpikā</rdg><rdg wit="#V8">pradipikāṃ</rdg><rdg wit="#V2">pradīkāṃ</rdg></app> <app><lem wit="#ceteri">dhatte</lem><rdg wit="#V8">ddhatte</rdg><rdg wit="#L1">dharme</rdg><rdg wit="#J2">dhate</rdg><rdg wit="#C4ac #J15 #N5">cakre</rdg><rdg wit="#C6 #N19">datte</rdg><rdg wit="#V11">dhatve</rdg></app> <app><lem wit="#ceteri">svātmārāmaḥ</lem><rdg wit="#V3 #J1 #N22 #V6">svātmārāma</rdg><rdg wit="#N23">svātmārāme</rdg><rdg wit="#J2">svātmārāmo</rdg><rdg wit="#V26">ātmārāmo</rdg></app> <app><lem wit="#ceteri">kṛpākaraḥ</lem><rdg wit="#C4 #C7 #N5 #V19">kṛpāparaḥ</rdg><rdg wit="#C3">nhmākaraḥ</rdg><rdg wit="#J10 #J15 #J17 #N6 #N10 #N17 #V4 #V11">kṣamākaraḥ</rdg><rdg wit="#J2">niraṃjanaṃ</rdg><rdg wit="#V26">nirañjanaḥ</rdg><rdg wit="#V3">prakāśyate</rdg></app>//</l></lg> <lg xml:id="hp14"> <l> haṭha<app><lem wit="#ceteri">vidyāṃ hi</lem><rdg wit="#B1 #J1 #J2 #J13 #N6 #N13 #N16 #N17 #N19 #N21 #N23 #V1">vidyā hi</rdg><rdg wit="#J4">vidyāṃ tu</rdg><rdg wit="#N3">vidyo hi</rdg><rdg wit="#N5">vidyāṃ</rdg></app> <app><lem wit="#ceteri">matsyendra</lem><rdg wit="#N10">matseṃdra</rdg><rdg wit="#N23">tachaṃdra</rdg><rdg wit="#J13">matsyeṃdu</rdg><rdg wit="#J2">maccheṃdrā</rdg><rdg wit="#J2">machidra</rdg><rdg wit="#V5">machendraḥ </rdg></app><app><lem wit="#ceteri">gorakṣādyā</lem><rdg wit="#C6">gorakṣādya</rdg><rdg wit="#N5 #N17">gorakṣāyā</rdg><rdg wit="#J1">gorakṣādyo</rdg><rdg wit="#V5">gorakṣā</rdg><rdg wit="#V11">gorakṣyādyā</rdg></app> <app><lem wit="#ceteri">vijānate</lem><rdg wit="#B2 #M1">vijānatā</rdg><rdg>[wit={J2}]{hi jānate}<rdg wit="#N3">virājate</rdg><rdg wit="#V11">vijānateḥ</rdg></rdg></app>/</l> <l> <app><lem wit="#ceteri">svātmārāmo </lem><rdg wit="#C4ac #J1 #J3 #L1 #N5 #N11 #V19 #V26">ātmārāmo</rdg><rdg wit="#N16">ātmārāme</rdg><rdg wit="#V22">svātmārāmaḥ</rdg></app><app><lem wit="#ceteri">'thavā yogī</lem><rdg wit="#V4">athavā yogī</rdg><rdg wit="#V26">'thava yogī</rdg><rdg wit="#J4">mahāyogī</rdg><rdg wit="#C7 #V8"> yathā yogī</rdg><rdg wit="#J2">'thavā yena</rdg></app> <app><lem wit="#ceteri">jānīte</lem><rdg wit="#C4pc">jānati</rdg><rdg wit="#J2">vijñāna</rdg><rdg wit="#V3">jānante</rdg><rdg wit="#N22">jānate</rdg><rdg wit="#J15 #J17 #V8">jānite</rdg><rdg wit="#V8">jānita</rdg><rdg wit="#V5">jānitai</rdg><rdg wit="#V11">jānīmat</rdg></app> <app><lem wit="#ceteri">tatprasādataḥ</lem><rdg wit="#N1">tatprasāditaḥ</rdg></app>// </l> </lg> <lg xml:id="hp15"> <l> <app><lem wit="#ceteri">śrīādinātha</lem><rdg wit="#C3">ādināthāya</rdg><rdg wit="#C3 #V6">ādināthāś ca</rdg><rdg wit="#N5">śrīādināthāya</rdg><rdg wit="#J15 #V1" type="stemmaerror">śrīādināthādi</rdg><rdg wit="#B3 #C2 #J10 #J17 #N1 #N6 #N10 #N17 #V4 #V8 #V11" type="stemmapoint">ādināthādi</rdg><rdg wit="#B1" type="stemmaerror">ādinātha</rdg></app><app><lem wit="#ceteri">matsyendra</lem><rdg wit="#N10">matseṃdra</rdg><rdg wit="#V5">machedraḥ </rdg></app><app><lem wit="#ceteri">śābarā</lem><rdg wit="#C4ac #Tü">sāvarā</rdg><rdg wit="#B2 #N19">śāmbarā</rdg><rdg wit="#C3 #J4 #J2 #V3 #N20">sāgarā</rdg><rdg wit="#J15">śāgarā</rdg><rdg wit="#C1 #C7 #J3 #L1 #N11 #N12 #N16 #N24 #V2 #V19" type="stemmapoint">śāradā</rdg><rdg wit="#V5">sāradā</rdg><rdg wit="#V26">sāvadā</rdg><rdg wit="#N5">śāradaḥ </rdg><rdg wit="#J14 #N2 #N10">śāṃvarā</rdg><rdg wit="#V6">śācarā</rdg></app><app><lem wit="#ceteri">nanda</lem><rdg wit="#N24">nanta</rdg></app><app><lem wit="#ceteri">bhairavāḥ</lem><rdg wit="#J2 #J17 #N3 #N5 #N17 #N24 #V6">bhairavaḥ</rdg><rdg wit="#J1 #J15 #V3 #V8 #N22">bhairavā</rdg><rdg wit="#V26">bhaivarāḥ</rdg></app>/</l> <l> <app><lem wit="#ceteri">cauraṅgī</lem><rdg wit="#C3 #C4 #C7 #N5">caurāṅgī</rdg><rdg wit="#N10">coraṃgī</rdg><rdg wit="#B3">cāraṅgī</rdg><rdg wit="#M1">sauraṃgi</rdg><rdg wit="#J4">kuraṅgī</rdg><rdg wit="#J2">vaurago </rdg><rdg wit="#V8">cauragi</rdg><rdg wit="#N22">ca..raṃgī</rdg></app><app><lem wit="#ceteri">mīna</lem><rdg wit="#V19">khīna</rdg></app><app><lem wit="#ceteri">gorakṣa</lem><rdg wit="#J15">gaurakṣa</rdg><rdg wit="#V26">gaurakṣau </rdg><rdg wit="#N22">gorakṣaḥ </rdg><rdg wit="#J2">gorakṣo </rdg></app><app><lem wit="#ceteri">virūpākṣa</lem><rdg wit="#J15">virūpākṣya</rdg><rdg wit="#C3">virūpānkṣya</rdg><rdg wit="#J2">virūpācchaś </rdg><rdg wit="#V26">virūpākṣaś </rdg><rdg wit="#J17">virupākṣa</rdg><rdg wit="#N16">virūpaś ca</rdg><rdg wit="#N22 #V2">virūpākṣā</rdg><rdg wit="#J4">vipākṣa</rdg><rdg wit="#N3 #V19">virūpākṣaḥ </rdg><rdg wit="#N24">virūyākṣa</rdg></app><app><lem wit="#ceteri">bileśayāḥ</lem><rdg wit="#C2 #J1 #N2 #N5">vileśayā</rdg><rdg wit="#V6">bileśayaḥ</rdg><rdg wit="#J2">ca cetana</rdg><rdg wit="#V26">ca ceḍalaḥ</rdg><rdg wit="#N24">cileśayāḥ</rdg><rdg wit="#C2 #J1 #N2 #N5">vileśayā</rdg><rdg wit="#N3">savālmikaḥ</rdg><rdg wit="#V19">savālikaḥ</rdg><rdg wit="#J15 #V3">bileśayā</rdg><rdg wit="#V4">biśleśayāḥ</rdg></app>//</l> </lg> <lg xml:id="hp16"> <l> <app><lem wit="#ceteri">manthāna</lem><rdg wit="#B2" type="stemmaerror">śrīmanthāna</rdg><rdg wit="#C4 #L1 #N5">manthāra</rdg><rdg wit="#N13 #Tü #V1 #V22 #Vu">manthāno </rdg><rdg wit="#J2">mandāra</rdg></app><app><lem wit="#ceteri">bhairavo</lem><rdg wit="#N20">mairavo</rdg><rdg wit="#N23">bhairavā</rdg><rdg wit="#V26">bhaivarau</rdg></app> <app><lem wit="#ceteri">yogī</lem><rdg wit="#J2">jogī</rdg><rdg wit="#C1">siddha</rdg><rdg wit="#V5">siddhe</rdg><rdg wit="#J15 #V8">yogi</rdg></app> <app><lem wit="#ceteri">siddha</lem><rdg wit="#B1 #B3 #C2 #C3 #C4pc #C6 #N1 #J10 #J13 #J17 #N6 #N10 #N13 #N17 #Tü #V4 #V11 #V22 #V26" type="stemmapoint">śuddha</rdg><rdg wit="#J15">śruddha</rdg><rdg wit="#B2 #N19 #V6">siddho </rdg><rdg wit="#C1 #V5">yogī</rdg><rdg wit="#V1">suddha</rdg><rdg wit="#J1 #J3 #J14 #N2 #N16">siddhi</rdg><rdg wit="#J2">sandhi</rdg><rdg wit="#N20">viddha</rdg><rdg wit="#N22">sidha</rdg><rdg wit="#N24">siddhar </rdg><rdg wit="#V8">suddho</rdg></app><app><lem wit="#ceteri">buddhaś ca</lem><rdg wit="#J2">tudhiś ca</rdg><rdg wit="#C7">pādaś ca</rdg><rdg wit="#C6 #J1 #J3 #N3 #N16 #N20 #V2 #V3 #V26" type="stemmapoint">buddhiś ca</rdg><rdg wit="#N22">nudhaś ca</rdg><rdg wit="#N24">cuddhaś ca</rdg></app> <app><lem wit="#ceteri">kanthaḍiḥ</lem><rdg wit="#B1">kanthariḥ</rdg><rdg wit="#B2 #N23">kanthaḍīḥ</rdg><rdg wit="#C1 #C6 #J15 #N10 #N12 #N20 #N21 #V6">kanthaḍī</rdg><rdg wit="#C3">kanthaṭī</rdg><rdg wit="#C4ac">kukuḍiḥ</rdg><rdg wit="#V1 #J10pc #N3">kanthalī</rdg><rdg wit="#J10ac">kanhalī</rdg><rdg wit="#N5">kaṃtharī</rdg><rdg wit="#J2">kanthaḍi</rdg><rdg wit="#J17 #N6 #N17 #N22 #V4 #V11">kandalī</rdg><rdg wit="#V3">kanthaḍīṃ</rdg><rdg wit="#J1">kanthaviḥ</rdg><rdg wit="#V8">kandali</rdg><rdg wit="#N13">kaṃpaṭiḥ</rdg><rdg wit="#Tü">kaṃpaḍiḥ</rdg><rdg wit="#M1">paddhatiḥ</rdg><rdg wit="#V26">kānuṭiḥ</rdg></app>/</l> <l> <app><lem wit="#ceteri">pauraṇṭakaḥ </lem><rdg wit="#N22">pauraṃṭaka</rdg><rdg wit="#N5">pauraṃṭhakaḥ </rdg><rdg wit="#B1 #N1 #N10 #V6">pauraṇḍakaḥ </rdg><rdg wit="#V11">pauraṇḍakaṃ </rdg><rdg wit="#B2">pauraṇḍaṅka</rdg><rdg wit="#C3">pauraṃṭaṃka</rdg><rdg wit="#N16 #N24">kauraṇṭakaḥ </rdg><rdg wit="#N12">kauraṃṭaka</rdg><rdg wit="#J14 #V26">kauraṇḍakaḥ </rdg><rdg wit="#J2">koraṃṭaka</rdg><rdg wit="#J4 #N21 #N23">koraṃtakaḥ </rdg><rdg wit="#C6 #N13 #Tü #V22 #Vu" type="stemmapoint">koraṃṭakaḥ </rdg><rdg wit="#N2">koraṇṭīkaḥ </rdg><rdg wit="#N3">goraṃṭaka</rdg><rdg wit="#M1">ghoraṃṭakaḥ </rdg><rdg wit="#V8">kāhapauraṇṭaka</rdg><rdg wit="#Vu">koraṃḍīka</rdg><rdg wit="#V2">kauraṃḍīkaḥ </rdg><rdg wit="#N20">paura...kaḥ </rdg><rdg wit="#C1 #J3 #L1 #N11 #V5 #V19">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">surānandaḥ </lem><rdg wit="#B2 #N12">sarānanda</rdg><rdg wit="#C2 #J2 #N2 #N3 #V3 #N22 #V2">surānanda</rdg><rdg wit="#N24">śurānaṃdaḥ </rdg><rdg wit="#J4">sarānandaḥ </rdg><rdg wit="#C1 #J3 #L1 #N11 #V5 #V19">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">siddha</lem><rdg wit="#V1 #J1 #J2 #N16 #N24">siddhi</rdg><rdg wit="#V8">siddhā</rdg><rdg wit="#C1 #J3 #L1 #N11 #V5 #V19">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">pādaś ca</lem><rdg wit="#N22">pāda</rdg><rdg wit="#C1 #J3 #L1 #N11 #V5 #V19">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri"/><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">carpaṭiḥ</lem><rdg wit="#B1 #B2 #N2 #N17 #N23 #V3 #V4">carppaṭiḥ</rdg><rdg wit="#C3 #J17 #V6">carppaṭī</rdg><rdg wit="#C4ac #C6 #C7 #V1 #V2">carpaṭī</rdg><rdg wit="#C4pc #J1 #J15 #N3 #V8 #N24">carpaṭi</rdg><rdg wit="#J2">tarpaṭi</rdg><rdg wit="#M1">parpaṭiḥ</rdg><rdg wit="#N5">carpaṭīḥ</rdg><rdg wit="#N11 #V11">carpaṭaḥ</rdg><rdg wit="#C1 #J3 #L1 #N11 #V5 #V19">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app>//</l> </lg> <lg xml:id="hp17"> <l> <app><lem wit="#ceteri">kānerī</lem><rdg wit="#C6 #J14 #N2 #N3 #N19 #V2 #V6">kanerī</rdg><rdg wit="#J3 #V1 #N11">kaṇerī</rdg><rdg wit="#J1">kāṇarī</rdg><rdg wit="#V8">kaneri</rdg><rdg wit="#B1 #B3">kāṇerī</rdg><rdg wit="#N16">naiṃkerī</rdg><rdg wit="#N17">kāneri</rdg><rdg wit="#N17">kārnerī</rdg><rdg wit="#B2">kirīla</rdg><rdg wit="#C1">varaiṇya</rdg><rdg wit="#J4 #V19">kaṇirī</rdg><rdg wit="#J2">karṇirī</rdg><rdg wit="#C4ac #C7 #L1 #N5">karaṇī</rdg><rdg wit="#V5">kareṇī</rdg><rdg wit="#N12">karauṭī</rdg><rdg wit="#N20">kaverī</rdg><rdg wit="#V26">kāvarī</rdg><rdg wit="#M1">karoṭiḥ</rdg><rdg wit="#V11">kālerī</rdg></app> <app><lem wit="#ceteri">pūjya</lem><rdg wit="#V1">pūrya</rdg><rdg wit="#B1 #B3 #C2 #J10 #J15 #J17 #N10 #N22 #V6 #V11">pūrva</rdg><rdg wit="#V4">pūrvva</rdg><rdg wit="#J4">sarva</rdg></app> <app><lem wit="#ceteri">pādaś ca</lem><rdg wit="#J1">pāṇaś ca</rdg><rdg wit="#N20">nāthaś ca</rdg></app> <app><lem wit="#ceteri">nityanātho</lem><rdg wit="#B1 #B3 #C2 #C4pc #J10 #J13 #J17 #N6 #N10 #N17 #V4 #V6" type="stemmapoint">dhvaninātho</rdg><rdg wit="#C3 #C4ac #J15">siddhanātho</rdg><rdg wit="#C7 #L1 #N5 #V19">bilvanātho</rdg><rdg wit="#N1">dhaninātho</rdg><rdg wit="#V11">ninātho</rdg></app> <app><lem wit="#ceteri">nirañjanaḥ</lem><rdg wit="#N5">nirantanaḥ</rdg><rdg wit="#J15 #V3">nirañjanaṃ</rdg><rdg wit="#J1 #V8">nirañjana</rdg><rdg wit="#V26">virañjanaḥ</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app>/</l> <l> <app><lem wit="#ceteri">kapālī</lem><rdg wit="#J2 #J15">kapāli</rdg><rdg wit="#C1 #C2 #J14 #N2 #V2">kāpālī</rdg><rdg wit="#N19">kāpāli</rdg><rdg wit="#N20 #N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg><rdg wit="#J13">kāpilī</rdg><rdg wit="#V22">kapālir</rdg><rdg wit="#V26">kalāpī</rdg></app> <app><lem wit="#ceteri">bindunāthaś ca</lem><rdg wit="#V1 #B1 #B2 #B3 #J2 #M1">bindunādaś ca</rdg><rdg wit="#N20 #N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg><rdg wit="#V8">bindunāthasya</rdg></app> <app><lem wit="#C6 #N13 #N23 #Tü #V1 #Vu">kākacaṇḍīśvarāhvayaḥ</lem><rdg wit="#ceteri">kākacaṇḍīśvarādayaḥ</rdg><rdg wit="#B2 #N19">kākacaṇḍīśvaro mayaḥ</rdg><rdg wit="#J3 #V19">kālacaṃḍīsvarādayaḥ</rdg><rdg wit="#N5">kākacaṇḍisu ādayaḥ</rdg><rdg wit="#N16">kākacaṃndrīśvarādayaḥ</rdg><rdg wit="#V8">kāṃkāṃcaṃdrisvarādayaḥ</rdg><rdg wit="#J2">kālacaṃḍīsvarāhūyaṃ</rdg><rdg wit="#N3">kākacaṃdeśvarogayaḥ</rdg><rdg wit="#N20 #N22">{<supplied><gap reason="lost" unit="word" quantity="2"/></supplied>}</rdg><rdg wit="#N24">kākacaṃḍiśvarāhayaḥ</rdg><rdg wit="#M1">kākacaṃteśvaro mayaḥ</rdg><rdg wit="#V26">kākaguṇḍīśvarāhvayaḥ</rdg><rdg wit="#V11">kākacaṇṭīdayākaraḥ</rdg><rdg wit="#N12">kākacaṇḍīśvaromayaḥ</rdg><rdg wit="#J15">kākacaṇḍīśvarādaya</rdg><rdg wit="#N11">kākacaṇḍīśvarogajaḥ</rdg><rdg wit="#J4">kākacaṇḍīśvarāhayaḥ</rdg><rdg wit="#V22">kākacaṇḍīśvarā .. ..ḥ</rdg><rdg wit="#N21">kākacaṇḍīśvarāvayaḥ</rdg></app> //</l> </lg> <lg xml:id="hp18"> <l> <app><lem resp="#nos" type="conjecture">allāma</lem><rdg wit="#Tü #V1 #V3 #V8 #V22 #Vu #N24">allāmaḥ </rdg><rdg wit="#N13 #J10 #J15 #J17 #N20">allamaḥ </rdg><rdg wit="#M1">allama</rdg><rdg wit="#N10">allāmā</rdg><rdg wit="#B1 #N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg><rdg wit="#B2">mallama</rdg><rdg wit="#B3 #C2 #N1">agastyaḥ </rdg><rdg wit="#J2 #J4">ahlama</rdg><rdg wit="#V4">ahyamaḥ </rdg><rdg wit="#C1 #C7 #J13 #L1 #N5">sukṣamaḥ </rdg><rdg wit="#C3">alamaḥ </rdg><rdg wit="#C6 #N2 #V2">alasaḥ </rdg><rdg wit="#N3">alama</rdg><rdg wit="#N6 #V26">akṣamaḥ </rdg><rdg wit="#C4pc #N11">hallamaḥ </rdg><rdg wit="#N12">akleśaḥ </rdg><rdg wit="#J14">akleśa</rdg><rdg wit="#J1 #N16">adhvamaḥ </rdg><rdg wit="#N17">aśamaḥ </rdg><rdg wit="#N19 #N23 #V6 #V11">allasaḥ </rdg><rdg wit="#N21">alasa</rdg><rdg wit="#J3">arṇamaḥ </rdg><rdg wit="#V19">sukṣimaḥ </rdg><rdg wit="#C4ac #V5">sukṣamaḥ </rdg></app><app><lem wit="#ceteri">prabhudevaś ca</lem><rdg wit="#J2">prabhuṃ devasya</rdg><rdg wit="#M1">+ + [deva]śca</rdg><rdg wit="#V8 #N19">prabhudevasya</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">ghoḍācolī</lem><rdg wit="#C6">goḍācūlī</rdg><rdg wit="#V1 #B3 #C3 #J10 #J13 #J17 #L1 #N6 #N10 #N21 #V4">ghorācolī</rdg><rdg wit="#V11">ghorācola</rdg><rdg wit="#V8">ghoḍācoli</rdg><rdg wit="#B1">ghorāvolā</rdg><rdg wit="#C2">ghojacolī</rdg><rdg wit="#N3 #V26">ghoḍāculī</rdg><rdg wit="#M1 #N23">ghoḍācūlī</rdg><rdg wit="#J4">ghoḍāvolī</rdg><rdg wit="#N5">vaḍācolī</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg><rdg wit="#V5">ghogacolī</rdg><rdg wit="#V19">ghoṭācoli</rdg><rdg wit="#V22">gho .. co .ī</rdg></app> <app><lem wit="#ceteri">ca</lem><rdg wit="#C7 #L1 #N5">gha</rdg><rdg wit="#V19">sa</rdg><rdg wit="#V11">la</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#B1 #C1 #J3 #J10 #J13 #J17 #N17 #N19 #N24 #V1 #V2">ṭiṇṭiṇī</lem><rdg wit="#C2 #C3 #N5">ṭiṇṭiṇīḥ</rdg><rdg wit="#C6">ṭiṃṭaṇīḥ</rdg><rdg wit="#N21">tiṇṭiṇī</rdg><rdg wit="#V11">tiṇṭinī</rdg><rdg wit="#V6">tiṇṭaṇi</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg><rdg wit="#C4 #J1 #N3 #N6 #N10 #N13 #N16 #Tü #V5 #V22 #Vu">ṭiṇṭiṇiḥ</rdg><rdg wit="#V4">ṭiṇṭiṇaḥ</rdg><rdg wit="#V19">ṭiṇṭiniḥ</rdg><rdg wit="#N3">ṭimbhiṇiḥ</rdg><rdg wit="#N2">ṭiṭiṇī</rdg><rdg wit="#N23">tīṭiṇi</rdg><rdg wit="#L1">ṭiṇṭhiṇiḥ</rdg><rdg wit="#N1">ṭiṇṭhiṇīḥ</rdg><rdg wit="#B3">ṭhiṇṭhiṇīḥ</rdg><rdg wit="#M1">ṭiṭṭibhaḥ</rdg><rdg wit="#B2">ciṃciṇīḥ</rdg><rdg wit="#J2 #N12 #V3">ciṃciṇī</rdg><rdg wit="#V8">ciṃciṇi</rdg><rdg wit="#J4">ciṃviṇī</rdg><rdg wit="#J15">ciṃcaṇi</rdg><rdg wit="#J14">ciṃcaṇī</rdg><rdg wit="#N11">carpaṭaḥ</rdg><rdg wit="#N20 #V26">ciṃcilī</rdg></app> /</l> <l> <app><lem wit="#ceteri">bhālukī</lem><rdg wit="#N21">bālukī</rdg><rdg wit="#C3">bhālukāṃ</rdg><rdg wit="#N3">bhāluki</rdg><rdg wit="#J13">bhālukīr</rdg><rdg wit="#C4pc #J3 #N11 #N24 #V5">bhālukir</rdg><rdg wit="#J1 #B1 #V11">bhālukā</rdg><rdg wit="#N1 #V6">bhāluko</rdg><rdg wit="#B3">bhānukā</rdg><rdg wit="#C1 #L1 #M1">bālukīr</rdg><rdg wit="#C4ac #V19">vālukir</rdg><rdg wit="#N2">vālakī</rdg><rdg wit="#C7 #N5">vālakir</rdg><rdg wit="#B2 #J2 #N20">vāsukī</rdg><rdg wit="#V8 #V26">vāsuki</rdg><rdg wit="#J4 #V3 #J15 #N16">vāsukir</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg><rdg wit="#Vu">bhānukī</rdg><rdg wit="#N23">bhānuki</rdg></app> <app><lem wit="#ceteri">nāgabodhaś ca</lem><rdg wit="#N12">nāgavādhiś ca</rdg><rdg wit="#J14">nāgavedhaś ca</rdg><rdg wit="#N3">nami auḍḍīśa</rdg><rdg wit="#M1">nāma bhojaś ca</rdg><rdg wit="#N10 #V4">nāma bodhaś ca</rdg><rdg wit="#C6 #N13 #V22 #V26">nāgadevaś ca</rdg><rdg wit="#Vu">nāradevaś ca</rdg><rdg wit="#Tü">nārādevaś ca</rdg><rdg wit="#V8">nāgaboś ca</rdg><rdg wit="#J1">nālabodhaś ca</rdg><rdg wit="#N20 #V19">nāgarodhaś ca</rdg><rdg wit="#V6">vānabodhaś ca</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg><rdg wit="#N24">nā .. .. .. ś ca</rdg></app> <app><lem wit="#ceteri">khaṇḍa</lem><rdg wit="#B1">khaṇḍī</rdg><rdg wit="#N17 #V1 #N23">khaṇḍaṃ</rdg><rdg wit="#B3 #C6 #N10">khaṇḍi</rdg><rdg wit="#C1 #C4ac #C7 #J13 #V2 #V5">caṇḍa</rdg><rdg wit="#N5">caṇḍi</rdg><rdg wit="#V19">caṇḍī</rdg><rdg wit="#J4 #M1 #Vu #N21 #N24">khaṇḍaḥ </rdg><rdg wit="#J2">sidhaiḥ </rdg><rdg wit="#N3">siddhaḥ </rdg><rdg wit="#N11">ṣaṇḍaḥ </rdg><rdg wit="#N19">paṃḍa</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">kāpālikas tathā</lem><rdg wit="#C6">kaḥ pālikās tathā</rdg><rdg wit="#N1 #N2 #N16 #N20">kāpālikās tathā</rdg><rdg wit="#V11">kīpālikas tathā</rdg><rdg wit="#V19">kāpālikaḥs tathā</rdg><rdg wit="#J14">kāpālakās tathā</rdg><rdg wit="#V2">kapālakās tathā</rdg><rdg wit="#J17">kapālikas tathā</rdg><rdg wit="#M1">kāhelikas tathā</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg><rdg wit="#N24">kāpālīkas tathāḥ</rdg></app>//</l> </lg> <lg xml:id="hp19"> <l> <app><lem wit="#ceteri">ity ādayo</lem><rdg wit="#J2">ity āghayo</rdg><rdg wit="#V22">ity ādayā</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">mahāsiddhā</lem><rdg wit="#J1 #N2 #N13 #Tü">mahāsiddhāḥ</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">haṭhayoga</lem><rdg wit="#N5 #N13 #V11">haṭhayogaḥ</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">prabhāvataḥ</lem><rdg wit="#J2">prabhāvata</rdg><rdg wit="#C6 #M1 #N12 #N20 #N21 #N23 #V3 #V11" type="stemmapoint">prasādataḥ</rdg><rdg wit="#V8"> adhaprasādataḥ</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> /</l> <l> <app><lem wit="#ceteri">khaṇḍayitvā</lem><rdg wit="#C3">khaṃḍītvā</rdg><rdg wit="#V19">khaṃḍayatvā</rdg><rdg wit="#N16">khaṃḍamitvā</rdg><rdg wit="#J2">ṣaṃḍapitvā</rdg><rdg wit="#N20">vaṃcayitvā</rdg><rdg wit="#V8">khaṇḍayaṃyitvā</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">kāladaṇḍaṃ</lem><rdg wit="#C3">kāladaṃḍa ca</rdg><rdg wit="#N3">kāradaṃḍaṃ</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">brahmāṇḍe</lem><rdg wit="#B3 #C2 #J4 #N1 #N21 #V2">brahmāṇḍaṃ</rdg><rdg wit="#M1 #N3">brahmāṃḍeṣu</rdg><rdg wit="#N19">brahmāṃḍa</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">vicaranti</lem><rdg wit="#J14 #N2">viramanti</rdg><rdg wit="#M1 #N3 #V19">ṣu caraṃti</rdg><rdg wit="#V3">tu caranti</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> te//</l> </lg> <lg xml:id="hp110"> <l> <app><lem wit="#ceteri">saṃsāra</lem><rdg wit="#N1">saṃsāra</rdg><rdg wit="#V3">saṃsārā</rdg><rdg wit="#C6 #N13 #V22 #Tü #Vu">aśeṣa</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">tāpa</lem><rdg wit="#N1">tāpa</rdg><rdg wit="#Tü">tāya</rdg><rdg wit="#C3 #C4pc #J10 #J15 #J17 #N6 #N10 #N17 #N20 #V3 #V4 #V11" type="stemmapoint">śrama</rdg><rdg wit="#J1">tapi</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">taptānāṃ</lem><rdg wit="#B3 #C2 #J13 #J15 #J17 #N6 #N1 #N10 #N17 #N20 #V3 #V4 #V6">taptānām</rdg><rdg wit="#V8">taptanām</rdg><rdg wit="#J2">tamānāṃ</rdg><rdg wit="#V11">cintānām</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#V1 #B1 #C1 #V8">samāśrayo</lem><rdg wit="#B3 #C2 #C3 #J13 #J15 #J17 #N6 #N10 #N17 #N20 #N21 #V3 #V4 #V6 #V11" type="stemmapoint">āśrayo yaṃ</rdg><rdg wit="#J10">māśrayo yaṃ</rdg><rdg wit="#ceteri">samāśraya</rdg><rdg wit="#V2">samāśrayaṃ</rdg><rdg wit="#C4 #C6 #C7 #L1">śamāśraya</rdg><rdg wit="#J2">samīśraya</rdg><rdg wit="#N1">āścaryo yaṃ</rdg><rdg wit="#N3">samaśra</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">haṭho mataḥ</lem><rdg wit="#N1">haṭho mataḥ</rdg><rdg wit="#N2 #N21 #V19 #V26">mato haṭhaḥ</rdg><rdg wit="#V1">haṭho maṭhaḥ</rdg><rdg wit="#C1 #C4 #C6 #C7 #J3 #J14 #L1 #M1 #N5 #N11 #N12 #N13 #N19 #N23 #Tü #V2 #V5 #Vu">maṭho haṭhaḥ</rdg><rdg wit="#B2">māṭhe haṭhaḥ</rdg><rdg wit="#J4">māṭho haṭhaḥ</rdg><rdg wit="#N16">maho haṭha</rdg><rdg wit="#J1">maho haṭhaḥ</rdg><rdg wit="#J2">maho hagaṃ</rdg><rdg wit="#V8">maho haṭho mata</rdg><rdg wit="#N3">prathamo haṭhaḥ</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg><rdg wit="#N24">nago haṭhaḥ</rdg><rdg wit="#V22">maṭhā haṭaḥ</rdg></app>/</l> <l> <app><lem wit="#ceteri">aśeṣayoga</lem><rdg wit="#C3 #N6">aśeṣo yoga</rdg><rdg wit="#V4">aśeṣaḥ yoga</rdg><rdg wit="#V2">aśeṣaṃ yoga</rdg><rdg wit="#J14">aśeṣayoge</rdg><rdg wit="#B2">eṣayogaś ca</rdg><rdg wit="#J2">aśeṣajoga</rdg><rdg wit="#N3 #N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg><rdg wit="#N23">aśeṣe yoga</rdg></app><app><lem wit="#ceteri">jagatām </lem><rdg wit="#N1 #V1">jagatīm </rdg><rdg wit="#N10 #V4" type="stemmaerrort">jatām</rdg><rdg wit="#N11">jālānām</rdg><rdg wit="#C4pc">jātīnām</rdg><rdg wit="#N21 #N24">jātānām</rdg><rdg wit="#C1 #C3 #C4ac #C6 #J4 #J15 #N13 #N20 #Tü #V3 #V6 #Vu" type="stemmapoint">yuktānām</rdg><rdg wit="#J17">juktānām</rdg><rdg wit="#V22">.. .. .. .</rdg><rdg wit="#V8">tantrāṇām</rdg><rdg wit="#J2 #V26">vijñāna</rdg><rdg wit="#N12">vijñānaḥ</rdg><rdg wit="#N3 #N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">ādhāra</lem><rdg wit="#N1">ādhāra</rdg><rdg wit="#C3">ādharaḥ</rdg><rdg wit="#V1 #V8">ādhāre</rdg><rdg wit="#B1 #B3 #C2 #J4 #J17 #N2 #N6 #N17 #N20 #V2 #V3 #V4 #V11 #V19">ādhāraḥ</rdg><rdg wit="#J10">ādhārā</rdg><rdg wit="#L1 #V6">ādhārai</rdg><rdg wit="#N19">ptādhāraḥ</rdg><rdg wit="#J2 #V26 #N12">sarva</rdg><rdg wit="#N3 #N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">kamaṭho</lem><rdg wit="#N1">kamaṭho</rdg><rdg wit="#V1 #V6">ka haṭho</rdg><rdg wit="#V5">kaṃ maṭho</rdg><rdg wit="#B2">kamaṭhe</rdg><rdg wit="#N21">kaṃato</rdg><rdg wit="#J3">kamalo</rdg><rdg wit="#N17">kama</rdg><rdg wit="#J2 #V26 #N12">siddhi</rdg><rdg wit="#N3 #N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">haṭhaḥ</lem><rdg wit="#N1">haṭhaḥ</rdg><rdg wit="#V1 #V6">maṭhaḥ</rdg><rdg wit="#J15 #J17 #V5">haṭha</rdg><rdg wit="#C2">haraḥ</rdg><rdg wit="#J14 #N20 #V2">yathā</rdg><rdg wit="#N3 #N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg><rdg wit="#V22">haṭaḥ</rdg><rdg wit="#J2">pradāyakā</rdg><rdg wit="#V26 #N12">pradāyakaḥ</rdg></app>//</l> </lg> <lg xml:id="hp111"> <l> <app><lem wit="#ceteri">haṭhavidyā</lem><rdg wit="#J15 #J17">haṭhavidyāṃ</rdg><rdg wit="#V22">haṭavidyā</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">paraṃ</lem><rdg wit="#C3 #C4">parā</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">gopyā</lem><rdg wit="#B2 #N5 #V3">gopyaṃ</rdg><rdg wit="#J15 #N16">gopya</rdg><rdg wit="#J4">gopyāṃ</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">yogināṃ</lem><rdg wit="#B1 #C1 #C4 #C7 #J3 #J13 #L1 #M1 #N10 #N11 #N13 #N19 #N20 #N21 #N24 #V2 #V5 #V11 #V19 #V26 #Vu #YC">yoginā</rdg><rdg wit="#J2">yogino</rdg><rdg wit="#V22">yogi ..</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">siddhim </lem><rdg wit="#C3">siddha</rdg><rdg wit="#L1">middhi</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">icchatām</lem><rdg wit="#B1 #B3 #C1 #C3 #C4 #C6 #C7 #J3 #J13 #L1 #M1 #N10 #N11 #N12 #N13 #N16 #N19 #N20 #N21 #N24 #Tü #V2 #V5 #V19 #V22 #V26 #Vu #YC">icchatā</rdg><rdg wit="#C2">idhutā</rdg><rdg wit="#J2">ichitā</rdg><rdg wit="#V11">icchito</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app>/</l> <l> <app><lem wit="#ceteri">bhaved </lem><rdg wit="#V5">ude</rdg><rdg wit="#J15">bhaverd</rdg></app><app><lem wit="#ceteri">vīryavatī</lem><rdg wit="#M1">virvati</rdg><rdg wit="#V8 #N19 #N24">vīryavati</rdg><rdg wit="#J15">viryavati</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">guptā</lem><rdg wit="#J1">goptā</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">nirvīryā</lem><rdg wit="#J15 #N6 #V8">nirviryā</rdg><rdg wit="#B2 #C3">nirvīyyā</rdg><rdg wit="#N11 #V19">nirvījā</rdg><rdg wit="#N17">nirvvār..</rdg><rdg wit="#N16">nivīryyā</rdg><rdg wit="#M1">niviniryā</rdg><rdg wit="#C6 #J1">nivīryā</rdg><rdg wit="#J2">niḥvīryā</rdg><rdg wit="#J10 #N10">nirvāryā</rdg><rdg wit="#J3">nirbījā</rdg><rdg wit="#V11">nirbījī</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">tu</lem><rdg wit="#M1 #N5 #N19 #V26">ti</rdg><rdg wit="#J4 #V19">va</rdg><rdg wit="#C1 #J1 #J2 #J14 #J15 #J17">nu</rdg><rdg wit="#V6">su</rdg><rdg wit="#N3">ca</rdg><rdg wit="#V22">..</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">prakāśitā</lem><rdg wit="#J2">prakāśiyet</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app>//</l> </lg> <lg xml:id="hp112"> <l> <app><lem wit="#ceteri">surājye</lem><rdg wit="#M1 #N11 #N12">surāṣṭre</rdg><rdg wit="#V8">surāje</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg><rdg wit="#N24">surājya</rdg></app> <app><lem wit="#ceteri">dhārmike deśe</lem><rdg wit="#B2 #N17 #N19 #V11">dhārmmike deśe</rdg><rdg wit="#M1">dharmadeśe ca</rdg><rdg wit="#V8">dhārmike deśa</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">subhikṣe</lem><rdg wit="#V5">surbhikṣe</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">nirupadrave</lem><rdg wit="#J17">nirupadravai</rdg><rdg wit="#V8">virye nirupadrave</rdg><rdg wit="#J2">nirudrave</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app>/</l> <l> <app><lem wit="#J3"><supplied>ahiṃsā satyam asteyaṃ brahmacaryaṃ kṣamādhṛtiḥ/</supplied></lem><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="words" quantity="6"/></supplied></rdg></app></l> <l> <app><lem wit="#J3"><supplied>devārcanaṃ mitāhāraśauca caiva yamādaśa//</supplied></lem><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="words" quantity="7"/></supplied></rdg></app></l> <l> <app><lem wit="#J3"><supplied>tapaḥ santoṣa āstikyaṃ dānam īśvarapūjanam/</supplied></lem><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="words" quantity="5"/></supplied></rdg></app></l> <l> <app><lem wit="#J3"><supplied>siddhāṃtaśravaṇaṃ caiva hrīr matiś ca japo hutam//</supplied></lem><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="words" quantity="5"/></supplied></rdg></app></l> <l> <app><lem wit="#B1 #C2 #J3 #J14 #Vu #V2 #V8"><supplied>dhanuḥpramāṇaparyaṃtaṃ</supplied></lem><rdg wit="#J13 #N1 #N2"><supplied>dhanupramāṇaparyantaṃ</supplied></rdg><rdg wit="#V4"><supplied>dhanuḥpramāṇaparyanta </supplied></rdg><rdg wit="#B3 #N13"><supplied>dhanuḥpramāṇaparyyaṃte</supplied></rdg><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="words" quantity="1"/></supplied></rdg></app> <app><lem wit="#B1 #N13"><supplied>śilāgnijalavarjjitaṃ//</supplied></lem><rdg wit="#B3 #N1 #N13 #C2 #V2 #V4 #V8 #J3 #Vu"><supplied>śilāgnijalavarjjite</supplied></rdg><rdg wit="#N2"><supplied>śilājalāgnivarjitā</supplied></rdg><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="words" quantity="1"/></supplied></rdg></app></l> <l> <app><lem wit="#ceteri">ekānte</lem><rdg wit="#C1 #C6 #C7 #J4 #J14 #L1 #M1 #N5 #N3 #N11 #N16 #N23 #V19">ekānta</rdg><rdg wit="#N2">ekānti</rdg><rdg wit="#V22">ekā..</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">maṭhikā</lem><rdg wit="#N3 #N17">maṭikā</rdg><rdg wit="#V11">maṭhika</rdg><rdg wit="#J2">vedikā</rdg><rdg wit="#N16">matikā</rdg><rdg wit="#M1">[ma]tikā</rdg><rdg wit="#J1">bhuvikā</rdg><rdg wit="#V5">maṭhi</rdg><rdg wit="#V22">.. .. kā</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">madhye</lem><rdg wit="#C6">sidhyai</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">sthātavyaṃ</lem><rdg wit="#J15">schātavyaṃ</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">haṭha</lem><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">yoginā</lem><rdg wit="#C1">yogataḥ</rdg><rdg wit="#J17 #N3 #V6">yogināṃ</rdg><rdg wit="#V22">yo.. ..</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg><rdg wit="#V8">yoginā bāhye maṇḍapa</rdg></app>// </l> <l> <app><lem wit="#B3"><supplied>yuktāhāravihāreṇa haṭhayogaḥ prasiddhaye/</supplied></lem><rdg wit="#C3"><supplied>yuktāhāravihāreṇa haṭhayogaḥ prasiddhaye</supplied></rdg><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="word" quantity="5"/></supplied></rdg></app></l> </lg> <lg xml:id="hp113"> <l> <app><lem wit="#ceteri">alpadvāram </lem><rdg wit="#J14">anyadvāram</rdg><rdg wit="#B3">alpāhāram</rdg><rdg wit="#V22">alpā.. ..</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg><rdg wit="#N23">ākalpadvār</rdg><rdg wit="#V11">svalpadvāra</rdg></app><app><lem wit="#ceteri">arandhra</lem><rdg wit="#N16">agartta</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg><rdg wit="#N23">raṃdhra</rdg><rdg wit="#V22">marandhraṃ</rdg></app><app><lem wit="#ceteri">garta</lem><rdg wit="#B1 #N5">gataṃ </rdg><rdg wit="#J3 #J4 #N3 #B2 #C6 #N17 #V3 #N23 #N24 #V2 #V4 #V5 #V6 #V19">gartta</rdg><rdg wit="#J2">garte </rdg><rdg wit="#B3 #C2 #M1a #N1 #N2">garbha</rdg><rdg wit="#N16">yatra</rdg><rdg wit="#N19">garnta</rdg><rdg wit="#V22">garta</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#V1">sahitaṃ</lem><rdg wit="#B1">pīṭhakāṃ</rdg><rdg wit="#B2">piṭhikāṃ</rdg><rdg wit="#N23">piṭhikaṃ</rdg><rdg wit="#B3">puṭakaṃ</rdg><rdg wit="#C2">puṭavūṃ</rdg><rdg wit="#C3">piṭapaṃ</rdg><rdg wit="#N12 #V26 #V11">puṭitaṃ</rdg><rdg wit="#N19">piṭikāṃ</rdg><rdg wit="#C1 #C6">paṭikaṃ</rdg><rdg wit="#J4">piṭakaṃ</rdg><rdg wit="#J1 #J3 #J10ac #J14 #J15 #N2 #N16 #N20 #V3 #V4">viṭapaṃ</rdg><rdg wit="#N10">viṭapa</rdg><rdg wit="#J10pc">viṭharaṃ</rdg><rdg wit="#V8">vaṭhipaṃ maṭhikaṃ </rdg><rdg wit="#C4 #J13 #L1 #M1 #N6 #N11 #N17 #V6 #V19">piṭharaṃ</rdg><rdg wit="#C7 #N5">piṭhiraṃ</rdg><rdg wit="#N1">pīṭhaṃ</rdg><rdg wit="#J17 #N3 #N21">piṭhakaṃ</rdg><rdg wit="#J2">puṭitam</rdg><rdg wit="#N13 #Tü #V22 #Vu">vivaraṃ</rdg><rdg wit="#V5">vivara</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg><rdg wit="#N24">viṭharaṃ</rdg><rdg wit="#V2 #YC">ghaṭitaṃ</rdg></app> <app><lem wit="#ceteri">nātyuccanīcā</lem><rdg wit="#J17">nātyuccānīcā</rdg><rdg wit="#V8">nātyucanicā</rdg><rdg wit="#C1">nānyuddhanīcā</rdg><rdg wit="#J4">nāḍayuccanīcā</rdg><rdg wit="#N3">nātyuccanīkā</rdg><rdg wit="#N16 #V3">nātyuccanoccā</rdg><rdg wit="#V22">.. yuccanīcā</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg><rdg wit="#N23">nātyuccanaṃcā</rdg></app><app><lem wit="#B3 #J14 #N2 #N17 #V1">yutaṃ</lem><rdg wit="#ceteri">yataṃ</rdg><rdg wit="#C2">pataṃ</rdg><rdg wit="#V8">yata</rdg><rdg wit="#N5">ryataṃ</rdg><rdg wit="#N10">rpitaṃ</rdg><rdg wit="#V22">.. .ṃ</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg><rdg wit="#C4 #J1 #J3 #J13 #L1 #N6 #N11 #N16 #N20 #J10 #YC">yitaṃ</rdg><rdg wit="#C3 #J17 #V4 #V5">pitaṃ</rdg><rdg wit="#V6">pittaṃ</rdg><rdg wit="#V26">tmakaṃ</rdg><rdg wit="#J2">vṛtaṃ</rdg><rdg wit="#V2">sānaṃ</rdg></app>/</l> <l> <app><lem wit="#ceteri">samyag </lem><rdg wit="#B2">samyaṃ</rdg><rdg wit="#J4">sāṃyaṃ</rdg><rdg wit="#J13 #V1 #N2 #N19 #V11">samyak</rdg><rdg wit="#N3">saṃ</rdg><rdg wit="#V8">liptaṃ</rdg><rdg wit="#N21">ramyaṃ</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">gomaya</lem><rdg wit="#C4 #C6 #V3 #V8 #N13 #N19 #N21 #N23 #Tü #V4 #V11">gomaya</rdg><rdg wit="#V26">jogamaya</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">sāndra</lem><rdg wit="#B2 #V5">sārddha</rdg><rdg wit="#B1 #J10 #N2 #N6 #N19 #V4">sārdra</rdg><rdg wit="#V11">saddhi</rdg><rdg wit="#J17">sāṃrdra</rdg><rdg wit="#V22">sāṃ ..</rdg><rdg wit="#V26">syantra</rdg><rdg wit="#J2">saṃpra</rdg><rdg wit="#N3">sāpra</rdg><rdg wit="#V8">mṛtti</rdg><rdg wit="#N20">lipta</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#C3 #C4 #C6 #J10 #J15 #M1 #N6 #N10 #N13 #N17 #N23 #Tü #V4 #V6 #V11 #V19 #V22 #Vu">liptamamalaṃ</lem><rdg wit="#J17">līptam amalaṃ</rdg><rdg wit="#V1">liptam abijaṃ</rdg><rdg wit="#ceteri">liptavimalaṃ</rdg><rdg wit="#V5">liptavimaṭaṃ</rdg><rdg wit="#N12">lepavimalaṃ</rdg><rdg wit="#V8">kābhiramalaṃ</rdg><rdg wit="#N20">sāṃdravimalaṃ</rdg><rdg wit="#J1 #N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">niḥśeṣa</lem><rdg wit="#J13 #V2">niśeṣa</rdg><rdg wit="#B1">niḥśeṣaṃ</rdg><rdg wit="#V22">niś. ..</rdg><rdg wit="#C1 #J10 #J15 #J17 #N6 #N10 #V4 #V6">nirdoṣa</rdg><rdg wit="#N3">nidoṣi</rdg><rdg wit="#J1 #N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">jantūjjhitam</lem><rdg wit="#B1">jantohiṃtam</rdg><rdg wit="#B3">jantojjhitam</rdg><rdg wit="#C1">vātodbhidaṃ</rdg><rdg wit="#V22">jaṃtū .. .. ta[ṃ]</rdg><rdg wit="#C6">vātojjhitaṃ</rdg><rdg wit="#N5">jantūhritaṃ</rdg><rdg wit="#M1">jantūtthitaṃ</rdg><rdg wit="#C4pc #J4 #J10 #J15 #J17 #N6 #N10 #N17 #V2 #V4">bādhojjhitam</rdg><rdg wit="#B2">bādhaudditam</rdg><rdg wit="#V1">bāndhojjhitam</rdg><rdg wit="#N19">bādhojgataṃ</rdg><rdg wit="#N20">bādhoghitaṃ</rdg><rdg wit="#V3">bādhojhitaṃ</rdg><rdg wit="#N21">bādhojjitam</rdg><rdg wit="#J2">bodhīkṣataṃ</rdg><rdg wit="#V26">bodhekṣitaṃ</rdg><rdg wit="#J14">bodhodgataṃ</rdg><rdg wit="#N12">vodhotsitaṃ</rdg><rdg wit="#V6">vātaṃ jitaṃ</rdg><rdg wit="#V8">vātovyutaṃ</rdg><rdg wit="#V11">vātojjhitaṃ</rdg><rdg wit="#N1">vātār*n*ītaṃ</rdg><rdg wit="#N2">vāt dhā*dg*ataṃ</rdg><rdg wit="#N3">jpaṃtpūpsitaṃ</rdg><rdg wit="#J1 #N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg><rdg wit="#N23">jaṃbhūdgitāṃ</rdg><rdg wit="#N24">jaṃtajjhitaṃ</rdg><rdg wit="#V5">jaṃtanvitaṃ</rdg></app>/</l> <l> <app><lem wit="#ceteri">bāhye</lem><rdg wit="#B2 #B3 #C1">bāhyaṃ</rdg><rdg wit="#C4pc">vrāhmaṃ</rdg><rdg wit="#J17">vyāhye</rdg><rdg wit="#J2">vāpī</rdg><rdg wit="#J1 #N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">maṇḍapa</lem><rdg wit="#M1">maṃṭa +</rdg><rdg wit="#V8">maṇḍapaṃ maṇḍapa</rdg><rdg wit="#J1 #N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#V1 #N24">vedikūparucitaṃ</lem><rdg wit="#B1 #B2 #C2 #C7 #L1 #J2 #J3 #J13 #J17 #N5 #N6 #N10 #N11 #N16 #N17 #V4 #V5 #V6 #V19">vedikūparacitaṃ</rdg><rdg wit="#C1 #C3 #C4pc #C6 #J14 #J15 #N2 #N3 #N12 #N13 #N20 #N21 #N23 #Tü #V2 #V22 #V3 #Vu">vedikūparuciraṃ</rdg><rdg wit="#B3 #C4ac #J4 #J10">vedikoparacitaṃ</rdg><rdg wit="#V11">vedikūparacite</rdg><rdg wit="#M1">vedikoparuciraṃ</rdg><rdg wit="#N1">veviracitaṃ</rdg><rdg wit="#V8">vedikopirācitaṃ</rdg><rdg wit="#N19">vedikaparuciraṃ</rdg><rdg wit="#V26 #YC">kūpavediracitaṃ</rdg><rdg wit="#J1 #N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">prākāra</lem><rdg wit="#J1 #N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">saṃveṣṭitaṃ</lem><rdg wit="#B1">saṃveṣṭite</rdg><rdg wit="#N2">saṃvetaṃ</rdg><rdg wit="#V22">saṃ .. ṣṭitaṃ</rdg><rdg wit="#N20">saṃvoṣṭitaṃ</rdg><rdg wit="#J1">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app>/</l> <l> <app><lem wit="#ceteri">proktaṃ</lem><rdg wit="#V6">yoktaṃ</rdg></app> yoga<app><lem wit="#ceteri">maṭhasya</lem><rdg wit="#J4 #N16 #N17">haṭhasya</rdg><rdg wit="#N6">haṭasya</rdg><rdg wit="#J2">mavasya</rdg><rdg wit="#N2">maṭha</rdg><rdg wit="#N3">mahasya</rdg><rdg wit="#J1">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">lakṣaṇam idaṃ</lem><rdg wit="#J4ac">lakṣatmaṇaṃ</rdg><rdg wit="#J1">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">siddhair </lem><rdg wit="#J2 #N3 #V5">siddhai</rdg><rdg wit="#V22">.. dhyai</rdg><rdg wit="#V8">sidhyaḥ</rdg><rdg wit="#J1">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">haṭhā</lem><rdg wit="#V22">haṭā</rdg><rdg wit="#J1">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">bhyāsibhiḥ</lem><rdg wit="#N3 #N5">bhyāsabhiḥ</rdg><rdg wit="#V6">sāsibhiḥ</rdg><rdg wit="#V22">bhyāsibhiḥ</rdg><rdg wit="#V8">bhyāsabhi</rdg><rdg wit="#J15">bhyāsiddhi</rdg><rdg wit="#J1">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app>// </l> </lg> <lg xml:id="hp114"> <l> <app><lem wit="#ceteri">evaṃvidhe </lem><rdg wit="#N17">evaṃvidha</rdg><rdg wit="#J4">evavidhe </rdg><rdg wit="#N18">evaṃvidher </rdg><rdg wit="#N21">evaṃvidham </rdg><rdg wit="#V5">evaṃvidhai </rdg><rdg wit="#V6">evaṃ bhave </rdg><rdg wit="#V22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">maṭhe </lem><rdg wit="#N20">maṭho </rdg><rdg wit="#N22">maṭha</rdg><rdg wit="#V22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">sthitvā</lem><rdg wit="#N22">smitvā</rdg><rdg wit="#V11">sthītvā</rdg><rdg wit="#V22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">sarva</lem><rdg wit="#J3">sarvaṃ </rdg><rdg wit="#V22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">cintā</lem><rdg wit="#V22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">vivarjitaḥ</lem><rdg wit="#C3 #J15 #N16 #V11">vivarjitāḥ</rdg><rdg wit="#V22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app>/</l> <l> <app><lem wit="#ceteri">gurūpa</lem><rdg wit="#J17">gurupa</rdg><rdg wit="#N19">guropa</rdg><rdg wit="#V22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">diṣṭa</lem><rdg wit="#C1 #N5 #V5">deśa</rdg><rdg wit="#V8">ste</rdg><rdg wit="#V22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">mārgeṇa</lem><rdg wit="#N5">mātreṇa</rdg><rdg wit="#N20">mātreṇā</rdg><rdg wit="#N23">mārgtreṇā</rdg><rdg wit="#V22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">yogam </lem><rdg wit="#J4">mana </rdg><rdg wit="#V22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#C3 #J10 #J17 #N6 #N10 #N22 #N24 #V1 #V4 #V6 #V11">evaṃ samabhyaset</lem><rdg wit="#N17">evaṃ samaṃbhyaset</rdg><rdg wit="#J2 #J3 #J15 #N11 #N13 #N23 #Tü #V8 #Vu">eva samabhyaset</rdg><rdg wit="#B1 #B2 #C7 #J1 #J13 #N18 #V26">evaṃ sadābhyaset</rdg><rdg wit="#J4">ātmavaśaṃ nayeta</rdg><rdg wit="#ceteri">eva sadābhyaset</rdg><rdg wit="#V3 #N20">ārgaṃ samabhyaset</rdg><rdg wit="#N19">evam ahābhyaset</rdg><rdg wit="#V22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app>//</l> </lg> <lg xml:id="hp115"> <l> <app><lem wit="#ceteri">atyāhāraḥ</lem><rdg wit="#B1 #J2 #J4 #J13 #N2 #N5 #N11 #N18 #N19 #N20 #N21 #N22 #V6 #V8 #V19">atyāhāra</rdg><rdg wit="#J3">atyāhārāt</rdg><rdg wit="#B3">alpāhāraḥ</rdg><rdg wit="#N16">pratyāhāraḥ</rdg><rdg wit="#N3">alpāhāro</rdg><rdg wit="#V3">ātmāhāraḥ</rdg><rdg wit="#J1">abhyāhāraḥ</rdg></app> <app><lem wit="#ceteri">prayāsaś ca</lem><rdg wit="#N11">viharāc ca</rdg><rdg wit="#N22">prayā saha</rdg><rdg wit="#J3">prayāsāc ca</rdg><rdg wit="#N20">prayāśāś ca</rdg><rdg wit="#V8">prayāsasyaś ca</rdg><rdg wit="#N23">pravāsaś ca</rdg><rdg wit="#V19">prayāsaś cā</rdg></app> <app><lem wit="#ceteri">prajalpo</lem><rdg wit="#J3 #N11">prajalpān</rdg><rdg wit="#N12">prajalpe</rdg><rdg wit="#V22">prajapo</rdg><rdg wit="#N5">jalpato</rdg><rdg wit="#V6">malalpo</rdg></app> <app><lem wit="#ceteri">niyamagrahaḥ</lem><rdg wit="#J2">niyamagraha</rdg><rdg wit="#B1">viparyagrahaḥ</rdg><rdg wit="#B2 #N6">'niyamagrahaḥ</rdg><rdg wit="#B3 #C2 #C4 #J1 #J13 #J15 #V2 #V4 #V11 #V26 #Vu">niyamāgrahaḥ</rdg><rdg wit="#C3 #L1 #N5">niyamo grahaḥ</rdg><rdg wit="#V8">niyamo gṛhaḥ</rdg><rdg wit="#M1">niyame grahaḥ</rdg><rdg wit="#J3 #N11">niyamagrahāt</rdg></app>/</l> <l> <app><lem wit="#ceteri">janasaṅgaś ca</lem><rdg wit="#B2">janasaṃgaṃ ku</rdg><rdg wit="#C3">janasaṃga</rdg><rdg wit="#J4">janasaṅkara</rdg><rdg wit="#J2 #N12 #N18 #N19 #V11">janasaṃgaṃ ca</rdg><rdg wit="#J3 #N11">janasaṃgāc ca</rdg><rdg wit="#V8">janaḥ saṃgasya</rdg><rdg wit="#N21">janasaṃghaś ca</rdg><rdg wit="#V26">janasaṃsahya</rdg></app> <app><lem wit="#ceteri">laulyaṃ</lem><rdg wit="#J3 #N11">laulyāc</rdg><rdg wit="#C3 #N19 #V22">lolyaṃ</rdg><rdg wit="#N20">laulyaś</rdg><rdg wit="#N22">laubhyaṃ</rdg></app> ca <app><lem wit="#ceteri">ṣaḍbhir yogaḥ</lem><rdg wit="#N17 #V6">ṣaḍbhir yogaś</rdg><rdg wit="#N21">ṣaḍbhir yogā</rdg><rdg wit="#J2">ṣaḍbhir yoga</rdg><rdg wit="#C2 #C4 #C7 #J1 #J3 #J13 #J14 #N3 #N13 #N18 #N19 #N20 #N21 #N22 #N24 #Tü #V2 #V3 #V4 #V5 #V19 #Vu">ṣaḍbhir yogo</rdg><rdg wit="#V8">ṣaḍbhaḥ yogoś cate</rdg><rdg wit="#N10">ḍbhir yogo</rdg></app> <app><lem resp="#nos" type="emendation">prahāsyate</lem><rdg wit="#V1">\em prahāsyati</rdg><rdg wit="#J2 #J4 #N1 #N2 #V26 #YC">praṇaśyati</rdg><rdg wit="#C3 #J10ac #J15 #J17 #N6 #N17 #V6">ca naśyati</rdg><rdg wit="#ceteri">vinaśyati</rdg><rdg wit="#N22">vinaśyatiḥ</rdg><rdg wit="#V11">na sidhyati</rdg><rdg wit="#V22">vina. .. ..</rdg></app>//</l> </lg> <lg xml:id="hp116"> <l> <app><lem wit="#ceteri">utsāhān </lem><rdg wit="#C1 #C7 #J1 #J3 #L1 #N5 #N11 #N13 #N23 #N24 #Tü #V5 #V11 #V19 #V22 #Vu">utsāhāt </rdg><rdg wit="#J4">ucchāhān </rdg><rdg wit="#J2">vutsāha</rdg><rdg wit="#N17">utsahā </rdg><rdg wit="#N18">utsaho </rdg><rdg wit="#V3 #V8 #N19 #V26">utsāha</rdg><rdg wit="#N22">utśmāha</rdg><rdg wit="#J15">jayāc ca </rdg></app><app><lem wit="#ceteri">niścayād dhairyāt </lem><rdg wit="#B1 #B2 #N18">niścayādvairyyāt</rdg><rdg wit="#N21">.. .. hasādvairyāt</rdg><rdg wit="#B3">niścayār dvairyāt</rdg><rdg wit="#J4">niścayādvayāt</rdg><rdg wit="#J10 #N17">niścayādvairyāt</rdg><rdg wit="#C3 #N16">niścayāddhairyā</rdg><rdg wit="#C1 #C7 #L1 #N5 #N11 #N13 #N24 #Tü #V5 #V19 #Vu #YC">sāhasāddhairyāt</rdg><rdg wit="#J1 #J3 #N23">sāhasādvairyāt</rdg><rdg wit="#J2">niściyaudhairya</rdg><rdg wit="#V26">niścayau dhairyyaṃ</rdg><rdg wit="#N19">viścalaṃdhairyyaṃ</rdg><rdg wit="#N1">niścayoddhairyāt</rdg><rdg wit="#V1">niścayadhairyāt</rdg><rdg wit="#V6">niścayādhairyāt</rdg><rdg wit="#V11">niścayātdhairyyāt</rdg><rdg wit="#V8">niścayoṃ dhairyāt</rdg><rdg wit="#N22">nikhilādhairyā</rdg><rdg wit="#V22">nāhasātdhyairnāt</rdg></app><app><lem wit="#ceteri">tattva</lem><rdg wit="#N11">tanttra</rdg><rdg wit="#V8">tvagrā</rdg><rdg wit="#N22">kṛtvā</rdg><rdg wit="#V5">ta</rdg></app><app><lem wit="#ceteri">jñānāc ca darśanāt</lem><rdg wit="#B1">jñānāc ca niścalāt</rdg><rdg wit="#B3">jñātāś ca niścalāt</rdg><rdg wit="#V11">jñānāś ca darśanāt</rdg><rdg wit="#V26">jñānaṃ ca niścalam</rdg><rdg wit="#C1 #C4 #C7 #L1 #N5 #N16 #V5 #V19 #YC">jñānād viniścayāt</rdg><rdg wit="#C2 #J3 #J13 #N11 #N13 #N23 #N24 #Tü #Vu">jñānāc ca niścayāt</rdg><rdg wit="#J1">jñānādiniścayāt</rdg><rdg wit="#N1">jñānāc ca niścalāt</rdg><rdg wit="#B2 #J14 #N2">jñānārthadarśanāt</rdg><rdg wit="#V2">jñānāya darśanāt</rdg><rdg wit="#J2 #N20">jñānasya darśanāt</rdg><rdg wit="#V3">jñānā ca darśanāt</rdg><rdg wit="#V8">nārthadarsanāṃga</rdg><rdg wit="#N19">jñānānudarśitaṃ</rdg><rdg wit="#N21">jñānā ccaniścajāj</rdg><rdg wit="#V22">jñā.. .aniścayāt</rdg></app>/</l> <l> <app><lem wit="#ceteri">janasaṅgaparityāgāt</lem><rdg wit="#V26">janasaṅgaparityāgaḥ</rdg><rdg wit="#N19">janasaṅgaparityāgāḥ</rdg><rdg wit="#J1">janāsaṅgāttathā samyak</rdg><rdg wit="#J14">janāsaṃgād alaulyāc ca</rdg></app> <app><lem wit="#ceteri">ṣaḍbhir </lem><rdg wit="#N10">ṣaḍbhyo</rdg><rdg wit="#N22">ṣaḍbhi</rdg><rdg wit="#V8">ṣaḍ</rdg></app><app><lem wit="#V1 #J10 #J17 #N10 #N18 #V4 #V6">yogas tu sidhyati</lem><rdg wit="#B1 #C2 #J13 #N6 #V11">yogaś ca sidhyati</rdg><rdg wit="#B3 #N1">yogaś ca siddhati</rdg><rdg wit="#C3">yoga prasidhyati</rdg><rdg wit="#N22 #V19">yogo prasidhyati</rdg><rdg wit="#N17">yogaṃś ca sidhyati</rdg><rdg wit="#ceteri">yogaḥ prasidhyati</rdg><rdg wit="#J2">yoga prasiddhati</rdg><rdg wit="#V8">yogastu prasidhyati</rdg><rdg wit="#V22">yogaḥ ..sidhyati</rdg><rdg wit="#N23">yyogaḥ prasidhyati</rdg><rdg wit="#N24">yogaḥ prasidhyatiḥ</rdg></app>//</l> </lg> <lg xml:id="hpyamainsertion"> <l> <app><lem wit="#C3 #J15 #N12"><supplied>atha yamaniyamāḥ//</supplied></lem><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="word" quantity="3"/></supplied></rdg></app></l> <l> <app><lem wit="#B1 #B3 #C2 #C3 #C4 #J13 #J15 #N5 #N12 #N24 #V6 #V26"><supplied>ahiṃsā</supplied></lem><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="word" quantity="1"/></supplied></rdg></app> <app><lem wit="#B1 #B3 #C2 #C3 #C4 #J13 #J15 #N5 #N12 #N24 #V6 #V26"><supplied>satyam asteyaṃ</supplied></lem><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="word" quantity="2"/></supplied></rdg></app> <app><lem wit="#B1 #B3 #C3 #C4 #J13 #J15 #N12 #N24 #V6 #V26"><supplied>brahmacaryaṃ</supplied></lem><rdg wit="#C2 #N5">brahmacarya</rdg><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="word" quantity="5"/></supplied></rdg></app> <app><lem wit="#B1 #B3 #C2 #C3 #C4 #J13 #J15 #N5 #N12 #N24 #V6 #V26"><supplied>kṣamā dhṛtiḥ/</supplied></lem><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="word" quantity="2"/></supplied></rdg></app></l> <l> <app><lem wit="#B1 #C2 #J15 #N12 #V26"><supplied>dayārjjavamitāhāraḥ</supplied></lem><rdg wit="#C2"><supplied>dayārjaṃva mitāhāraḥ</supplied></rdg><rdg wit="#V6"><supplied>dayārjjavamitāhāra</supplied></rdg><rdg wit="#C3"><supplied>dayārjaṃva mitāhāra</supplied></rdg><rdg wit="#B3 #C4"><supplied>dayārjavamitāhārāḥ</supplied></rdg><rdg wit="#J13"><supplied>dayārjavaṃ mitāhāraḥ</supplied></rdg><rdg wit="#N5"><supplied>dayorjava mitāhārā</supplied></rdg><rdg wit="#N24"><supplied>dayārjavaṃitāhāraḥ</supplied></rdg><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="word" quantity="2"/></supplied></rdg></app> <app><lem wit="#B1 #B3 #C2 #C3 #C4 #J13 #J15 #N5 #N12 #N24 #V6"><supplied>śaucaṃ</supplied></lem><rdg wit="#V26"><supplied>śaucañ</supplied></rdg><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="word" quantity="1"/></supplied></rdg></app> <app><lem wit="#B1 #B3 #C2 #C3 #C4 #J13 #J15 #N5 #N12 #N24 #V6"><supplied>caiva</supplied></lem><rdg wit="#V26"><supplied>ceti</supplied></rdg><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="word" quantity="1"/></supplied></rdg></app> <app><lem wit="#B1 #B3 #C3 #C4 #J13 #J15 #N5 #N12 #N24"><supplied>yamā daśāḥ//</supplied></lem><rdg wit="#V26"><supplied>yamā daśaḥ//</supplied></rdg><rdg wit="#C2"><supplied>niyamā daśa//</supplied></rdg><rdg wit="#V6"><supplied>imā daśā//</supplied></rdg><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="word" quantity="2"/></supplied></rdg></app></l> </lg> <lg xml:id="hpniyamainsertion"> <l> <app><lem wit="#B1 #N24 #C4 #V6 #V26"><supplied>tapaḥ santoṣa āstikyaṃ</supplied></lem><rdg wit="#C2 #C3 #N5 #N12 #J15 #J13"><supplied>tapaḥ saṃtoṣam āstikyaṃ</supplied></rdg><rdg wit="#B3"><supplied>tapaḥ santoṣam āstikya</supplied></rdg><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="word" quantity="3"/></supplied></rdg></app> <app><lem wit="#B1 #B3 #C2 #C3 #C4 #J13 #J15 #N5 #N12 #N24 #V6 #V26"><supplied>dānam iśvarapūjanaṃ/</supplied></lem><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="word" quantity="3"/></supplied></rdg></app></l> <l> <app><lem wit="#B1 #B3 #C2 #C3 #C4 #J13 #J15 #N5 #N12 #V6 #V26"><supplied>siddhāntaśravaṇaṃ</supplied></lem><rdg wit="#N24"><supplied>siddhāṃtavākyaśravaṇaṃ</supplied></rdg><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="word" quantity="1"/></supplied></rdg></app> <app><lem wit="#B1 #B3 #C2 #C3 #C4 #J13 #J15 #N5 #N12 #N24 #V6 #V26"><supplied>caiva</supplied></lem><rdg wit="#N5"><supplied>caivaṃ</supplied></rdg><rdg wit="#C3"><supplied>cāpi</supplied></rdg><rdg wit="#N24"><supplied><gap reason="variant" unit="word" quantity="1"/></supplied></rdg><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="word" quantity="1"/></supplied></rdg></app> <app><lem wit="#B1 #N24"><supplied>hrīmatiś ca japo hṛtam//</supplied></lem><rdg wit="#V26"><supplied>hrīr mmatiś ca japo hutaṃ//</supplied></rdg><rdg wit="#N12"><supplied>hrī matiś ca japo hutaṃ//</supplied></rdg><rdg wit="#C3 #N24"><supplied>hrī matī ca japo hutaṃ//</supplied></rdg><rdg wit="#C2"><supplied>hrīr matiś ca japo vrataṃ//</supplied></rdg><rdg wit="#B3"><supplied>mantaś ca japodgataṃ//</supplied></rdg><rdg wit="#N5"><supplied>vedāṃtaśrāvaṇas tathā//</supplied></rdg><rdg wit="#C4 #J15"><supplied>vedāṃtaśravaṇaṃ tathā//</supplied></rdg><rdg wit="#J13"><supplied>matiś caryā japo hutaṃ//</supplied></rdg><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="word" quantity="1"/></supplied></rdg></app></l> <l> <app><lem wit="#B3 #V6"><supplied>iti daśa niyamāḥ prakīrtitāḥ//</supplied></lem><rdg wit="#J13"><supplied>iti daśa niyamā prakīrttitāḥ//</supplied></rdg><rdg wit="#N24"><supplied>niyamādaśāptaṃ proktādyogasāsravi śāradaiḥ//</supplied></rdg><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="word" quantity="1"/></supplied></rdg></app></l> </lg> <lg xml:id="hp117"> <l> <app><lem wit="#ceteri">haṭhasya prathamāṅgatvād </lem><rdg wit="#J15">haṭhasya pramathaṃgatvād</rdg><rdg wit="#V8">maṭhe ca prathamaṃ sthitvā </rdg></app><app><lem wit="#ceteri">āsanaṃ</lem><rdg wit="#B2 #J4 #N2">āsana </rdg><rdg wit="#J2">ānasaṃ</rdg></app> <app><lem wit="#ceteri">pūrvam ucyate</lem><rdg wit="#J17">pūrvam uccyate</rdg><rdg wit="#V8">ca purva sete</rdg><rdg wit="#J2">pūrva ucyate</rdg></app>/</l> <l> <app><lem wit="#ceteri">tatkuryād āsanaṃ</lem><rdg wit="#B2 #N3 #N11 #N16 #V2 #V3 #V19 #YC">tatkuryādāsana</rdg><rdg wit="#N18">tatkuryām āsana</rdg><rdg wit="#M1">tatkuryād āsane</rdg><rdg wit="#B1 #B3 #C2 #C4 #C7 #J10 #J13 #J15 #J17 #N1 #N6 #N10 #N13 #N17 #Tü #V4 #V6 #V22 #Vu" type="stemmapoint">kuryāt tad āsanaṃ</rdg><rdg wit="#C3">kuryā tadāsanaṃ</rdg><rdg wit="#J2">kuryād āsanaṃ</rdg><rdg wit="#V8">stvakuryādāsanaṃ tat</rdg><rdg wit="#V11">kuryāt tad āśanaṃ</rdg></app> <app><lem wit="#ceteri">sthairyam </lem><rdg wit="#B1 #B3 #C2 #C3 #C7 #J10 #J13 #J15 #J17 #N1 #N6 #N10 #N17 #V6" type="stemmapoint">tasmād </rdg><rdg wit="#V11">tasmāt </rdg><rdg wit="#V4">tasyād </rdg><rdg wit="#V8">asmāt </rdg><rdg wit="#V3">skairyam</rdg><rdg wit="#N20">sthairye</rdg><rdg wit="#N19 #N22">dhairyyaṃ</rdg><rdg wit="#J2 #V26">pūrvam </rdg></app><app><lem wit="#ceteri">ārogyaṃ</lem><rdg wit="#J15">ārogyāṃ</rdg><rdg wit="#N24 #V22">ārogya</rdg></app> cāṅga<app><lem wit="#ceteri">pāṭavaṃ</lem><rdg wit="#C1 #C4 #J14 #L1 #N5 #N6 #N11 #N13 #N17 #N23 #N24 #Tü #V6 #V8 #V22 #Vu #YC" type="stemmapoint">lāghavaṃ</rdg><rdg wit="#C2">paṭavaṃ</rdg><rdg wit="#V19">loghavaṃ</rdg><rdg wit="#V5">lāghavāṃ</rdg></app>// </l> </lg> <lg xml:id="hp118"> <l> <app><lem wit="#ceteri">vasiṣṭhādyaiś ca</lem><rdg wit="#N20">vasiṣṭhodyaiś ca</rdg><rdg wit="#N21 #V2">vaśiṣṭhadyaiś ca</rdg><rdg wit="#J2">vasiṣṭhīghais tu</rdg><rdg wit="#V26">vaśiṣṭhādau</rdg></app> <app><lem wit="#ceteri">munibhir matsyendrā</lem><rdg wit="#N17 #V3">munibhir mmatsyendrā</rdg><rdg wit="#J4">munibhi motsyaṃdrā</rdg><rdg wit="#M1a">munibhir martyeṃdrā</rdg><rdg wit="#J2 #N10">munibhir matsendrā</rdg><rdg wit="#N22">munibhiḥ matsendrā</rdg><rdg wit="#V5">munibhimachendrā</rdg><rdg wit="#V6 #V11">munibhimatsyendrā</rdg></app><app><lem wit="#ceteri">dyaiś ca</lem><rdg wit="#N19 #N23">yaiś ca</rdg></app> yogibhiḥ/</l> <l> <app><lem wit="#ceteri">aṅgīkṛtā</lem><rdg wit="#N1 #N2">aṅgīkṛtvā</rdg><rdg wit="#J17">aṃgīkṛtyā</rdg><rdg wit="#N17">aṃgikṛtā</rdg><rdg wit="#N20">agīkṛtāṃ</rdg><rdg wit="#V8">aṃgikṛta</rdg></app><app><lem wit="#ceteri">nyāsanāni</lem><rdg wit="#N24">nyāsanāniḥ</rdg><rdg wit="#V5">nyāsānāni</rdg></app> <app><lem wit="#ceteri">kathyante</lem><rdg wit="#V1">likhyante</rdg><rdg wit="#C1 #C4 #C7 #J3 #L1 #N5 #N11 #N16 #N24 #V5 #V19 #YC" type="stemmapoint">vakṣyante</rdg><rdg wit="#V8">vakṣante</rdg><rdg wit="#N17">katthyente</rdg><rdg wit="#N18 #N22">kathyate</rdg></app> <app><lem wit="#ceteri">kānicinmayā</lem><rdg wit="#V8">kānicinmayaṃ</rdg></app>//</l> </lg> <lg xml:id="hp119"> <l> <app><lem wit="#ceteri">jānūr vorantare</lem><rdg wit="#N5 #N17 #N24 #V8">jānur voraṃtare</rdg><rdg wit="#N11">jānvor abhyantare</rdg><rdg wit="#J4">jānubhyāṃmaṃtare</rdg><rdg wit="#N18">jānūdyoraṃtare</rdg><rdg wit="#V3">jānūrvvorantare</rdg><rdg wit="#J2">janvoghairitare</rdg><rdg wit="#N23 #V11">jānūr vorantaraṃ</rdg><rdg wit="#V5">jānūvairitare</rdg><rdg wit="#V22">jānūrūvaitare</rdg></app> <app><lem wit="#ceteri">samyak kṛtvā</lem><rdg wit="#N22">kṛtvā samyak</rdg><rdg wit="#V4">samyag akṛtvā</rdg></app> <app><lem wit="#ceteri">pādatale ubhe</lem><rdg wit="#Tü">pāde tale ubhe</rdg><rdg wit="#B1 #B2 #C2 #J13" type="stemmapoint">pādatalāv ubhau</rdg><rdg wit="#J4">pādāvubhau ṛju</rdg><rdg wit="#N22">pādātalau ubhau</rdg><rdg wit="#N23">pādātale śubhe</rdg><rdg wit="#N23">pādataler ubhe</rdg><rdg wit="#V5">pādatalpanaṃ ubhe</rdg><rdg wit="#V8">pādataleś ca ubhe</rdg></app>/</l> <l> <app><lem wit="#ceteri">ṛjukāyaḥ </lem><rdg wit="#B1 #N2 #J1 #J2 #J13 #J15 #V1 #V11 #Vu">ṛjukāya</rdg><rdg wit="#N5">daṇḍakāya</rdg><rdg wit="#J4">samakāyaḥ </rdg><rdg wit="#V3">ṛjuḥ kāya</rdg><rdg wit="#V8">rajuḥ kāya</rdg><rdg wit="#N10">rujukāya</rdg><rdg wit="#N22">ṛtyukāya</rdg></app><app><lem wit="#ceteri">samāsīnaḥ</lem><rdg wit="#M1">samāsīta</rdg><rdg wit="#V3">samāsīnaṃ</rdg><rdg wit="#J2 #N22">samāsīna</rdg><rdg wit="#J14">sukhāsīnaḥ</rdg></app> <app><lem wit="#ceteri">svastikaṃ</lem><rdg wit="#N20">svastekaṃ</rdg><rdg wit="#V8">svayāstikaṃ</rdg></app> <app><lem wit="#ceteri">tat </lem><rdg wit="#J4 #N23">ca</rdg></app><app><lem wit="#ceteri">pracakṣate</lem><rdg wit="#N10 #N12 #N19 #N23 #V11 #V26" type="stemmapoint">pracakṣyate</rdg><rdg wit="#C3">prayachate</rdg><rdg wit="#J1">pravakṣyate</rdg><rdg wit="#N22">tracakṣyate</rdg></app>//</l> </lg> <lg xml:id="vuextrafter19"> <l> <app><lem wit="#Vu"><supplied>ūrujaṅghāntarādhāya prapade jānumadhyate/</supplied></lem><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="word" quantity="3"/></supplied></rdg></app> </l> <l> <app><lem wit="#Vu"><supplied>yogino yad avasthānaṃ svastikaṃ tad vidur budhāḥ//</supplied></lem><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="word" quantity="8"/></supplied></rdg></app> </l> </lg> <lg xml:id="v2extrafter19"> <l> <app><lem wit="#V2"><supplied>jaṅghorvor adhare pādayugalaṃ viniveśayet/</supplied></lem><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="word" quantity="4"/></supplied></rdg></app> </l> <l> <app><lem wit="#V2"><supplied>sukhāsanam idaṃ proktaṃ sādhakānāṃ sukhāvahaṃ//</supplied></lem><rdg wit="#ceteri"><supplied><gap reason="unauthentic" unit="word" quantity="5"/></supplied></rdg></app> </l> </lg> <lg xml:id="hp120"> <l> <app><lem wit="#ceteri">savye</lem><rdg wit="#J17">sarvye</rdg><rdg wit="#B3 #C2 #J4 #V11">savyaṃ</rdg><rdg wit="#N20">savya </rdg></app> <app><lem wit="#ceteri">dakṣiṇagulphaṃ tu</lem><rdg wit="#B2 #C7 #J1 #V8 #N19">dakṣiṇagulphe tu</rdg><rdg wit="#N20">dakṣiṇagulphau tu</rdg><rdg wit="#J14">ca dakṣiṇaṃ gulphaṃ</rdg><rdg wit="#V6">dakṣiṇakaṃ gulphaṃ</rdg><rdg wit="#V2">ca dakṣiṇaṃ pādirmaṃ</rdg></app> <app><lem wit="#ceteri">pṛṣṭha</lem><rdg wit="#N16">pṛcha</rdg><rdg wit="#J15">pṛṣṭaṃ </rdg><rdg wit="#B2">savyaṃ</rdg><rdg wit="#N19">savya</rdg><rdg wit="#J2">ṣṭa</rdg></app><app><lem wit="#ceteri">pārśve</lem><rdg wit="#N22">pārthe</rdg></app> <app><lem wit="#ceteri">niyojayet</lem><rdg wit="#V11">nijojayet</rdg></app> /</l><l> <app><lem wit="#ceteri">dakṣiṇe</lem><rdg wit="#B3">dakṣiṇo</rdg><rdg wit="#J2">jakṣiṇe</rdg><rdg wit="#N20">dakṣe</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">'pi</lem><rdg wit="#B2 #C1 #C7 #J1 #J3 #N5 #N12 #N16 #N18 #N24 #V5 #V19">tu</rdg><rdg wit="#C4 #L1 #N11 #N23">ca</rdg><rdg wit="#V6">na</rdg><rdg wit="#N20">caiva</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">tathā</lem><rdg wit="#N19">ptathā</rdg></app> <app><lem wit="#ceteri">savyaṃ </lem><rdg wit="#J17">sarvyaṃ </rdg><rdg wit="#V1">savye </rdg><rdg wit="#J1">savya</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app><app><lem wit="#ceteri">gomukhaṃ</lem><rdg wit="#C1 #C7 #J2 #L1 #V5">gomukhe</rdg><rdg wit="#N1">gomukhā</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg></app> <app><lem wit="#ceteri">gomukhaṃ yathā</lem><rdg wit="#J17">gaumukhaṃ yathā</rdg><rdg wit="#B1 #B3 #C2 #N1 #N12 #N23 #V6 #V26 #Vu" type="stemmapoint">gomukhākṛtiḥ</rdg><rdg wit="#V22">gomukhā kṛt..i</rdg><rdg wit="#J13 #N13 #N24 #Tü">gomukhā kṛti</rdg><rdg wit="#B2 #C3 #N6 #N17 #N20 #V3 #V4 #V11">gomukhaṃ tathā</rdg><rdg wit="#N10">gīrmukhaṃ tathā</rdg><rdg wit="#N16">gomukhaṃ viduḥ</rdg><rdg wit="#N22">{<supplied><gap reason="lost" unit="word" quantity="1"/></supplied>}</rdg><rdg wit="#J2">gomukhe yathā</rdg><rdg wit="#V8">ca cicakṣate</rdg></app>//</l> </lg> 
+</body>
+</text>
+</TEI>

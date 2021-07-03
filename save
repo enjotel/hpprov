@@ -1,0 +1,100 @@
+
+\begin{prose}
+%-----------------------
+% \om \oxford
+%                kāpaṭyaṃ      vittaṃ   hiṃsā    tṛṣṇā    mātsaryam    ahaṃkāraḥ    roṣaḥ kṣayaṃ   lajjālobhamohā      aśucitvaṃ                       pākhaṃḍatvaṃ       bhrāntiḥ indriyavikāraḥ kāmaḥ          ete yasya manasi pratidinaṃ vyunā bhavanti /  \edprint
+%                kāpaṭyaṃ      vittaṃ   hiṃsā    tṛṣṇā    mātsaryaṃ    ahaṃkāraḥ    roṣo bhayaṃ    lajjā lobhaḥ mohaḥ  aśucitvaṃ rāgaḥ dveṣaḥ   ālasyaṃ pākhaṃḍitvaṃ       bhrāṃtiḥ indriyaṃ vikāraḥ kāmaḥ        ete yasya manasi pratidinaṃ nyunā bhavanti   \pune
+%                kāpayaṃ     //vitaṃ // hiṃsā // tṛṣṇā // mātsaryaṃ // ahaṃkāraḥ // roṣo bhayaṃ // lajjālobhaḥ // moha aśucitvaṃ // rājadveṣa  alasyaṃ // pākhaṃḍitvaṃ // bhrāṃtiḥ // itivikāraḥ // kāmaḥ        eta yasya manasi pratidinaṃ nyunā bhavaṃti//\lalchand
+% yasyāṃtakaraṇe kapatyaṃ māyā vitvaṃ   hiṃsā    tṛṣṇā    mātsaryaṃ    ahaṃkāraḥ    roṣobhayaṃ     lajjā // lobhamohā  asucitvaṃ rāgadveṣaḥ // alasyaṃ pāṣaṃḍitvaṃ        bhraṃtiḥ / iṃdriyaivikāraḥ / kāmaḥ     ete yasya manasi pratidinaṃ nyunā bhavaīti / \nepal
+%                kāpaṭyaṃ māya vitvaṃ   hiṃsā    tṛṣṇā    mātsarya     ahaṃkāraḥ    roṣobhayaṃ     lajjā // lobhamohā  asucitvaṃ rāgadveṣaḥ // ālasyaṃ pāṣaṃḍitvaṃ        bhraṃtiḥ // iṃdriyavikāraḥ // kāmaḥ // ete yasya manasi pratidinaṃ nyunā bhavaṃti //  \dehlia
+%                kāpachaṃ yāya vitvaṃ   hiṃsā    tṛṣṇā    mātsarya     ahaṃkāraḥ    roṣaḥ bhayaṃ   lajā lobhamohā      aśucitvaṃ rāgadveṣaḥ    ālasyaṃ pākhaṃḍitvaṃ       bhraṃtiḥ iṃdriyavīkāraḥ    kāmaḥ       rāte yasya manasi pratidinaṃ nyunā bhavaṃti //      \ujjaina
+%                kāpaṭyaṃ pāpā titaṃ    hiṃsā    tṛṣṇā    mātsaryaṃ // ahaṃkāraḥ    roṣobhayaṃ     lajjā ----mohā      aśucitvaṃ rāgadveṣaḥ    ālasyaṃ pākhaṃḍitvaṃ //    bhraṃtiḥ iṃdriyavikāraḥ //-----        etate yasya manasi pratidinaṃ nyunā bhavaṃti // \ujjainb
+%-----------------------
+       \app{\lem[wit={E,P,D1,U2}]{kāpaṭyaṃ}
+            \rdg[wit={N1}]{yasyāntaḥkaraṇe kapatyaṃ}
+            \rdg[wit={L}]{kāpayaṃ}
+            \rdg[wit={U1}]{kāpachaṃ}
+          }
+       \app{\lem[wit={N1}]{māyā}
+            \rdg[wit={D1}]{māya}
+            \rdg[wit={U1}]{yāya}
+            \rdg[wit={U2}]{pāpa}
+            \rdg[wit={E,P,L}]{\om}
+          }
+       \app{\lem[wit={E,P}]{vittaṃ}
+            \rdg[wit={L}]{vitaṃ}
+            \rdg[wit={N1,D1,U1}]{vitvaṃ}
+            \rdg[wit={U2}]{titaṃ}
+          }      
+     hiṃsā tṛṣṇā
+       \app{\lem[wit={E}, alt={mātsaryama}]{mātsaryam}
+            \rdg[wit={P,L,N1,U2}]{mātsaryaṃ}
+            \rdg[wit={P,L,N1,U2}]{mātsarya}
+            }
+     haṃkāra 
+       \app{\lem[wit={P,L,N1,D1,U2}]{roṣobhayaṃ}
+            \rdg[wit={E,U1}]{roṣaḥ bhayaṃ}
+            }
+       \app{\lem[wit={E,P,L,N1,D1,U2}]{lajjā}
+            \rdg[wit={U1}]{lajā}
+          }
+       \app{\lem[wit={E,N1,D1,U1}]{lobhamohā}
+            \rdg[wit={P,L}]{lobhaḥ mohaḥ}
+            \rdg[wit={U2}]{mohā}
+          }
+     aśucitvaṃ
+       \app{\lem{\conj. rāgo dveṣaḥ}
+           \rdg[wit=[{P}]{rāgaḥ dveṣaḥ}
+           \rdg[wit={N1,D1,U1,U2}]{rāgadveṣaḥ}
+           \rdg[wit={L}]{rājadveṣa}
+           \rdg[wit={E}]{\om}
+           }
+       \note[type=philcomm, labelb=s2.z6b, labele=s2.z6e, lem={rāgo dveṣaḥ}] %Zeilen korrigieren! 
+       {I conjectured to \textit{rāgo dveṣaḥ} to provide correct grammar. Another possible conjecture would be to read \textit{rāgadveṣau}.}
+      \app{\lem[wit={P,L,N1,D1,U1,U2}]{ālasyaṃ}
+           \rdg[wit={E}]{\om}
+           }
+      \app{\lem[wit={P,L,U1,U2}]{pākhaṃḍitvaṃ}
+           \rdg[wit={D1,N1}]{pāṣaṃḍitvaṃ}
+           \rdg[wit={E}]{pākhaṃḍatvaṃ}
+          }
+     bhrānti
+      \app{\lem[wit={E,N1,D1,U2}, alt={indriyavikāraḥ}]{rindiryavikāraḥ}
+           \rdg[wit={U1}]{iṃdriyavīkāraḥ}
+           \rdg[wit={P}]{iṃdriyaṃ vīkāraḥ}
+           \rdg[wit={L}]{itivikāraḥ}
+          }
+      \app{\lem[wit={E,P,L,N1,D1,U1}]{kāmaḥ}
+           \rdg[wit={U2}]{\om}
+          }
+      \app{\lem[wit={E,P,D1,N1]{ete}
+           \rdg[wit={L}]{eta}
+           \rdg[wit={U1}]{rāte}
+           \rdg[wit={U2}]{etate}
+          }
+       yasya manasi pradidinaṃ nyūna bhavanti
+      \app{\lem[wit={E,P,L,D1,U1,U2}]{bhavanti}
+           \rdg[wit={N1}]{bhavīti}
+          }
+          /
+\end{prose}
+
+\begin{edition}
+    \ekddiv{type=ed}
+    \begin{prose}
+%-----------------------
+% \om \oxford
+%                kāpaṭyaṃ      vittaṃ   hiṃsā    tṛṣṇā    mātsaryam    ahaṃkāraḥ    roṣaḥ kṣayaṃ   lajjālobhamohā      aśucitvaṃ                       pākhaṃḍatvaṃ       bhrāntiḥ indriyavikāraḥ kāmaḥ          ete yasya manasi pratidinaṃ vyunā bhavanti /  \edprint
+%                kāpaṭyaṃ      vittaṃ   hiṃsā    tṛṣṇā    mātsaryaṃ    ahaṃkāraḥ    roṣo bhayaṃ    lajjā lobhaḥ mohaḥ  aśucitvaṃ rāgaḥ dveṣaḥ   ālasyaṃ pākhaṃḍitvaṃ       bhrāṃtiḥ indriyaṃ vikāraḥ kāmaḥ        ete yasya manasi pratidinaṃ nyunā bhavanti   \pune
+%                kāpayaṃ     //vitaṃ // hiṃsā // tṛṣṇā // mātsaryaṃ // ahaṃkāraḥ // roṣo bhayaṃ // lajjālobhaḥ // moha aśucitvaṃ // rājadveṣa  alasyaṃ // pākhaṃḍitvaṃ // bhrāṃtiḥ // itivikāraḥ // kāmaḥ        eta yasya manasi pratidinaṃ nyunā bhavaṃti//\lalchand
+% yasyāṃtakaraṇe kapatyaṃ māyā vitvaṃ   hiṃsā    tṛṣṇā    mātsaryaṃ    ahaṃkāraḥ    roṣobhayaṃ     lajjā // lobhamohā  asucitvaṃ rāgadveṣaḥ // alasyaṃ pāṣaṃḍitvaṃ        bhraṃtiḥ / iṃdriyaivikāraḥ / kāmaḥ     ete yasya manasi pratidinaṃ nyunā bhavaīti / \nepal
+%                kāpaṭyaṃ māya vitvaṃ   hiṃsā    tṛṣṇā    mātsarya     ahaṃkāraḥ    roṣobhayaṃ     lajjā // lobhamohā  asucitvaṃ rāgadveṣaḥ // ālasyaṃ pāṣaṃḍitvaṃ        bhraṃtiḥ // iṃdriyavikāraḥ // kāmaḥ // ete yasya manasi pratidinaṃ nyunā bhavaṃti //  \dehlia
+%                kāpachaṃ yāya vitvaṃ   hiṃsā    tṛṣṇā    mātsarya     ahaṃkāraḥ    roṣaḥ bhayaṃ   lajā lobhamohā      aśucitvaṃ rāgadveṣaḥ    ālasyaṃ pākhaṃḍitvaṃ       bhraṃtiḥ iṃdriyavīkāraḥ    kāmaḥ       rāte yasya manasi pratidinaṃ nyunā bhavaṃti //      \ujjaina
+%                kāpaṭyaṃ pāpā titaṃ    hiṃsā    tṛṣṇā    mātsaryaṃ // ahaṃkāraḥ    roṣobhayaṃ     lajjā ----mohā      aśucitvaṃ rāgadveṣaḥ    ālasyaṃ pākhaṃḍitvaṃ //    bhraṃtiḥ iṃdriyavikāraḥ //-----        etate yasya manasi pratidinaṃ nyunā bhavaṃti // \ujjainb
+%-----------------------
+\app{\lem[wit={E,P,D1,U2}]{kāpaṭyaṃ} \rdg[wit={N1}]{yasyāntaḥkaraṇe kapatyaṃ}\rdg[wit={L}]{kāpayaṃ} \rdg[wit={U1}]{kāpachaṃ}} \app{\lem[wit={N1}]{māyā}\rdg[wit={D1}]{māya}\rdg[wit={U1}]{yāya}\rdg[wit={U2}]{pāpa}\rdg[wit={E,P,L}]{\om}}  \app{\lem[wit={E,P}]{vittaṃ}\rdg[wit={L}]{vitaṃ}\rdg[wit={N1,D1,U1}]{vitvaṃ}\rdg[wit={U2}]{titaṃ}} hiṃsā tṛṣṇā \app{\lem[wit={E}, alt={mātsaryama}]{mātsaryam}\rdg[wit={P,L,N1,U2}]{mātsaryaṃ}\rdg[wit={P,L,N1,U2}]{mātsarya}}haṃkāraḥ \app{\lem[wit={P,L,N1,D1,U2}]{roṣobhayaṃ}\rdg[wit={E,U1}]{roṣaḥ bhayaṃ}} \app{\lem[wit={E,P,L,N1,D1,U2}]{lajjā}\rdg[wit={U1}]{lajā}} \app{\lem[wit={E,N1,D1,U1}]{lobhamohā}\rdg[wit={P,L}]{lobhaḥ mohaḥ}\rdg[wit={U2}]{mohā}} aśucitvaṃ \app{\lem{\conj. rāgo dveṣaḥ}\rdg[wit=[{P}]{rāgaḥ dveṣaḥ}\rdg[wit={N1,D1,U1,U2}]{rāgadveṣaḥ}\rdg[wit={L}]{rājadveṣa}\rdg[wit={E}]{\om}}\note[type=philcomm, labelb=s2.z6b, labele=s2.z6e, lem={rāgo dveṣaḥ}]{I conjectured to \textit{rāgo dveṣaḥ} to provide correct grammar. Another possible conjecture would be to read \textit{rāgadveṣau}.} \app{\lem[wit={P,L,N1,D1,U1,U2}]{ālasyaṃ}\rdg[wit={E}]{\om}} \app{\lem[wit={P,L,U1,U2}]{pākhaṃḍitvaṃ}\rdg[wit={D1,N1}]{pāṣaṃḍitvaṃ}\rdg[wit={E}]{pākhaṃḍatvaṃ}} bhrāntiḥ \app{\lem[wit={E,N1,D1,U2}, alt={indriyavikāraḥ}]{rindiryavikāraḥ}\rdg[wit={U1}]{iṃdriyavīkāraḥ}\rdg[wit={P}]{iṃdriyaṃ vīkāraḥ}\rdg[wit={L}]{itivikāraḥ}}\app{\lem[wit={E,P,L,N1,D1,U1}]{kāmaḥ}\rdg[wit={U2}]{\om}} \app{\lem[wit={E,P,D1,N1]{ete}\rdg[wit={L}]{eta}\rdg[wit={U1}]{rāte}\rdg[wit={U2}]{etate}} yasya manasi pradidinaṃ nyūna \app{\lem[wit={E,P,L,D1,U1,U2}]{bhavanti}\rdg[wit={N1}]{bhavīti}}/\end{prose}
+    \end{edition}
+    \begin{translation}
+   \ekddiv{type=trans}
+    \begin{tlate}Fraud, illusion, property,violence, craving, envy, ego, anger, anxiety, shame, greed, error, impurity, attachment, aversion, idleness, heterodoxy, false view, affection of the senses, sexual desire: He who diminishes these from day to day in is mind,...\end{tlate}
+  \end{translation} 

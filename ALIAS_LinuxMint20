@@ -1,0 +1,2 @@
+#alias for hpprov
+alias hpprovcomp="lualatex hp_1.1-20.tex && lualatex hp_1.1-20.tex && lualatex hp_1.1-20.tex && java -cp /usr/share/java/Saxon-HE.jar net.sf.saxon.Transform -s:hp_1.1-20-tei.xml -xsl:xslt2-stylesheets/html.xsl -o:html/hp_1.1-20-tei.htm && ./x-wit-texts-all.sh"
