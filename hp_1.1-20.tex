@@ -240,7 +240,7 @@ bhook=\selectlanguage{english},
 
 %%% define environments and commands
 % \NewDocumentEnvironment{tlg}{O{}O{}}{\begin{verse}}{॥#1\hskip-4pt ॥\\ \end{verse}}
-\NewDocumentEnvironment{tlg}{O{}O{}}{\begin{verse}}{\begin{otherlanguage}{english}॥#1\hskip-4pt ॥\end{otherlanguage}\\ \end{verse}}
+\NewDocumentEnvironment{tlg}{O{}O{}}{\begin{verse}}{\hskip-4pt॥\begin{otherlanguage}{english}#1\end{otherlanguage}\hskip-4pt ॥\\ \end{verse}}
 \NewDocumentCommand{\tl}{m}{#1}
 
 \NewDocumentCommand{\extra}{m}{{\textcolor{teal}{#1}}} %command for additions to U2
@@ -386,7 +386,7 @@ surname=Team]
 % virājate pronnatarājasaudham āroḍhum icchor adhirohiṇīva  || 1.1 ||
 % metre: Upajāti
 %
-\begin{tlg}[hp11][]
+\begin{tlg}[1.1][]
 \tl{
 \app{\lem[wit={ceteri}]{śrīādināthāya}
      \rdg[wit={V1}]{ādīśanāthāya}
@@ -433,7 +433,7 @@ namo\app{\lem[wit={ceteri}]{'stu}
      \rdg[wit={C1,V3,V5}]{\skp{-}adhiroha eva}
      \rdg[wit={N12}]{\skp{-}adhirohanena}
      \rdg[wit={N19}]{\skp{-}adhirohatīva}
-     \rdg[wit={V6}]{\skp{-}adhirohaṇāya}}//
+     \rdg[wit={V6}]{\skp{-}adhirohaṇāya}}
  }
 \end{tlg}
 
@@ -454,7 +454,7 @@ namo\app{\lem[wit={ceteri}]{'stu}
 %--------------
 %Bṛhadyogasopāna.txt:355:tmārāmajī likhate haiṃ ki - "kevala rājayogāya %haṭhavidyopadiśyate।" vinā
 %--------------
-\begin{tlg}[hp12][]
+\begin{tlg}[1.2][]
   \tl{
 praṇamya śrī\app{\lem[wit={ceteri}]{guruṃ}
      \rdg[wit={C3,J2}]{guru}
@@ -483,7 +483,7 @@ haṭha\app{\lem[wit={ceteri}]{vidyopadiśyate}
      \rdg[wit={N17}]{yogo pradiśyate}
      \rdg[wit={C3}]{yogapradiśyate}
      \rdg[wit={N10,V11}]{yogaḥ pradṛśyate}
-     \rdg[wit={J10}]{yogoyadiśyate}}// %check if sure "ya" and not "pa"?
+     \rdg[wit={J10}]{yogoyadiśyate}} %check if sure "ya" and not "pa"?
 }
 \end{tlg}
 % Having bowed to the glorious guru, the Lord, the yogi Svātmārāma has taught the doctrine of Haṭhayoga solely for [attaining] Rājayoga. 
@@ -501,7 +501,7 @@ haṭha\app{\lem[wit={ceteri}]{vidyopadiśyate}
 %--------------
 %Yogatārāvalī-HP-Yogābhyāsaprayogasāra.txt:39: haṭhapradīpikāṃ dhatte svātmārāmaḥ %kṛpākaraḥ ||3||
 %--------------
-\begin{tlg}[hp13][]
+\begin{tlg}[1.3][]
 \tl{
 \app{\lem[wit={ceteri}]{bhrāntyā}
      \rdg[wit={C4,C7,J13,J15,L1,N5,N20,V3,V19}]{bhrāntvā}
@@ -523,7 +523,7 @@ haṭha\app{\lem[wit={ceteri}]{vidyopadiśyate}
      \rdg[wit={J4}]{mati}
      \rdg[wit={J15}]{matva}
      \rdg[wit={N11}]{gata}
-     \rdg[wit={N24ac}]{{\supplied{\gap{reason=lost,unit=word, quantity=2}}}}
+     \rdg[wit={N24ac}]{{\supplied{\gap{reason=deleted,unit=word, quantity=2}}}}
 }%
 \app{\lem[wit={ceteri}]{dhvānte}
      \rdg[wit={C6,V2,V8,V26,N23}]{dhvāntai}
@@ -571,7 +571,8 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
       \rdg[wit={J10,J15,J17,N6,N10,N17,V4,V11}]{kṣamākaraḥ}% J15 omits visarga
       \rdg[wit={J2}]{niraṃjanaṃ}
       \rdg[wit={V26}]{nirañjanaḥ}
-      \rdg[wit={V3}]{prakāśyate}}//}% V3 has kṛpaḥ in the right margin
+      \rdg[wit={V3}]{prakāśyate}}
+}% V3 has kṛpaḥ in the right margin
 \end{tlg}
 %
 %Translation
@@ -586,7 +587,7 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
 %--------------
 % Yogatārāvalī-HP-Yogābhyāsaprayogasāra.txt:41: svātmārāmo [']thavā yogī jānīte % %tatprasādataḥ ||4||
 %--------------
-\begin{tlg}[hp14][]
+\begin{tlg}[1.4][]
 \tl{
     haṭha\app{\lem[wit={ceteri}]{vidyāṃ hi}
      \rdg[wit={B1,J1,J2,J13,N6,N13,N16,N17,N19,N21,N23,V1}]{vidyā hi}
@@ -634,7 +635,7 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
      \rdg[wit={V11}]{jānīmat}
 } 
 \app{\lem[wit={ceteri}]{tatprasādataḥ}% J15 omits visarga
-  \rdg[wit={N1}]{tatprasāditaḥ}}//
+  \rdg[wit={N1}]{tatprasāditaḥ}}
 }
 \end{tlg}
 % Translation In fact, Matsyendra, Gorakṣa and other [siddhas] knew the doctrine of Haṭha, and the
@@ -649,7 +650,7 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
 %--------------
 %Haṭharatnāvalī:233: śāraṅgīmīnagorakṣavirūpākṣabileśayāḥ ||1.80||% HP 1.5
 %--------------
-\begin{tlg}[hp15][]
+\begin{tlg}[1.5][]
 \tl{  
 \app{\lem[wit={ceteri}]{śrīādinātha}
      \rdg[wit={C3}]{ādināthāya}
@@ -714,7 +715,8 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
       \rdg[wit={N3}]{savālmikaḥ}
       \rdg[wit={V19}]{savālikaḥ}
       \rdg[wit={J15,V3}]{bileśayā}
-      \rdg[wit={V4}]{biśleśayāḥ}}//}
+      \rdg[wit={V4}]{biśleśayāḥ}}
+}
 % The glorious Ādinātha, Matysendra, Śābara, Ānandabhairava, Cauraṅgī, Mīna, Gorakṣa, Virūpākṣa, Bileśaya,
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -734,7 +736,7 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
 %sa_govindabhagavatpAda-rasahRdayatantra-comm.txt:198:
 %raṇṭakaḥ surānandaḥ siddhapādaśca carpaṭī // grhtcm_1.7:8 //
 %--------------
-\begin{tlg}[hp16][]
+\begin{tlg}[1.6][]
 \tl{
 \app{\lem[wit={ceteri}]{manthāna}
      \rdg[type=stemmaerror,wit={B2}]{\unm śrīmanthāna} % stemma error
@@ -808,20 +810,20 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
      \rdg[wit={Vu}]{koraṃḍīka}
      \rdg[wit={V2}]{kauraṃḍīkaḥ }
      \rdg[wit={N20}]{paura...kaḥ } %illeg
-     \rdg[wit={C1,J3,L1,N11,V5,V19}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}}
+     \rdg[wit={C1,J3,L1,N11,V5,V19}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}}
 }\app{\lem[wit={ceteri}]{surānandaḥ }
      \rdg[wit={B2,N12}]{sarānanda}
      \rdg[wit={C2,J2,N2,N3,V3,N22,V2}]{surānanda}
      \rdg[wit={N24}]{śurānaṃdaḥ }
      \rdg[wit={J4}]{sarānandaḥ }
-     \rdg[wit={C1,J3,L1,N11,V5,V19}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}}
+     \rdg[wit={C1,J3,L1,N11,V5,V19}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}}
 }\app{\lem[wit={ceteri}]{siddha}
      \rdg[wit={V1,J1,J2,N16,N24}]{siddhi}
      \rdg[wit={V8}]{siddhā}
-     \rdg[wit={C1,J3,L1,N11,V5,V19}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}}}\app{\lem[wit={ceteri},alt={pādaś}]{pāda\skp{ś-ca}} 
+     \rdg[wit={C1,J3,L1,N11,V5,V19}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}}}\app{\lem[wit={ceteri},alt={pādaś}]{pāda\skp{ś-ca}} 
      \rdg[wit={N22}]{pāda}
-     \rdg[wit={C1,J3,L1,N11,V5,V19}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}}}\app{\lem[wit={ceteri},alt={ca}]{\skm{ś-ca}}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}}}  
+     \rdg[wit={C1,J3,L1,N11,V5,V19}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}}}\app{\lem[wit={ceteri},alt={ca}]{\skm{ś-ca}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}}}  
 \app{\lem[wit={ceteri}]{carpaṭiḥ}
      \rdg[wit={B1,B2,N2,N17,N23,V3,V4}]{carppaṭiḥ}
      \rdg[wit={C3,J17,V6}]{carppaṭī}
@@ -831,9 +833,9 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
      \rdg[wit={M1}]{parpaṭiḥ}  
      \rdg[wit={N5}]{carpaṭīḥ}
      \rdg[wit={N11,V11}]{carpaṭaḥ}
-     \rdg[wit={C1,J3,L1,N11,V5,V19}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}}
+     \rdg[wit={C1,J3,L1,N11,V5,V19}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}}
 %\note*{1.6cd is omitted in C1,J3,L1,N11,V5,V19.}
-}//}
+}}
 \end{tlg}
           
 %General notes:
@@ -860,7 +862,7 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
 %--------------
 %sa_govindabhagavatpAda-rasahRdayatantra-comm.txt:200: kaṇerī pūjyapādaśca %nityanātho nirañjanaḥ /
 %--------------
-\begin{tlg}[hp17][]
+\begin{tlg}[1.7][]
 \tl{
 \app{\lem[wit={ceteri}]{kānerī}
      \rdg[wit={C6,J14,N2,N3,N19,V2,V6}]{kanerī}%V1 kaṇerī
@@ -902,21 +904,21 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
      \rdg[wit={J15,V3}]{nirañjanaṃ}
      \rdg[wit={J1,V8}]{nirañjana}
      \rdg[wit={V26}]{virañjanaḥ}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}}
 }/}\\
 \tl{
 \app{\lem[wit={ceteri}]{kapālī}
      \rdg[wit={J2,J15}]{kapāli}
      \rdg[wit={C1,C2,J14,N2,V2}]{kāpālī}
      \rdg[wit={N19}]{kāpāli}
-     \rdg[wit={N20,N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}}
+     \rdg[wit={N20,N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}}
      \rdg[wit={J13}]{kāpilī}
      \rdg[wit={V22}]{kapālir}
      \rdg[wit={V26}]{kalāpī}
 }
 \app{\lem[wit={ceteri},alt={bindunāthaś ca}]{bindunāthaś\skp{-}ca}
      \rdg[wit={V1,B1,B2,B3,J2,M1}]{bindunādaś ca}
-      \rdg[wit={N20,N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}}
+      \rdg[wit={N20,N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}}
       \rdg[wit={V8}]{bindunāthasya}}  % J4? J10?   
 \app{\lem[wit={C6,N13,N23,Tü,V1,Vu}]{kākacaṇḍīśvarāhvayaḥ}
      \rdg[wit={ceteri}]{kākacaṇḍīśvarādayaḥ}
@@ -927,7 +929,7 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
      \rdg[wit={V8}]{kāṃkāṃcaṃdrisvarādayaḥ}
      \rdg[wit={J2}]{kālacaṃḍīsvarāhūyaṃ}
      \rdg[wit={N3}]{kākacaṃdeśvarogayaḥ}
-     \rdg[wit={N20,N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=2}}}}   
+     \rdg[wit={N20,N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=2}}}}   
      \rdg[wit={N24}]{kākacaṃḍiśvarāhayaḥ}
      \rdg[wit={M1}]{kākacaṃteśvaro mayaḥ}   
      \rdg[wit={V26}]{kākaguṇḍīśvarāhvayaḥ}
@@ -939,7 +941,7 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
      \rdg[wit={V22}]{kākacaṇḍīśvarā .. ..ḥ} %illegible
      \rdg[wit={N21}]{kākacaṇḍīśvarāvayaḥ}}
 %\note*{7cd is omitted in N20,N22,N26. Instead they continue with 8ab resulting in an alternate verse enumeration from here.}
-//}
+}
 %General notes:
 %\note*{N20,N22,N26 omit 7cd entirely replacing it with 8ab, resulting in a altered verse count for chapter 1.}}
 %
@@ -958,14 +960,14 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
 % allamaḥ prabhudevaś ca naiṭacūṭiś ca ṭiṇṭiṇiḥ  | %  Var: phaiṭīchoṭī ca-P phaiṭīchroṭī ca -T, t1
 %bhālukir nāgabodhaś ca khaṇḍakāpālikas tathā ||1.83||%
 %--------------
-\begin{tlg}[hp18][]
+\begin{tlg}[1.8][]
 \tl{
 \app{\lem[type=conjecture, resp=nosscr]{allāma}
      \rdg[wit={Tü,V1,V3,V8,V22,Vu,N24}]{\conj allāmaḥ }
      \rdg[wit={N13,J10,J15,J17,N20}]{allamaḥ }
      \rdg[wit={M1}]{allama}
      \rdg[wit={N10}]{allāmā}
-     \rdg[wit={B1,N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}} 
+     \rdg[wit={B1,N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}} 
      \rdg[wit={B2}]{mallama}
      \rdg[wit={B3,C2,N1}]{agastyaḥ }
      \rdg[wit={J2,J4}]{ahlama}
@@ -989,7 +991,7 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
      \rdg[wit={J2}]{prabhuṃ devasya}
      \rdg[wit={M1}]{+ + [deva]śca}
      \rdg[wit={V8,N19}]{prabhudevasya}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}} 
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}} 
 }
 \app{\lem[wit={ceteri}]{ghoḍācolī}  
      \rdg[wit={C6}]{goḍācūlī}
@@ -1002,7 +1004,7 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
      \rdg[wit={M1,N23}]{ghoḍācūlī}
      \rdg[wit={J4}]{ghoḍāvolī}
      \rdg[wit={N5}]{vaḍācolī}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}} 
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}} 
      \rdg[wit={V5}]{ghogacolī}
      \rdg[wit={V19}]{ghoṭācoli}
      \rdg[wit={V22}]{gho .. co .ī} %illeg
@@ -1011,7 +1013,7 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
      \rdg[wit={C7,L1,N5}]{gha}
      \rdg[wit={V19}]{sa}
      \rdg[wit={V11}]{la}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}} 
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}} 
    }
 \app{\lem[wit={B1,C1,J3,J10,J13,J17,N17,N19,N24,V1,V2}]{ṭiṇṭiṇī}
      \rdg[wit={C2,C3,N5}]{ṭiṇṭiṇīḥ}
@@ -1019,7 +1021,7 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
      \rdg[wit={N21}]{tiṇṭiṇī}
      \rdg[wit={V11}]{tiṇṭinī}
      \rdg[wit={V6}]{tiṇṭaṇi}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}} 
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}} 
      \rdg[wit={C4,J1,N3,N6,N10,N13,N16,Tü,V5,V22,Vu}]{ṭiṇṭiṇiḥ}
      \rdg[wit={V4}]{ṭiṇṭiṇaḥ}
      \rdg[wit={V19}]{ṭiṇṭiniḥ}
@@ -1056,7 +1058,7 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
      \rdg[wit={B2,J2,N20}]{vāsukī}
      \rdg[wit={V8,V26}]{vāsuki}
      \rdg[wit={J4,V3,J15,N16}]{vāsukir}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}} 
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}} 
      \rdg[wit={Vu}]{bhānukī}
      \rdg[wit={N23}]{bhānuki}
 }
@@ -1073,7 +1075,7 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
      \rdg[wit={J1}]{nālabodhaś ca}
      \rdg[wit={N20,V19}]{nāgarodhaś ca}
      \rdg[wit={V6}]{vānabodhaś ca}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}} 
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}} 
      \rdg[wit={N24}]{nā .. .. .. ś ca} %illegible 
 }
 \app{\lem[wit={ceteri}]{khaṇḍa}  
@@ -1088,7 +1090,7 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
      \rdg[wit={N3}]{siddhaḥ\skp{-}}
      \rdg[wit={N11}]{ṣaṇḍaḥ\skp{-}}
      \rdg[wit={N19}]{paṃḍa}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}} 
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}} 
 }%
 \app{\lem[wit={ceteri}, alt={kāpālikas tathā}]{kāpālikas\skp{-}tathā}
      \rdg[wit={C6}]{kaḥ pālikās tathā}
@@ -1099,8 +1101,8 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
      \rdg[wit={V2}]{kapālakās tathā}
      \rdg[wit={J17}]{kapālikas tathā}
      \rdg[wit={M1}]{kāhelikas tathā}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}} 
-     \rdg[wit={N24}]{kāpālīkas tathāḥ}}//}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}} 
+     \rdg[wit={N24}]{kāpālīkas tathāḥ}}}
 % Allamaprabhudeva, Ghoḍācolī, Ṭiṇṭiṇī, Bhālukī and Nāgabodha and Khaṇḍakāpālika.
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -1116,23 +1118,23 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
 %ity ādayo mahāsiddhāḥ haṭhayogaprasādataḥ |
 %khaṇḍayitvā kāladaṇḍaṃ brahmāṇḍe vicaranti te ||1.84||% HP 1.9
 %--------------
-\begin{tlg}[hp19][]
+\begin{tlg}[1.9][]
 \tl{
 \app{\lem[wit={ceteri}, alt={ity ādayo}]{ity-ādayo}
      \rdg[wit={J2}]{ity āghayo}
      \rdg[wit={V22}]{ity ādayā}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}} 
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}} 
 }
 \app{\lem[wit={ceteri}]{mahāsiddhā}
      \rdg[wit={J1,N2,N13,Tü}]{mahāsiddhāḥ}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}}} 
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}}} 
 \app{\lem[wit={ceteri}]{haṭhayoga}
      \rdg[wit={N5,N13,V11}]{haṭhayogaḥ}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}}}\app{\lem[wit={ceteri}]{prabhāvataḥ}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}}}\app{\lem[wit={ceteri}]{prabhāvataḥ}
      \rdg[wit={J2}]{prabhāvata}
      \rdg[type=stemmapoint,wit={C6,M1,N12,N20,N21,N23,V3,V11}]{prasādataḥ}% stemma point?
      \rdg[wit={V8}]{\skp{-}\unm adhaprasādataḥ}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}}} 
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}}} 
 /}\\
 \tl{
 \app{\lem[wit={ceteri}]{khaṇḍayitvā} 
@@ -1142,24 +1144,24 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
      \rdg[wit={J2}]{ṣaṃḍapitvā}
      \rdg[wit={N20}]{vaṃcayitvā}
      \rdg[wit={V8}]{\unm khaṇḍayaṃyitvā}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}}
 }   
 \app{\lem[wit={ceteri}]{kāladaṇḍaṃ}
      \rdg[wit={C3}]{kāladaṃḍa ca}
      \rdg[wit={N3}]{kāradaṃḍaṃ}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}}
      }
 \app{\lem[wit={ceteri}]{brahmāṇḍe}
      \rdg[wit={B3,C2,J4,N1,N21,V2}]{brahmāṇḍaṃ}
      \rdg[wit={M1,N3}]{brahmāṃḍeṣu}
      \rdg[wit={N19}]{brahmāṃḍa}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}} }
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}} }
 \app{\lem[wit={ceteri}]{vicaranti}
      \rdg[wit={J14,N2}]{viramanti}
      \rdg[wit={M1,N3,V19}]{°ṣu caraṃti}% NJL:does ṣu really appear twice in a row @Mitsuyo? 
      \rdg[wit={V3}]{tu caranti}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}}} 
-te//}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}}} 
+te}
 %  These great siddhas and others have destroyed the rod of death through the power of Haṭhayoga and wander in the universe. 
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -1175,24 +1177,24 @@ te//}
 %(line 3072 ): saṃsāratāpataptānāṃ samāśrayamaṭho haṭhaḥ |
 %(line 3073 ): aśeṣayogajagatām ādhāra[ḥ] kamaṭho haṭhaḥ ||
 %--------------
-\begin{tlg}[hp110][]
+\begin{tlg}[1.10][]
   \tl{
 \app{\lem[wit={ceteri}]{saṃsāra}
      \rdg[wit={N1}]{saṃsāra}
      \rdg[wit={V3}]{saṃsārā}
      \rdg[wit={C6,N13,V22,Tü,Vu}]{aśeṣa}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}}\app{
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}}\app{
      \lem[wit={ceteri}]{tāpa}
      \rdg[wit={N1}]{tāpa}
      \rdg[wit={Tü}]{tāya}
      \rdg[type=stemmapoint,wit={C3,C4pc,J10,J15,J17,N6,N10,N17,N20,V3,V4,V11}]{śrama}%stemma point?
      \rdg[wit={J1}]{tapi}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}}}\app{\lem[wit={ceteri}]{taptānāṃ}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}}}\app{\lem[wit={ceteri}]{taptānāṃ}
      \rdg[wit={B3,C2,J13,J15,J17,N6,N1,N10,N17,N20,V3,V4,V6}]{taptānām}
      \rdg[wit={V8}]{taptanām}
      \rdg[wit={J2}]{tamānāṃ}
      \rdg[wit={V11}]{cintānām}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}}
 \app{\lem[wit={V1,B1,C1,V8}]{samāśrayo}
      \rdg[type=stemmapoint,wit={B3,C2,C3,J13,J15,J17,N6,N10,N17,N20,N21,V3,V4,V6,V11}]{āśrayo yaṃ}%stemma point?
      \rdg[wit={J10}]{māśrayo yaṃ}
@@ -1202,7 +1204,7 @@ te//}
      \rdg[wit={J2}]{samīśraya}
      \rdg[wit={N1}]{āścaryo yaṃ}
      \rdg[wit={N3}]{samaśra}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}}
 \app{\lem[wit={ceteri}]{haṭho mataḥ}
      \rdg[wit={N1}]{haṭho mataḥ}
      \rdg[wit={N2,N21,V19,V26}]{mato haṭhaḥ}
@@ -1215,7 +1217,7 @@ te//}
      \rdg[wit={J2}]{maho hagaṃ}
      \rdg[wit={V8}]{\unm maho haṭho mata}
      \rdg[wit={N3}]{prathamo haṭhaḥ}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
      \rdg[wit={N24}]{nago haṭhaḥ}
      \rdg[wit={V22}]{maṭhā haṭaḥ}}/}\\
 \tl{
@@ -1226,7 +1228,7 @@ te//}
      \rdg[wit={J14}]{aśeṣayoge}
      \rdg[wit={B2}]{eṣayogaś ca}
      \rdg[wit={J2}]{aśeṣajoga}
-     \rdg[wit={N3,N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={N3,N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
      \rdg[wit={N23}]{aśeṣe yoga}}%
 \app{\lem[wit={ceteri},alt={jagatām}]{jagatā\skp{m-}}      
      \rdg[wit={N1,V1}]{jagatīm\skp{-}}% N1 jagat*īṃ*m
@@ -1240,7 +1242,7 @@ te//}
      \rdg[wit={V8}]{tantrāṇām}
      \rdg[wit={J2,V26}]{vijñāna}
      \rdg[wit={N12}]{vijñānaḥ}
-     \rdg[wit={N3,N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}}}%
+     \rdg[wit={N3,N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}}}%
 \app{\lem[wit={ceteri},alt={ādhāra}]{\skm{m-}ādhāra}
      \rdg[wit={N1}]{ādhāra}
      \rdg[wit={C3}]{ādharaḥ}
@@ -1250,7 +1252,7 @@ te//}
      \rdg[wit={L1,V6}]{ādhārai} % L1pc=ādhāraika, L1ac=°kaḥ
      \rdg[wit={N19}]{°ptādhāraḥ}
      \rdg[wit={J2,V26,N12}]{sarva}
-     \rdg[wit={N3,N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}}}% 
+     \rdg[wit={N3,N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}}}% 
 \app{\lem[wit={ceteri}]{kamaṭho}
      \rdg[wit={N1}]{kamaṭho}
      \rdg[wit={V1,V6}]{ka haṭho}
@@ -1260,17 +1262,18 @@ te//}
      \rdg[wit={J3}]{kamalo}
      \rdg[wit={N17}]{kama}
      \rdg[wit={J2,V26,N12}]{siddhi}
-     \rdg[wit={N3,N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}}}
+     \rdg[wit={N3,N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}}}
 \app{\lem[wit={ceteri}]{haṭhaḥ}
      \rdg[wit={N1}]{haṭhaḥ}
      \rdg[wit={V1,V6}]{maṭhaḥ}
      \rdg[wit={J15,J17,V5}]{haṭha}
      \rdg[wit={C2}]{haraḥ}
      \rdg[wit={J14,N20,V2}]{yathā}
-     \rdg[wit={N3,N22}]{{\supplied{\gap{reason=lost,unit=word, quantity=1}}}}
+     \rdg[wit={N3,N22}]{{\supplied{\gap{reason=deleted,unit=word, quantity=1}}}}
      \rdg[wit={V22}]{haṭaḥ}
      \rdg[wit={J2}]{pradāyakā}
-     \rdg[wit={V26,N12}]{pradāyakaḥ}}//}
+     \rdg[wit={V26,N12}]{pradāyakaḥ}}
+ }
 %\note*{J2 reads  aśeṣajogavijñānasarvasiddhipradāyakā; V26 aśeṣayogavijñānasarvvasiddhipradāyakaḥ; N12  aśeṣayogavijñānaḥ sarvasiddhipradāyakaḥ}
 %\note*{N3 omits 10cd entirely and replaces it with 11ab, resulting in a altered verse count for chapter 1}
 %Haṭha is considered a refuge for those who are burnt by the fire of transmigration. Haṭha is the foundational tortoise for the worlds of all yogas. 
@@ -1293,39 +1296,39 @@ te//}
 % (line 3353 ): guptā nirvīryā ca prakāśitā | suvāhye dhārmike deśe subhikṣe
 % (line 3354 ): nirupadrave | ekāntaṃ maṭhamadhye ca sthātavyaṃ haṭayoginām |
 % --------------
-\begin{tlg}[hp111][]
+\begin{tlg}[1.11][]
 \tl{
 \app{\lem[wit={ceteri}]{haṭhavidyā} 
      \rdg[wit={J15,J17}]{haṭhavidyāṃ}
      \rdg[wit={V22}]{haṭavidyā}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }
 \app{\lem[wit={ceteri}]{paraṃ} 
      \rdg[wit={C3,C4}]{parā}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }
 \app{\lem[wit={ceteri}]{gopyā}
      \rdg[wit={B2,N5,V3}]{gopyaṃ}
      \rdg[wit={J15,N16}]{gopya}
      \rdg[wit={J4}]{gopyāṃ}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }
 \app{\lem[wit={ceteri}]{yogināṃ}
      \rdg[wit={B1,C1,C4,C7,J3,J13,L1,M1,N10,N11,N13,N19,N20,N21,N24,V2,V5,V11,V19,V26,Vu,YC}]{yoginā}% yoginā seems the better reading in terms of grammar.
      \rdg[wit={J2}]{yogino}
      \rdg[wit={V22}]{yogi ..} %illegible could be any of the variants 
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }
 \app{\lem[wit={ceteri},alt={siddhim}]{siddhi\skp{m-}}
      \rdg[wit={C3}]{siddha}
      \rdg[wit={L1}]{middhi}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }\app{\lem[wit={ceteri},alt={icchatām}]{\skm{m-}icchatām}
      \rdg[wit={B1,B3,C1,C3,C4,C6,C7,J3,J13,L1,M1,N10,N11,N12,N13,N16,N19,N20,N21,N24,Tü,V2,V5,V19,V22,V26,Vu,YC}]{icchatā}
      \rdg[wit={C2}]{idhutā}
      \rdg[wit={J2}]{ichitā}
      \rdg[wit={V11}]{icchito}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}}/}\\
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}}/}\\
 \tl{
 \app{\lem[wit={ceteri}]{bhave\skp{d-}}
     \rdg[wit={V5}]{ude}
@@ -1334,10 +1337,10 @@ te//}
      \rdg[wit={M1}]{virvati}
      \rdg[wit={V8,N19,N24}]{vīryavati}
      \rdg[wit={J15}]{viryavati}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}}
 \app{\lem[wit={ceteri}]{guptā}
      \rdg[wit={J1}]{goptā}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}}
 \app{\lem[wit={ceteri}]{nirvīryā}
      \rdg[wit={J15,N6,V8}]{nirviryā}
      \rdg[wit={B2,C3}]{nirvīyyā}
@@ -1350,7 +1353,7 @@ te//}
      \rdg[wit={J10,N10}]{nirvāryā}
      \rdg[wit={J3}]{nirbījā}
      \rdg[wit={V11}]{nirbījī}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}}
 \app{\lem[wit={ceteri}]{tu}
      \rdg[wit={M1,N5,N19,V26}]{ti}
      \rdg[wit={J4,V19}]{va}
@@ -1358,10 +1361,11 @@ te//}
      \rdg[wit={V6}]{su}
      \rdg[wit={N3}]{ca}
      \rdg[wit={V22}]{..} %illeg
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}}
 \app{\lem[wit={ceteri}]{prakāśitā} 
      \rdg[wit={J2}]{prakāśiyet}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}}//}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}}
+ }
 % The doctrine of Haṭha should be kept very secret by those yogis who are desiring success. When it is secret it becomes potent. However, when it has been revealed, it becomes impotent.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \end{tlg}
@@ -1399,27 +1403,27 @@ te//}
 %--------------
 %Haṭharatnāvalī:197: surāṣṭre dhārmike deśe subhikṣe nirupadrave  |% HP 1.12ab  
 %--------------
-\begin{tlg}[hp112][]
+\begin{tlg}[1.12][]
   \tl{
 \app{\lem[wit={ceteri}]{surājye}
      \rdg[wit={M1,N11,N12}]{surāṣṭre}
      \rdg[wit={V8}]{surāje}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
      \rdg[wit={N24}]{surājya}
 }                
 \app{\lem[wit={ceteri}]{dhārmike deśe}
      \rdg[wit={B2,N17,N19,V11}]{dhārmmike deśe}
      \rdg[wit={M1}]{dharmadeśe ca}
      \rdg[wit={V8}]{dhārmike deśa}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}}      
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}}      
 \app{\lem[wit={ceteri}]{subhikṣe}
      \rdg[wit={V5}]{surbhikṣe}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}}
 \app{\lem[wit={ceteri}]{nirupadrave}
      \rdg[wit={J17}]{nirupadravai}
      \rdg[wit={V8}]{\unm virye nirupadrave}
      \rdg[wit={J2}]{nirudrave}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}}/}\\
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}}/}\\
 %\note*{B1,B3,C2,J13,J14,N1,N2,N21,Tü,V2,V4,V8,Vu add dhanuḥpramāṇaparyantaṃ śilāgnijalavarjite or something similar. N21 reads °varjitam}/}\\%stemma point?
 %
 %J3 inserts 2 verses ahiṃsā satyam asteyaṃ ... devārjanaṃ ..yamā daśa here.
@@ -1427,26 +1431,26 @@ te//}
 % dhanuḥpramāṇaparyantaṃ śilāgnir jalavarjite
 \tl{
 \app{\lem[wit={J3}]{\supplied{ahiṃsā satyam\skp{-}asteyaṃ brahmacaryaṃ kṣamādhṛtiḥ/}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=words,quantity=6}}}}}\\ 
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=words,quantity=6}}}}}\\ 
 \tl{
-\app{\lem[wit={J3}]{\supplied{devārcanaṃ mitāhāraśauca caiva yamādaśa//}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=words,quantity=7}}}}}\\ 
+\app{\lem[wit={J3}]{\supplied{devārcanaṃ mitāhāraśauca caiva yamādaśa}}
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=words,quantity=7}}}}}\\ 
 \tl{
 \app{\lem[wit={J3}]{\supplied{tapaḥ santoṣa āstikyaṃ dānam\skp{-}īśvarapūjanam/}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=words,quantity=5}}}}}\\ 
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=words,quantity=5}}}}}\\ 
 \tl{
-\app{\lem[wit={J3}]{\supplied{siddhāṃtaśravaṇaṃ caiva hrīr\skp{-}matiś\skp{-}ca japo hutam//}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=words,quantity=5}}}}}\\ 
+\app{\lem[wit={J3}]{\supplied{siddhāṃtaśravaṇaṃ caiva hrīr\skp{-}matiś\skp{-}ca japo hutam}}
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=words,quantity=5}}}}}\\ 
 \tl{ 
 \app{\lem[wit={B1,C2,J3,J14,Vu,V2,V8}]{\supplied{dhanuḥpramāṇaparyaṃtaṃ}}
      \rdg[wit={J13,N1,N2}]{\supplied{dhanupramāṇaparyantaṃ}}
      \rdg[wit={V4}]{\supplied{dhanuḥpramāṇaparyanta }}
      \rdg[wit={B3,N13}]{\supplied{dhanuḥpramāṇaparyyaṃte}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=words,quantity=1}}}}
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=words,quantity=1}}}}
 \app{\lem[wit={B1,N13}]{\supplied{śilāgnijalavarjjitaṃ//}}
      \rdg[wit={B3,N1,N13,C2,V2,V4,V8,J3,Vu}]{\supplied{śilāgnijalavarjjite}}
      \rdg[wit={N2}]{\supplied{śilājalāgnivarjitā}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=words,quantity=1}}}}}\\
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=words,quantity=1}}}}}\\
 % Note the following Significant insertion  for ms grouping
 %B1 inserts:   dhanuḥpramāṇaparyaṃtaṃ  x  śilāgnijalavarjjitaṃ  x ||
 %B3 inserts:   dhanuḥpramāṇaparyyaṃte  x  śilāgnijalavarjjite   x ||% It's not in V1,V3, nor Haṭharatnāvalī
@@ -1464,7 +1468,7 @@ te//}
       \rdg[wit={C1,C6,C7,J4,J14,L1,M1,N5,N3,N11,N16,N23,V19}]{ekānta}
       \rdg[wit={N2}]{ekānti}
       \rdg[wit={V22}]{ekā..}%illegible
-      \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+      \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }
 \app{\lem[wit={ceteri}]{maṭhikā}% incomplete entry
       \rdg[wit={N3,N17}]{maṭikā}
@@ -1475,31 +1479,31 @@ te//}
       \rdg[wit={J1}]{bhuvikā}
       \rdg[wit={V5}]{\unm maṭhi}
       \rdg[wit={V22}]{.. .. kā}%illegible
-      \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+      \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }
 \app{\lem[wit={ceteri}]{madhye}
       \rdg[wit={C6}]{sidhyai}
-      \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+      \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }
     \app{\lem[wit={ceteri}]{sthātavyaṃ} 
       \rdg[wit={J15}]{schātavyaṃ}   %sic? (JH)
-      \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+      \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }%
 \app{\lem[wit={ceteri}]{haṭha}
-      \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+      \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }
 \app{\lem[wit={ceteri}]{yoginā} %
       \rdg[wit={C1}]{yogataḥ}
       \rdg[wit={J17,N3,V6}]{yogināṃ}
       \rdg[wit={V22}]{yo.. ..}%illegible
-      \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
-      \rdg[wit={V8}]{yoginā bāhye maṇḍapa}}//
+      \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
+      \rdg[wit={V8}]{yoginā bāhye maṇḍapa}}
 % \note*{V8 adds bāhye maṇḍapa.}}
 }\\
 \tl{
-\app{\lem[wit={B3}]{\supplied{yuktāhāravihāreṇa haṭhayogaḥ prasiddhaye/}}
+\app{\lem[wit={B3}]{\supplied{yuktāhāravihāreṇa haṭhayogaḥ prasiddhaye//}}
      \rdg[wit={C3}]{\supplied{yuktāhāravihāreṇa haṭhayogaḥ prasiddhaye}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=word,quantity=5}}}}}\\   
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=word,quantity=5}}}}}\\   
 %%%%
 % B3 inserts: yuktāhāravihāreṇa haṭhayogaḥ prasiddhaye, C3 inserts yuktāhāravihāreṇa haṭhayogaḥ prasiddhaye || Cf. 10 Chapter version 1.43
 %%%%%%%
@@ -1528,19 +1532,19 @@ te//}
 %bāhye maṇḍapakūpavediracitaṃ prākārasaṃveṣṭitaṃ
 %proktaṃ yogamaṭhasya lakṣaṇamidaṃ siddhairhaṭhābhyāsibhiḥ।। 12।।
 %--------------
-\begin{tlg}[hp113][]
+\begin{tlg}[1.13][]
 \tl{
 \app{\lem[wit={ceteri},alt={alpadvāram}]{alpadvāra\skp{m-}}
      \rdg[wit={J14}]{anyadvāram}
      \rdg[wit={B3}]{alpāhāram}
      \rdg[wit={V22}]{alpā.. ..} %illegible
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
      \rdg[wit={N23}]{ākalpadvār}
      \rdg[wit={V11}]{svalpadvāra}
 }%
 \app{\lem[wit={ceteri},alt={arandhra}]{\skm{m-}arandhra}
       \rdg[wit={N16}]{agartta}
-      \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+      \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
       \rdg[wit={N23}]{raṃdhra}
       \rdg[wit={V22}]{marandhraṃ\skp{}}
 }\app{\lem[wit={ceteri}]{garta}
@@ -1551,7 +1555,7 @@ te//}
       \rdg[wit={N16}]{yatra} % 2nd syllable reading uncertain
       \rdg[wit={N19}]{garnta}
       \rdg[wit={V22}]{garta}
-      \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+      \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }\app{\lem[wit={V1}]{sahitaṃ}
       \rdg[wit={B1}]{pīṭhakāṃ} % Jason: pīṭhaka:  a stool, bench or pedestal
       \rdg[wit={B2}]{piṭhikāṃ} % BKhP piṭhikaṃ
@@ -1574,7 +1578,7 @@ te//}
       \rdg[wit={J2}]{puṭitam}
       \rdg[wit={N13,Tü,V22,Vu}]{vivaraṃ}
       \rdg[wit={V5}]{vivara}
-      \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+      \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
       \rdg[wit={N24}]{viṭharaṃ}
       \rdg[wit={V2,YC}]{ghaṭitaṃ}
 } 
@@ -1586,7 +1590,7 @@ te//}
       \rdg[wit={N3}]{nātyuccanīkā}
       \rdg[wit={N16,V3}]{nātyuccanoccā}
       \rdg[wit={V22}]{.. yuccanīcā} %illegible
-      \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+      \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
       \rdg[wit={N23}]{nātyuccanaṃcā}
 }%
 \app{\lem[wit={B3,J14,N2,N17,V1}]{yutaṃ} % BKhP
@@ -1596,7 +1600,7 @@ te//}
       \rdg[wit={N5}]{ryataṃ}
       \rdg[wit={N10}]{rpitaṃ}
       \rdg[wit={V22}]{.. .ṃ} %illegible
-      \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+      \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
       \rdg[wit={C4,J1,J3,J13,L1,N6,N11,N16,N20,J10,YC}]{yitaṃ} % ppp of Denominative?? This form  is not attested elsewhere. 
       \rdg[wit={C3,J17,V4,V5}]{pitaṃ}
       \rdg[wit={V6}]{pittaṃ}
@@ -1612,12 +1616,12 @@ te//}
       \rdg[wit={N3}]{saṃ}
       \rdg[wit={V8}]{liptaṃ}
       \rdg[wit={N21}]{ramyaṃ}
-      \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+      \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }%
 \app{\lem[wit={ceteri}, alt={gomaya}]{\skm{g-}gomaya}
       \rdg[wit={C4,C6,V3,V8,N13,N19,N21,N23,Tü,V4,V11}]{gomaya}
       \rdg[wit={V26}]{jogamaya}
-      \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+      \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }\app{\lem[wit={ceteri}]{sāndra}
       \rdg[wit={B2,V5}]{sārddha}
       \rdg[wit={B1,J10,N2,N6,N19,V4}]{sārdra} 
@@ -1629,7 +1633,7 @@ te//}
       \rdg[wit={N3}]{sāpra}
       \rdg[wit={V8}]{mṛtti}
       \rdg[wit={N20}]{lipta}
-      \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+      \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }\app{\lem[wit={C3,C4,C6,J10,J15,M1,N6,N10,N13,N17,N23,Tü,V4,V6,V11,V19,V22,Vu}]{liptamamalaṃ} % YCM(U), BKhP adopt amalaṃ
       \rdg[wit={J17}]{līptam amalaṃ}
       \rdg[wit={V1}]{liptam abijaṃ}
@@ -1638,7 +1642,7 @@ te//}
       \rdg[wit={N12}]{lepavimalaṃ}
       \rdg[wit={V8}]{kābhiramalaṃ}
       \rdg[wit={N20}]{sāṃdravimalaṃ}
-      \rdg[wit={J1,N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+      \rdg[wit={J1,N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 %     \note*{J1 continues with vidhe (14a)} NJL: I included the missing parts of the verses into \rdg with N22 
 }
 \app{\lem[wit={ceteri}]{niḥśeṣa}
@@ -1647,7 +1651,7 @@ te//}
       \rdg[wit={V22}]{niś. ..} %illegible
       \rdg[wit={C1,J10,J15,J17,N6,N10,V4,V6}]{nirdoṣa}
       \rdg[wit={N3}]{nidoṣi°}   
-      \rdg[wit={J1,N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}     
+      \rdg[wit={J1,N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}     
 }%
 \app{\lem[wit={ceteri}]{jantūjjhitam} % BKhP This makes better sense. But V1,J10,V3 all have bādhojjitaṃ or something similar.
       \rdg[wit={B1}]{jantohiṃtam}
@@ -1674,7 +1678,7 @@ te//}
       \rdg[wit={N1}]{vātār*n*ītaṃ}
       \rdg[wit={N2}]{vāt dhā*dg*ataṃ}
       \rdg[wit={N3}]{jpaṃtpūpsitaṃ}
-      \rdg[wit={J1,N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}} 
+      \rdg[wit={J1,N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}} 
       \rdg[wit={N23}]{jaṃbhūdgitāṃ}
       \rdg[wit={N24}]{jaṃtajjhitaṃ}
       \rdg[wit={V5}]{jaṃtanvitaṃ}
@@ -1686,12 +1690,12 @@ te//}
       \rdg[wit={C4pc}]{vrāhmaṃ}
       \rdg[wit={J17}]{vyāhye}
       \rdg[wit={J2}]{vāpī}
-      \rdg[wit={J1,N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+      \rdg[wit={J1,N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }
 \app{\lem[wit={ceteri}]{maṇḍapa}
       \rdg[wit={M1}]{maṃṭa +}
       \rdg[wit={V8}]{\unm maṇḍapaṃ maṇḍapa}
-      \rdg[wit={J1,N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}} 
+      \rdg[wit={J1,N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}} 
 }\app{\lem[wit={V1,N24}]{vedikūparucitaṃ}
       \rdg[wit={B1,B2,C2,C7,L1,J2,J3,J13,J17,N5,N6,N10,N11,N16,N17,V4,V5,V6,V19}]{vedikūparacitaṃ}%constructed with a temple, altar and well 
       \rdg[wit={C1,C3,C4pc,C6,J14,J15,N2,N3,N12,N13,N20,N21,N23,Tü,V2,V22,V3,Vu}]{vedikūparuciraṃ} % 10chp, adopt?
@@ -1702,16 +1706,16 @@ te//}
       \rdg[wit={V8}]{vedikopirācitaṃ}
       \rdg[wit={N19}]{vedikaparuciraṃ}
       \rdg[wit={V26,YC}]{kūpavediracitaṃ}
-      \rdg[wit={J1,N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+      \rdg[wit={J1,N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }
 \app{\lem[wit={ceteri}]{prākāra}
-  \rdg[wit={J1,N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+  \rdg[wit={J1,N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }\app{\lem[wit={ceteri}]{saṃveṣṭitaṃ}
       \rdg[wit={B1}]{saṃveṣṭite}
       \rdg[wit={N2}]{saṃvetaṃ}
       \rdg[wit={V22}]{saṃ .. ṣṭitaṃ} %illegible
       \rdg[wit={N20}]{saṃvoṣṭitaṃ}
-      \rdg[wit={J1}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+      \rdg[wit={J1}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }/}\\
 \tl{      
 \app{\lem[wit={ceteri}]{proktaṃ}
@@ -1722,26 +1726,26 @@ te//}
       \rdg[wit={J2}]{mavasya}
       \rdg[wit={N2}]{maṭha}
       \rdg[wit={N3}]{mahasya}
-      \rdg[wit={J1}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+      \rdg[wit={J1}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 } %
 \app{\lem[wit={ceteri}]{lakṣaṇam\skp{-}idaṃ}
       \rdg[wit={J4ac}]{lakṣatmaṇaṃ}
-      \rdg[wit={J1}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}} %N18 starts here 
+      \rdg[wit={J1}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}} %N18 starts here 
 \app{\lem[wit={ceteri},alt={siddhair}]{siddhai\skp{r-}}
       \rdg[wit={J2,N3,V5}]{siddhai}
       \rdg[wit={V22}]{.. dhyai} %illegible
       \rdg[wit={V8}]{sidhyaḥ}
-      \rdg[wit={J1}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+      \rdg[wit={J1}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }\app{\lem[wit={ceteri}]{\skm{r-}haṭhā}
       \rdg[wit={V22}]{haṭā}
-      \rdg[wit={J1}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+      \rdg[wit={J1}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }\app{\lem[wit={ceteri},alt={haṭhābhyāsibhiḥ}]{bhyāsibhiḥ}
       \rdg[wit={N3,N5}]{bhyāsabhiḥ}
       \rdg[wit={V6}]{sāsibhiḥ}
       \rdg[wit={V22}]{bhyāsibhiḥ} %same like above but cannot be used due to alt
       \rdg[wit={V8}]{bhyāsabhi}
       \rdg[wit={J15}]{bhyāsiddhi}
-      \rdg[wit={J1}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}}//
+      \rdg[wit={J1}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}}
 }
 % It has a small door, without cracks and holes, its length is not too high or low, thickly smeared with cow dung in the proper way, clean,  free from all animals, adorned with a pavilion, altar and well, surrounded by a wall: these are the characteristics of the yoga hut as taught by the adept practitioners of haṭha.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -1762,7 +1766,7 @@ te//}
 %--------------
 %Śivasaṃhitā-Jim:1157: gurūpadiṣṭamārgeṇa pratyahaṃ yaḥ samācaret
 %--------------
-\begin{tlg}[hp114][]
+\begin{tlg}[1.14][]
 \tl{
 \app{\lem[wit={ceteri}]{evaṃvidhe }
      \rdg[wit={N17}]{evaṃvidha}
@@ -1771,44 +1775,44 @@ te//}
      \rdg[wit={N21}]{evaṃvidham }
      \rdg[wit={V5}]{evaṃvidhai }
      \rdg[wit={V6}]{evaṃ bhave }
-     \rdg[wit={V22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={V22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }\app{\lem[wit={ceteri}]{maṭhe }
      \rdg[wit={N20}]{maṭho }
      \rdg[wit={N22}]{maṭha}
-     \rdg[wit={V22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={V22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }\app{\lem[wit={ceteri}]{sthitvā}
      \rdg[wit={N22}]{smitvā}
      \rdg[wit={V11}]{sthītvā}
-     \rdg[wit={V22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={V22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 } 
 \app{\lem[wit={ceteri}]{sarva}
      \rdg[wit={J3}]{sarvaṃ\skp{-}}
-     \rdg[wit={V22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={V22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }\app{\lem[wit={ceteri}]{cintā}
-     \rdg[wit={V22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={V22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }
 \app{\lem[wit={ceteri}]{vivarjitaḥ}
      \rdg[wit={C3,J15,N16,V11}]{vivarjitāḥ}
-     \rdg[wit={V22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={V22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }/}\\
 \tl{
 \app{\lem[wit={ceteri}]{gurūpa}
      \rdg[wit={J17}]{gurupa}
      \rdg[wit={N19}]{guropa}
-     \rdg[wit={V22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={V22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }\app{\lem[wit={ceteri}]{diṣṭa}
      \rdg[wit={C1,N5,V5}]{deśa}
      \rdg[wit={V8}]{\unm ste}%V8's reading is unclear
-     \rdg[wit={V22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={V22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }\app{\lem[wit={ceteri}]{mārgeṇa}
      \rdg[wit={N5}]{mātreṇa}
      \rdg[wit={N20}]{mātreṇā}
      \rdg[wit={N23}]{mārgtreṇā} %funny how the scribe brought the two readings together 
-     \rdg[wit={V22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={V22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 } 
 \app{\lem[wit={ceteri},alt={yogam}]{yoga\skp{m-}} %  J2 guru 
      \rdg[wit={J4}]{mana\skp{-}}
-     \rdg[wit={V22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={V22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }\app{\lem[wit={C3,J10,J17,N6,N10,N22,N24,V1,V4,V6,V11},alt={evaṃ samabhyaset}]{\skm{m-}evaṃ samabhyaset}%could be eva or evaṃ, eva prob best
      \rdg[wit={N17}]{evaṃ samaṃbhyaset} 
      \rdg[wit={J2,J3,J15,N11,N13,N23,Tü,V8,Vu}]{eva samabhyaset}
@@ -1817,9 +1821,9 @@ te//}
      \rdg[wit={ceteri}]{eva sadābhyaset}
      \rdg[wit={V3,N20}]{ārgaṃ samabhyaset}
      \rdg[wit={N19}]{evam ahābhyaset}
-     \rdg[wit={V22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={V22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 %\note*{Verse omitted in V22}
-}//}
+}}
 %
 %Locating oneself in a hut of such a kind, free from all worry, one should practise nothing but yoga in the way taught by one's guru.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -1844,7 +1848,7 @@ te//}
 % Cf. HP. 2.14 (na tādṛṅniyamagrahaḥ)
 %--------------
 %  Positions   V[f.2r]
-\begin{tlg}[hp115][]
+\begin{tlg}[1.15][]
 \tl{
 \app{\lem[wit={ceteri}]{atyāhāraḥ}
      \rdg[wit={B1,J2,J4,J13,N2,N5,N11,N18,N19,N20,N21,N22,V6,V8,V19}]{atyāhāra}
@@ -1917,7 +1921,7 @@ te//}
      \rdg[wit={N22}]{vinaśyatiḥ}
      \rdg[wit={V11}]{na sidhyati}
      \rdg[wit={V22}]{vina. .. ..}%illegible
-}//}
+}}
 %
 %Overeating, exertion, chatter (gossiping/bickering?), sticking to rules, associating with people, inconstancy: through [these] six, yoga will be abandoned.% impossible to decide on meaning of niyamāgraha, avagraha invisible, jyotsnā takes it as over-insistence (as if āgraha was implied) as he relates it to extreme ascetic practice; will be abandoned if prahāsyate is adopted
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -1939,7 +1943,7 @@ te//}
 %utsāho niścayaṃ dhairyaṃ tattvajñānārthadarśanam |
 %janasaṅgaparityāgaḥ ṣaḍbhir yogaḥ prasiddhyati ||5|| ~ HP 1.16
 %--------------
-\begin{tlg}[hp116][]
+\begin{tlg}[1.16][]
 \tl{
 \app{\lem[wit={ceteri},alt={utsāhān}]{utsāhā\skp{n-}}
       \rdg[wit={C1,C7,J1,J3,L1,N5,N11,N13,N23,N24,Tü,V5,V11,V19,V22,Vu}]{utsāhāt }
@@ -1975,7 +1979,7 @@ te//}
       \rdg[wit={V8}]{tvagrā}
       \rdg[wit={N22}]{kṛtvā}
       \rdg[wit={V5}]{\unm ta}
-}\app{\lem[wit={ceteri}]{jñānāc\skp{-}ca darśanāt}     % J2 tanvajñānasya
+}\app{\lem[wit={ceteri}, alt={jñānāc ca darśanāt}]{jñānāc\skp{-}ca darśanāt}     % J2 tanvajñānasya
       \rdg[wit={B1}]{jñānāc ca niścalāt} % unknown symbol, possibly a number, before cca
       \rdg[wit={B3}]{jñātāś ca niścalāt}
       \rdg[wit={V11}]{jñānāś ca darśanāt}
@@ -2015,9 +2019,7 @@ te//}
       \rdg[wit={V8}]{yogastu prasidhyati} 
       \rdg[wit={V22}]{yogaḥ ..sidhyati} %illeg
       \rdg[wit={N23}]{yyogaḥ prasidhyati}
-      \rdg[wit={N24}]{yogaḥ prasidhyatiḥ}
-}//}
-
+      \rdg[wit={N24}]{yogaḥ prasidhyatiḥ}}}
 %From zeal, conviction, resolve, understanding of the truth [of yoga] (tattva can sometimes refer to the practices of yoga: e.g., tritattva in AS 13.12, 14.2-3), discernment, abandonment of associating with people: by [these] six, on the other hand, yoga is successful.
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \end{tlg}
@@ -2096,20 +2098,20 @@ te//}
 % tapaḥ santoṣa āstikyaṃ dānam iśvarapūjanaṃ/
 % siddhāntaśravaṇañ caiva hrīr mmatiś ca japo hutaṃ// 18//
 %%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{tlg}[hpyamainsertion][]
+\begin{tlg}[1.16a][]
 \tl{
 \app{\lem[wit={C3,J15,N12}]{\supplied{atha yamaniyamāḥ//}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=word,quantity=3}}}}}\\
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=word,quantity=3}}}}}\\
 \tl{
 \app{\lem[wit={B1,B3,C2,C3,C4,J13,J15,N5,N12,N24,V6,V26}]{\supplied{ahiṃsā}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=word,quantity=1}}}}
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=word,quantity=1}}}}
 \app{\lem[wit={B1,B3,C2,C3,C4,J13,J15,N5,N12,N24,V6,V26}]{\supplied{satyam\skp{-}asteyaṃ}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=word,quantity=2}}}}
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=word,quantity=2}}}}
 \app{\lem[wit={B1,B3,C3,C4,J13,J15,N12,N24,V6,V26}]{\supplied{brahmacaryaṃ}}
      \rdg[wit={C2,N5}]{brahmacarya}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=word,quantity=5}}}}
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=word,quantity=5}}}}
 \app{\lem[wit={B1,B3,C2,C3,C4,J13,J15,N5,N12,N24,V6,V26}]{\supplied{kṣamā dhṛtiḥ/}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=word,quantity=2}}}}}\\
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=word,quantity=2}}}}}\\
 \tl{
   \app{\lem[wit={B1,C2,J15,N12,V26}]{\supplied{dayārjjavamitāhāraḥ}}
      \rdg[wit={C2}]{\supplied{dayārjaṃva mitāhāraḥ}}
@@ -2119,36 +2121,36 @@ te//}
      \rdg[wit={J13}]{\supplied{dayārjavaṃ mitāhāraḥ}}
      \rdg[wit={N5}]{\supplied{dayorjava mitāhārā}}
      \rdg[wit={N24}]{\supplied{dayārjavaṃitāhāraḥ}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=word,quantity=2}}}}      
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=word,quantity=2}}}}      
 \app{\lem[wit={B1,B3,C2,C3,C4,J13,J15,N5,N12,N24,V6}]{\supplied{śaucaṃ}}
      \rdg[wit={V26}]{\supplied{śaucañ}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=word,quantity=1}}}}
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=word,quantity=1}}}}
 \app{\lem[wit={B1,B3,C2,C3,C4,J13,J15,N5,N12,N24,V6}]{\supplied{caiva}}
      \rdg[wit={V26}]{\supplied{ceti}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=word,quantity=1}}}}
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=word,quantity=1}}}}
 \app{\lem[wit={B1,B3,C3,C4,J13,J15,N5,N12,N24}]{\supplied{yamā daśāḥ//}}
      \rdg[wit={V26}]{\supplied{yamā daśaḥ//}}
      \rdg[wit={C2}]{\supplied{niyamā daśa//}}
      \rdg[wit={V6}]{\supplied{imā daśā//}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=word,quantity=2}}}}}\\
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=word,quantity=2}}}}}\\
 \end{tlg}
-\begin{tlg}[hpniyamainsertion][]
+\begin{tlg}[1.16b][]
 \tl{
 \app{\lem[wit={B1,N24,C4,V6,V26}]{\supplied{tapaḥ santoṣa āstikyaṃ}}
      \rdg[wit={C2,C3,N5,N12,J15,J13}]{\supplied{tapaḥ saṃtoṣam āstikyaṃ}}
      \rdg[wit={B3}]{\supplied{tapaḥ santoṣam āstikya}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=word,quantity=3}}}}
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=word,quantity=3}}}}
 \app{\lem[wit={B1,B3,C2,C3,C4,J13,J15,N5,N12,N24,V6,V26}]{\supplied{dānam iśvarapūjanaṃ/}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=word,quantity=3}}}}}\\
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=word,quantity=3}}}}}\\
 \tl{
 \app{\lem[wit={B1,B3,C2,C3,C4,J13,J15,N5,N12,V6,V26}]{\supplied{siddhāntaśravaṇaṃ}}
      \rdg[wit={N24}]{\supplied{siddhāṃtavākyaśravaṇaṃ}}   
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=word,quantity=1}}}}
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=word,quantity=1}}}}
 \app{\lem[wit={B1,B3,C2,C3,C4,J13,J15,N5,N12,N24,V6,V26}]{\supplied{caiva}}
      \rdg[wit={N5}]{\supplied{caivaṃ}}
      \rdg[wit={C3}]{\supplied{cāpi}}
      \rdg[wit={N24}]{\supplied{\gap{reason=variant,unit=word,quantity=1}}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=word,quantity=1}}}}
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=word,quantity=1}}}}
 \app{\lem[wit={B1,N24}]{\supplied{hrīmatiś ca japo hṛtam//}}
      \rdg[wit={V26}]{\supplied{hrīr mmatiś ca japo hutaṃ//}}
      \rdg[wit={N12}]{\supplied{hrī matiś ca japo hutaṃ//}}
@@ -2158,12 +2160,12 @@ te//}
      \rdg[wit={N5}]{\supplied{vedāṃtaśrāvaṇas tathā//}}
      \rdg[wit={C4,J15}]{\supplied{vedāṃtaśravaṇaṃ tathā//}}
      \rdg[wit={J13}]{\supplied{matiś caryā japo hutaṃ//}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=word,quantity=1}}}}}\\
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=word,quantity=1}}}}}\\
 \tl{
   \app{\lem[wit={B3,V6}]{\supplied{iti daśa niyamāḥ prakīrtitāḥ//}}
      \rdg[wit={J13}]{\supplied{iti daśa niyamā prakīrttitāḥ//}}
      \rdg[wit={N24}]{\supplied{niyamādaśāptaṃ proktādyogasāsravi śāradaiḥ//}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=word,quantity=1}}}}}
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=word,quantity=1}}}}}
 \end{tlg}
 \pagebreak
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
@@ -2243,7 +2245,7 @@ te//}
 %(line 419 ): tat kuryād āsanaṃ sthairyam ārogyaṃ cāṃgapādavam ||
 %
 %--------------
-\begin{tlg}[hp117][]
+\begin{tlg}[1.17][]
 \tl{
 \app{\lem[wit={ceteri},alt={haṭhasya prathamāṅgatvād}]{haṭhasya prathamāṅgatvā\skp{d-}}
      \rdg[wit={J15}]{haṭhasya pramathaṃgatvād}
@@ -2287,7 +2289,7 @@ te//}
      \rdg[wit={V19}]{loghavaṃ}    
      \rdg[wit={V5}]{lāghavāṃ}         
 %\note*{1.17 and 1.18 are transposed in C1,L1,N3,N11,N16,V5,V19,YC}
-}//
+}
 }
 %[not sure about the sth, but the airyaṃ is clear]
 %[cāṅgapāṭavaṃ - skilfulness, optimal functioning of the body? cf. indriyapātava] 
@@ -2328,7 +2330,7 @@ te//}
 %Haṭharatnāvalī:676: vasiṣṭhādyaiś ca munibhir matsyendrādyaiś ca yogibhiḥ||
 %aṃgīkṛtāny āsanāni lakṣyante kāni cin mayā||3.6||% HP 1.18
 %--------------
-\begin{tlg}[hp118][]
+\begin{tlg}[1.18][]
 \tl{    
 \app{\lem[wit={ceteri},alt={vasiṣṭhādyaiś ca}]{vasiṣṭhādyaiś\skp{-}ca}
      \rdg[wit={N20}]{vasiṣṭhodyaiś ca}  
@@ -2368,7 +2370,7 @@ yogibhiḥ/}\\ %
 }
 \app{\lem[wit={ceteri}]{kānicinmayā}
        \rdg[wit={V8}]{kānicinmayaṃ}
-}//}
+}}
 %I shall now teach some of the postures which have been accepted by sages (munis) such as Vasiṣṭha and yogis such as Matsyendra.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \end{tlg}
@@ -2387,7 +2389,7 @@ yogibhiḥ/}\\ %
 %jānūrvor antaraṃ samyak kṛtvā padatale ubhe||
 %ṛjukāyasamāsīnaḥ svastikaṃ tat pracakṣate||3.52||%HP 1.19
 %--------------
-\begin{tlg}[hp119][]
+\begin{tlg}[1.19][]
 \tl{
 \app{\lem[wit={ceteri}, alt={jānūr vorantare}]{jānūr\skp{-}vorantare}        %J2  jānvoghairitare
      \rdg[wit={N5,N17,N24,V8}]{jānur voraṃtare}
@@ -2439,9 +2441,7 @@ yogibhiḥ/}\\ %
      \rdg[type=stemmapoint,wit={N10,N12,N19,N23,V11,V26}]{pracakṣyate}% stemma point
      \rdg[wit={C3}]{prayachate}
      \rdg[wit={J1}]{pravakṣyate}
-     \rdg[wit={N22}]{tracakṣyate}
-}//}
-   
+     \rdg[wit={N22}]{tracakṣyate}}} 
 % In J14 this verse is found between 1.16 and 1.17.
 %
 % Vu adds another verse on Svastikāsana
@@ -2454,25 +2454,23 @@ yogibhiḥ/}\\ %
 %Correctly placing the soles of both feet between the knees and thighs [and] sitting up with the body straight: they call that the auspicious [pose].
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \end{tlg}
-\begin{tlg}[vuextrafter19][]
+\begin{tlg}[Vu 1.19a][]
 \tl{
 \app{\lem[wit={Vu}]{\supplied{ūrujaṅghāntarādhāya prapade jānumadhyate/}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=word,quantity=3}}}}
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=word,quantity=3}}}}
 }\\
 \tl{
-\app{\lem[wit={Vu}]{\supplied{yogino yad\skp{-}avasthānaṃ svastikaṃ tad\skp{-}vidur\skp{-}budhāḥ//}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=word,quantity=8}}}}
+\app{\lem[wit={Vu}]{\supplied{yogino yad\skp{-}avasthānaṃ svastikaṃ tad\skp{-}vidur\skp{-}budhāḥ}}
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=word,quantity=8}}}}
 }
 \end{tlg}
-\begin{tlg}[v2extrafter19][]
+\begin{tlg}[V2 1.19b][]
 \tl{
 \app{\lem[wit={V2}]{\supplied{jaṅghorvor\skp{-}adhare pādayugalaṃ viniveśayet/}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=word,quantity=4}}}}
-}\\
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=word,quantity=4}}}}}\\
 \tl{
-\app{\lem[wit={V2}]{\supplied{sukhāsanam\skp{-}idaṃ proktaṃ sādhakānāṃ sukhāvahaṃ//}}
-     \rdg[wit={ceteri}]{\supplied{\gap{reason=unauthentic,unit=word,quantity=5}}}}
-}
+\app{\lem[wit={V2}]{\supplied{sukhāsanam\skp{-}idaṃ proktaṃ sādhakānāṃ sukhāvahaṃ}}
+     \rdg[wit={ceteri}]{\supplied{\gap{reason=editorial,unit=word,quantity=5}}}}}
 \end{tlg}
 \pagebreak
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -2489,7 +2487,7 @@ yogibhiḥ/}\\ %
 % savye dakṣiṇagulphaṃ tu pṛṣṭhapārśve niyojayet||
 % dakṣiṇe 'pi tathā savyaṃ gomukhaṃ gomukhāsanam||3.53||%HP 1.20
 % --------------
-\begin{tlg}[hp120][]
+\begin{tlg}[1.20][]
 \tl{
 \app{\lem[wit={ceteri}]{savye}
      \rdg[wit={J17}]{sarvye}
@@ -2521,14 +2519,14 @@ yogibhiḥ/}\\ %
      \rdg[wit={B3}]{dakṣiṇo}
      \rdg[wit={J2}]{jakṣiṇe}
      \rdg[wit={N20}]{dakṣe}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }%  
 \app{\lem[wit={ceteri}]{'pi} %  N2 savye ca dakṣiṇapārṣṇi pārśve nijojayet
      \rdg[wit={B2,C1,C7,J1,J3,N5,N12,N16,N18,N24,V5,V19}]{tu}
      \rdg[wit={C4,L1,N11,N23}]{ca}
      \rdg[wit={V6}]{na}
      \rdg[wit={N20}]{caiva}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 } 
 \app{\lem[wit={ceteri}]{tathā}
      \rdg[wit={N19}]{ptathā}}
@@ -2536,11 +2534,11 @@ yogibhiḥ/}\\ %
      \rdg[wit={J17}]{sarvyaṃ }
      \rdg[wit={V1}]{savye }
      \rdg[wit={J1}]{savya}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }\app{\lem[wit={ceteri}]{gomukhaṃ}
      \rdg[wit={C1,C7,J2,L1,V5}]{gomukhe}
      \rdg[wit={N1}]{gomukhā}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
 }
 \app{\lem[wit={ceteri}]{gomukhaṃ yathā}%C1 has gomukhe gomukhaṃ yathā, and gomukhaṃ gomukhākṛtiḥ in margin; V1 gomukhaṃ gomukhaṃ āyathṃā; Vasiṣṭhasaṃhitā has gomukhaṃ tat pracakṣate
      \rdg[wit={J17}]{gaumukhaṃ yathā}
@@ -2550,9 +2548,10 @@ yogibhiḥ/}\\ %
      \rdg[wit={B2,C3,N6,N17,N20,V3,V4,V11}]{gomukhaṃ tathā}
      \rdg[wit={N10}]{gīrmukhaṃ tathā}
      \rdg[wit={N16}]{gomukhaṃ viduḥ}
-     \rdg[wit={N22}]{{\supplied{\gap{reason=lost,unit=word,quantity=1}}}}
+     \rdg[wit={N22}]{{\supplied{\gap{reason=deleted,unit=word,quantity=1}}}}
      \rdg[wit={J2}]{gomukhe yathā}
-     \rdg[wit={V8}]{ca cicakṣate}}//}
+     \rdg[wit={V8}]{ca cicakṣate}}
+ }
 %One should place one's right heel on the left, at the side of the [lower] back, and on the right the left in the same way. This is the Cow's Mouth [posture]; it is like a cow's mouth.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \end{tlg}
@@ -2572,4 +2571,4 @@ yogibhiḥ/}\\ %
 % - what to do with N18? add gap to every reading?!?! start from verse 13!! 
 % - check J1!!!
 % - %original entry changed: no solution yet: \rdg[wit={N1}]{jñānāc ca niśca\lins lā\rins t}
-% - discuss unauthentic 
+% - discuss editorial 
