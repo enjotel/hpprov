@@ -281,11 +281,13 @@ bhook=\selectlanguage{english},
 \TeXtoTEI{bigskip}{}
 \TeXtoTEI{/}{|}
 \TeXtoTEI{tl}{l}
+
 \TeXtoTEIPat{english}{}
 \TeXtoTEIPat{-}{ }
 \TeXtoTEIPat{°}{}
 \TeXtoTEIPat{\textcolor {#1}{#2}}{<hi rend="#1">#2</hi>}
 
+\TeXtoTEIPat{\rlap}{}
 \TeXtoTEIPat{\eyeskip}{}
 \TeXtoTEIPat{\aberratio}{}
 \TeXtoTEIPat{\ad}{}
@@ -608,10 +610,9 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
      \rdg[wit={V11}]{gorakṣyādyā}}
 \app{\lem[wit={ceteri}]{vijānate}
      \rdg[wit={B2,M1}]{vijānatā}
-     \rdg{[wit={J2}]{hi jānate}
+     \rdg[wit={J2}]{hi jānate}
      \rdg[wit={N3}]{virājate}
-     \rdg[wit={V11}]{vijānateḥ}}
-}/}\\
+     \rdg[wit={V11}]{vijānateḥ}}/}\\
 \tl{
 \app{\lem[wit={ceteri}]{svātmārāmo\skp{-}}
      \rdg[wit={C4ac,J1,J3,L1,N5,N11,V19,V26}]{ātmārāmo}
@@ -888,8 +889,8 @@ haṭha\app{\lem[wit={ceteri}]{pradīpikāṃ}
      \rdg[wit={V1}]{pūrya}    
      \rdg[wit={B1,B3,C2,J10,J15,J17,N10,N22,V6,V11}]{pūrva}
      \rdg[wit={V4}]{pūrvva}
-     \rdg[wit={J4}]{sarva}}
-\app{\lem[wit={ceteri}, wit={pādaś ca}]{pādaś\skp{-}ca}
+     \rdg[wit={J4}]{sarva}
+}\app{\lem[wit={ceteri}, wit={pādaś ca}]{pādaś\skp{-}ca}
      \rdg[wit={J1}]{pāṇaś ca}
      \rdg[wit={N20}]{nāthaś ca}
 }
@@ -1964,8 +1965,8 @@ te}
       \rdg[wit={C1,C7,L1,N5,N11,N13,N24,Tü,V5,V19,Vu,YC}]{sāhasāddhairyāt}% C1 has in margin sāhasāt parākramāt
       \rdg[wit={J1,J3,N23}]{sāhasādvairyāt}
       \rdg[wit={J2}]{niściyaudhairya}
-      \rdg[wit={V26}]{niścayau dhairyyaṃ}
-      \rdg[wit={N19}]{viścalaṃdhairyyaṃ}
+      \rdg[wit={V26}]{niścayau dhairyyaṃ }
+      \rdg[wit={N19}]{viścalaṃdhairyyaṃ }
       \rdg[wit={N1}]{niścayoddhairyāt}
       \rdg[wit={V1}]{niścayadhairyāt}
       \rdg[wit={V6}]{niścayādhairyāt}
