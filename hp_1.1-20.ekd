@@ -656,21 +656,21 @@
 <5-x-2>{\selectlanguage {english}{\supplied {\gap {reason=deleted,unit=word, quantity=1}}}} \getsiglum {N3,N22}</5-x-2>
 <5-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}ādhāra} \getsiglum {ceteri}\ekdsep </5-x-2>
 <5-x-2>{\selectlanguage {english}ādhāra} \getsiglum {N1}</5-x-2>
-<5-x-2>{\selectlanguage {english}ādharaḥ} \getsiglum {C3}</5-x-2>
-<5-x-2>{\selectlanguage {english}ādhāre} \getsiglum {V1,V8}</5-x-2>
-<5-x-2>{\selectlanguage {english}ādhāraḥ} \getsiglum {B1,B3,C2,J4,J17,N2,N6,N17,N20,V2,V3,V4,V11,V12,V19}</5-x-2>
+<5-x-2>{\selectlanguage {english}ādharaḥ\skp {-}} \getsiglum {C3}</5-x-2>
+<5-x-2>{\selectlanguage {english}ādhāre\skp {-}} \getsiglum {V1,V8}</5-x-2>
+<5-x-2>{\selectlanguage {english}ādhāraḥ\skp {-}} \getsiglum {B1,B3,C2,J4,J17,N2,N6,N17,N20,V2,V3,V4,V11,V12,V19}</5-x-2>
 <5-x-2>{\selectlanguage {english}ādhārā} \getsiglum {J10}</5-x-2>
 <5-x-2>{\selectlanguage {english}ādhārai} \getsiglum {L1,V6}</5-x-2>
-<5-x-2>{\selectlanguage {english}ptādhāraḥ} \getsiglum {N19}</5-x-2>
+<5-x-2>{\selectlanguage {english}ptādhāraḥ\skp {-}} \getsiglum {N19}</5-x-2>
 <5-x-2>{\selectlanguage {english}sarva} \getsiglum {J2,V26,N12}</5-x-2>
 <5-x-2>{\selectlanguage {english}{\supplied {\gap {reason=deleted,unit=word, quantity=1}}}} \getsiglum {N3,N22}</5-x-2>
-<5-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}kamaṭho} \getsiglum {ceteri}\ekdsep </5-x-2>
-<5-x-2>{\selectlanguage {english}kamaṭho} \getsiglum {N1}</5-x-2>
-<5-x-2>{\selectlanguage {english}ka haṭho} \getsiglum {V1,V6}</5-x-2>
-<5-x-2>{\selectlanguage {english}kaṃ maṭho} \getsiglum {V5}</5-x-2>
-<5-x-2>{\selectlanguage {english}kamaṭhe} \getsiglum {B2}</5-x-2>
-<5-x-2>{\selectlanguage {english}kaṃato} \getsiglum {N21}</5-x-2>
-<5-x-2>{\selectlanguage {english}kamalo} \getsiglum {J3}</5-x-2>
+<5-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}kamaṭho\skp {-}} \getsiglum {ceteri}\ekdsep </5-x-2>
+<5-x-2>{\selectlanguage {english}kamaṭho\skp {-}} \getsiglum {N1}</5-x-2>
+<5-x-2>{\selectlanguage {english}ka haṭho\skp {-}} \getsiglum {V1,V6}</5-x-2>
+<5-x-2>{\selectlanguage {english}kaṃ maṭho\skp {-}} \getsiglum {V5}</5-x-2>
+<5-x-2>{\selectlanguage {english}kamaṭhe\skp {-}} \getsiglum {B2}</5-x-2>
+<5-x-2>{\selectlanguage {english}kaṃato\skp {-}} \getsiglum {N21}</5-x-2>
+<5-x-2>{\selectlanguage {english}kamalo\skp {-}} \getsiglum {J3}</5-x-2>
 <5-x-2>{\selectlanguage {english}kama} \getsiglum {N17}</5-x-2>
 <5-x-2>{\selectlanguage {english}siddhi} \getsiglum {J2,V26,N12}</5-x-2>
 <5-x-2>{\selectlanguage {english}{\supplied {\gap {reason=deleted,unit=word, quantity=1}}}} \getsiglum {N3,N22}</5-x-2>
@@ -1010,17 +1010,17 @@
 <7-x-2>{\selectlanguage {english}bhyāsabhi} \getsiglum {V8}</7-x-2>
 <7-x-2>{\selectlanguage {english}bhyāsiddhi} \getsiglum {J15}</7-x-2>
 <7-x-2>{\selectlanguage {english}{\supplied {\gap {reason=deleted,unit=word,quantity=1}}}} \getsiglum {J1}</7-x-2>
-<8-x-2>{\selectlanguage {english}\bfseries \LRnum {1}~}{\bfseries \selectlanguage {english}evaṃvidhe } \getsiglum {ceteri}\ekdsep </8-x-2>
+<8-x-2>{\selectlanguage {english}\bfseries \LRnum {1}~}{\bfseries \selectlanguage {english}evaṃvidhe\skp {-}} \getsiglum {ceteri}\ekdsep </8-x-2>
 <8-x-2>{\selectlanguage {english}evaṃvidha} \getsiglum {N17}</8-x-2>
-<8-x-2>{\selectlanguage {english}evavidhe } \getsiglum {J4}</8-x-2>
-<8-x-2>{\selectlanguage {english}+vavidhe } \getsiglum {V12}</8-x-2>
-<8-x-2>{\selectlanguage {english}evaṃvidher } \getsiglum {N18}</8-x-2>
-<8-x-2>{\selectlanguage {english}evaṃvidham } \getsiglum {N21}</8-x-2>
-<8-x-2>{\selectlanguage {english}evaṃvidhai } \getsiglum {V5}</8-x-2>
-<8-x-2>{\selectlanguage {english}evaṃ bhave } \getsiglum {V6}</8-x-2>
+<8-x-2>{\selectlanguage {english}evavidhe\skp {-}} \getsiglum {J4}</8-x-2>
+<8-x-2>{\selectlanguage {english}+vavidhe\skp {-}} \getsiglum {V12}</8-x-2>
+<8-x-2>{\selectlanguage {english}evaṃvidher\skp {-}} \getsiglum {N18}</8-x-2>
+<8-x-2>{\selectlanguage {english}evaṃvidham\skp {-}} \getsiglum {N21}</8-x-2>
+<8-x-2>{\selectlanguage {english}evaṃvidhai\skp {-}} \getsiglum {V5}</8-x-2>
+<8-x-2>{\selectlanguage {english}evaṃbhave\skp {-}} \getsiglum {V6}</8-x-2>
 <8-x-2>{\selectlanguage {english}{\supplied {\gap {unit=word,quantity=1}}}} \getsiglum {V22}</8-x-2>
-<8-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}maṭhe } \getsiglum {ceteri}\ekdsep </8-x-2>
-<8-x-2>{\selectlanguage {english}maṭho } \getsiglum {N20}</8-x-2>
+<8-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}maṭhe\skp {-}} \getsiglum {ceteri}\ekdsep </8-x-2>
+<8-x-2>{\selectlanguage {english}maṭho\skp {-}} \getsiglum {N20}</8-x-2>
 <8-x-2>{\selectlanguage {english}maṭha} \getsiglum {N22}</8-x-2>
 <8-x-2>{\selectlanguage {english}{\supplied {\gap {reason=deleted,unit=word,quantity=1}}}} \getsiglum {V22}</8-x-2>
 <8-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}sthitvā} \getsiglum {ceteri}\ekdsep </8-x-2>
@@ -1369,11 +1369,11 @@
 <11-x-2>{\selectlanguage {english}tracakṣyate} \getsiglum {N22}</11-x-2>
 <11-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries \LRnum {7}~}{\bfseries \selectlanguage {english}\supplied {ūrujaṅghāntarādhāya prapade jānumadhyate/}} \getsiglum {Vu}\ekdsep </11-x-2>
 <11-x-2>{\selectlanguage {english}\supplied {\gap {reason=editorial,unit=word,quantity=3}}} \getsiglum {ceteri}</11-x-2>
-<11-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries \LRnum {8}~}{\bfseries \selectlanguage {english}\supplied {yogino yad\skp {-}avasthānaṃ svastikaṃ tad\skp {-}vidur\skp {-}budhāḥ}} \getsiglum {Vu}\ekdsep </11-x-2>
+<11-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries \LRnum {8}~}{\bfseries \selectlanguage {english}\supplied {yogino yad\skp {-}avasthānaṃ svastikaṃ tad\skp {-}vidur\skp {-}budhāḥ\skp {//}}} \getsiglum {Vu}\ekdsep </11-x-2>
 <11-x-2>{\selectlanguage {english}\supplied {\gap {reason=editorial,unit=word,quantity=8}}} \getsiglum {ceteri}</11-x-2>
 <11-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries \LRnum {9}~}{\bfseries \selectlanguage {english}\supplied {jaṅghorvor\skp {-}adhare pādayugalaṃ viniveśayet/}} \getsiglum {V2}\ekdsep </11-x-2>
 <11-x-2>{\selectlanguage {english}\supplied {\gap {reason=editorial,unit=word,quantity=4}}} \getsiglum {ceteri}</11-x-2>
-<11-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries \LRnum {10}~}{\bfseries \selectlanguage {english}\supplied {sukhāsanam\skp {-}idaṃ proktaṃ sādhakānāṃ sukhāvahaṃ}} \getsiglum {V2}\ekdsep </11-x-2>
+<11-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries \LRnum {10}~}{\bfseries \selectlanguage {english}\supplied {sukhāsanam\skp {-}idaṃ proktaṃ sādhakānāṃ sukhāvahaṃ\skp {//}}} \getsiglum {V2}\ekdsep </11-x-2>
 <11-x-2>{\selectlanguage {english}\supplied {\gap {reason=editorial,unit=word,quantity=5}}} \getsiglum {ceteri}</11-x-2>
 <12-x-2>{\selectlanguage {english}\bfseries \LRnum {1}~}{\bfseries \selectlanguage {english}savye} \getsiglum {ceteri}\ekdsep </12-x-2>
 <12-x-2>{\selectlanguage {english}sarvye} \getsiglum {J17}</12-x-2>
