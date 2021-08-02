@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Title --></title>
+<respStmt>
+<resp><!-- Edited by --></resp>
+<name><!-- Name --></name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<distributor><!-- Distributor name  --></distributor>
+</publicationStmt>
+<sourceDesc>
+<listWit><witness>
+<abbr type="siglum">J<hi rend="sub">8</hi></abbr>
+Jodhpur 23709
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness></listWit>
+<listPerson xml:id="scholars">
+<person xml:id="nos">
+<persName>
+<abbr type="siglum">nos</abbr>
+<forename>HPP</forename>
+<surname>Team</surname>
+</persName>
+</person>
+</listPerson>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<variantEncoding method="parallel-segmentation" location="internal"/>
+</encodingDesc>
+</teiHeader>
+<text>
+<body>
+<lg xml:id="HP11"> <l> śrīādināthāya namo 'stu tasmai yenopadiṣṭā haṭhayogavidyā/</l> <l> virājate pronnatarājayogam āroḍhum icchor adhiroha eva </l> </lg> <lg xml:id="HP12"> <l> praṇamya śrī guruṃ  nāthaṃ  svātmārāmeṇa yoginā /</l><l> kevalaṃ rājayogāya haṭhavidyopadiśyate </l> </lg> <lg xml:id="HP13"> <l> bhrāntyā </l> bahumatadhvānte  rājayogam ajānatām <l> haṭhapradīpikāṃ dhatte svātmārāma prakāśyate </l></lg> <lg xml:id="HP14"> <l> haṭhavidyāṃ hi matsyendragorakṣādyā vijānate /</l> <l> svātmārāmo 'thavā yogī jānante  tatprasādataḥ </l> </lg> <lg xml:id="HP15"> <l> śrīādināthamatsyendraśāgarānandabhairavā/</l> <l> cauraṅgīmīnagorakṣavirūpākṣabileśayā </l> </lg> <lg xml:id="HP16"> <l> manthānabhairavo yogī siddhabudhiś ca kaṃtharī /</l> <l> poraṃṭakaḥ  surānanda siddhapādaś ca carpaṭi </l> </lg> <lg xml:id="HP17"> <l> kānerī pūjyapādaś ca nityaṃnātho nirañjanaṃ/</l> <l> kapālībindunāthaś ca kākacaṇḍīśvarādayaḥ </l> </lg> <lg xml:id="HP18"> <l> allamaḥ prabhudevaś ca ghoḍācolī ca ciṃciṇī /</l> <l> vāsukir nāgabodhaś ca khaṇḍakāpālikas tathā </l> </lg> <lg xml:id="HP19"> <l> ityādayo mahāsiddhā haṭhayogaprasādataḥ /</l> <l> khaṇḍayitvā kāladaṇḍaṃ brahmāṇḍe tu caranti te</l> </lg> <lg xml:id="HP110"> <l> saṃsāraśramataptānāṃ āśrayo yaṃ haṭho mataḥ /</l> <l> aśeṣayogayuktānām ādhāraḥ kamaṭho haṭhaḥ </l> </lg> <lg xml:id="HP111"> <l> haṭhavidyā paraṃ gopyaṃ yogināṃ siddhim icchatām /</l> <l> bhaved vīryavatī guptā nirvīryā tu prakāśitā </l> </lg> <lg xml:id="HP112"> <l> surājye dhārmike deśe surbhikṣe nirupadrave /</l> <l> </l> <l>   </l> <l>  </l> <l> </l> <l>  </l> <l> ekānte maṭhikāmadhye sthātavyaṃ haṭhayogināṃ </l> <l> </l> </lg> <lg xml:id="HP113"> <l> alpadvāram arandhragartaviṭapaṃ nātyuccanoccāyataṃ/</l> <l> samyag gomayasārdraliptavimalaṃ niśeṣabādhojjhitam/</l> <l> bāhye maṇḍapavedikūparuciraṃ prākārasaṃveṣṭitaṃ /</l> <l> proktaṃ yogamaṭhasya lakṣaṇam idaṃ siddhair haṭhābhyāsibhiḥ </l> </lg> <lg xml:id="HP114"> <l> evaṃvidhe maṭhe sthitvā sarvacintāvivarjitaḥ/</l> <l> gurupadiṣṭamārgeṇa yogamārgaṃ samaṃbhyaset</l> </lg> <lg xml:id="HP115"> <l> ātmāhāraprayāsaś ca prajalpo niyamagrahaḥ/</l> <l> janasaṅgaś ca laulyaṃ ca ṣaḍbhir yogo vinaśyati</l> </lg> <lg xml:id="HP116"> <l> utsāhaniścayād dhairyā tattvajñānā ca darśanāt/</l> <l> janasaṅgaparityāgāt ṣaḍbhir yoga prasidhyati</l> </lg> <lg xml:id="HP116a"> <l> </l> <l> ahiṃsā satyam asteyaṃ brahmacaryaṃ kṣamā dhṛtiḥ/</l> <l> dayārjavamitāraśaucaṃ caiva yamā daśa//</l> </lg> <lg xml:id="HP116b"> <l> tapaḥ saṃtoṣam āstikyaṃ dānam  īśvarapūjanaṃ/</l> <l> siddhāntaṃ śravaṇaṃ caiva hrī matiś ca japo hutaṃ//</l> <l> </l> </lg> <lg xml:id="HP116c"> <l> </l> </lg> <lg xml:id="HP117"> <l> haṭhasya prathamāṅgatvād āsanaṃ pūrvam ucyate/</l> <l> tat kuryād āsanasthairyam ārogyaṃ cāṅgapāṭavaṃ </l> </lg> <lg xml:id="HP118"> <l> vasiṣṭhādyaiś ca munibhir matsyendrādyaiś ca yogibhiḥ/</l> <l> aṅgīkṛtā nyāsanāni kathyante kānicinmayā</l> </lg> <lg xml:id="HP119"> <l> jānūrvor antare samyak kṛtvā pādatale ubhe /</l> <l> ṛjuḥ kāyasamāsīnaṃ svastikaṃ tat pracakṣate</l> </lg> <lg xml:id="HP119a"> <l>  </l> <l>  </l> </lg> <lg xml:id="HP119b"> <l> </l> <l> </l> </lg> <lg xml:id="HP120"> <l> savye dakṣaṇagulphaṃ tu pṛṣṭhapārśve niyojayet /</l><l> dakṣiṇe 'pi tathā savyaṃ gomukhaṃ gomukhaṃ tathā </l> </lg> 
+</body>
+</text>
+</TEI>
