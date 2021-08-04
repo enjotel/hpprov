@@ -1,0 +1,4 @@
+./helayo-exe-static -x substitution_matrix.csv -l aksara -f combined.fas  > combined.xml
+
+./helayo -x substitution_matrix.csv -l aksara -f combined.fas  > combined.xml
+
