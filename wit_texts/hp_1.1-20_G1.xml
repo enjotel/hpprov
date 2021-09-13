@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Title --></title>
+<respStmt>
+<resp><!-- Edited by --></resp>
+<name><!-- Name --></name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<distributor><!-- Distributor name  --></distributor>
+</publicationStmt>
+<sourceDesc>
+<listWit><witness>
+<abbr type="siglum">G<hi rend="sub">1</hi></abbr>
+GOML 1879
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness></listWit>
+<listPerson xml:id="scholars">
+<person xml:id="nos">
+<persName>
+<abbr type="siglum">nos</abbr>
+<forename>HPP</forename>
+<surname>Team</surname>
+</persName>
+</person>
+</listPerson>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<variantEncoding method="parallel-segmentation" location="internal"/>
+</encodingDesc>
+</teiHeader>
+<text>
+<body>
+<lg xml:id="HP11"> <l> anāthanāthāya namo 'stu tasmai yenopadiṣṭā haṭhayogavidyā/</l> <l> virājate pronmatarā+yogān āroḍhum icchor adhirohiṇīva// </l> </lg> <lg xml:id="HP12"> <l> praṇamya śrī guronāthosvātmā+meṇa yoginā/</l> <l> kevalaṃ rājayogāya haṭhayogopadiśyate// </l> </lg> <lg xml:id="HP13"> <l> bhrāntyā bahumatadhvānte rājamārgamajāyata/</l> <l> haṭhapradīpikāṃ ante svātmārāma kṛpākaraḥ// </l></lg> <lg xml:id="HP14"> <l> haṭhavidyā hi macchendragorakṣādyā hi jānate/</l> <l> svātmārāmo 'thavā yogī +nāte tatprasādataḥ// </l> </lg> <lg xml:id="HP15"> <l> ānāthanāthamaccandraṃśābarānandibhairavam/</l> <l> cāraṅgi++gorakṣavirūpākṣabileśayaḥ// </l> </lg> <lg xml:id="HP16"> <l> manthānabhairavaś caivasi+buddhiś ca ka++/</l> <l> yoraṇ+++sānandasiddhapādaś ca sarvadā// </l> </lg> <lg xml:id="HP17"> <l> kānīropūjyapādaś ca nityanātho nirañjana/</l> <l> +pālībindunādaś ca kākacaṇḍīścarālayaḥ// </l> </lg> <lg xml:id="HP18"> <l> allamāprabhude+śca ++++ pi caṇḍilaḥ/</l> <l> bālākī nāgabhogaś ca kaṇṭhakāpālikas tathā// </l> </lg> <lg xml:id="HP19"> <l> ityādayo mahāsiddhāḥ haṭhayogaprabhāvataḥ/</l> <l> khaṇḍayitvā kāladaṇḍaṃ brahmāṇḍaṃ vicaran ta thā// </l> </lg> <lg xml:id="HP110"> <l> saṃsāratāpataptānāṃ samāśrayamaṭho haraḥ/</l> <l> aśeṣayogatantrāṇām ādhārakahaṭho maṭhaḥ// </l> </lg> <lg xml:id="HP111"> <l> haṭhavidyā paraṃ gopyaṃ yogināṃ siddhim icchatām/</l> <l> bhaved vidyā hy atī guptā nirvīryā tu prakāśitā// </l> </lg> <lg xml:id="HP112"> <l> surājye dhārmike deśe subhikṣe nirupadrave/</l> <l> </l> <l>   </l> <l>  </l> <l> </l> <l>  </l> <l> ekānte maṭhikāma+ sthātavyaṃ haṭhayogināṃ//</l> <l> </l> </lg> <lg xml:id="HP113"> <l> alpadvāram arandhragartamadhikaṃ nātyuccanīcāyataṃ/</l> <l> samyag gomayasāndraliptamamalaṃ niśśeṣabodhātmakaṃ/</l> <l> bāhye maṇḍapavedi+paruciraṃ prākārasaṃveṣṭitaṃ/</l> <l> proktaṃ yogamaṭhasya lakṣaṇam idaṃ siddhyair haṭhābhyāsinām// </l> </lg> <lg xml:id="HP114"> <l> evaṃvidhamaṭhe sthitvā sarvacintāvivarjitaḥ/</l> <l> gurūpadiṣṭamārgeṇa yogam eva sadābhyaset// </l> </lg> <lg xml:id="HP115"> <l> atyāhāraḥ prayāsaś ca prajalpo ++magrahaḥ/</l> <l> janasaṅgaś ca laulya ca ṣaṭ ca yogaṃ vinaśyati//</l> </lg> <lg xml:id="HP116"> <l> utsāhaṃnicchā+dhairyaṃ tattvajñānātma++nam/</l> <l> jana++parityāgaṃ ṣaṭ cayoge prasiddhyati// </l> </lg> <lg xml:id="HP116a"> <l> </l> <l>    </l> <l>   </l> </lg> <lg xml:id="HP116b"> <l> </l> <l>  </l> <l> </l> </lg> <lg xml:id="HP116c"> <l> </l> </lg> <lg xml:id="HP117"> <l> haṭhasya prathamāṅgatvād āsanaṃ pūrvam+cyate/</l> <l> tat kuryād āsanasthairyam ārogyaṃ cāṅgapādapaṃ// </l> </lg> <lg xml:id="HP118"> <l> vasiṣṭhādyaiś ca munibhi+ccādādyaiś ca yogibhiḥ/</l> <l> aṅgīkṛtā nyāsanāni kathyante kāticinmayā// </l> </lg> <lg xml:id="HP119"> <l> jānu+r antaraṃ samyak kṛtvā pādatale ubhe/</l> <l> ṛjukāyasamāsīnaḥ svastikaṃ tat pracakṣate// </l> </lg> <lg xml:id="HP119a"> <l>  </l> <l>  </l> </lg> <lg xml:id="HP119b"> <l> </l> <l>  </l> </lg> <lg xml:id="HP120"> <l> savye dakṣiṇagulphaṃ tu pṛṣṭhapārśve niyojayet/</l><l> dakṣiṇe ca tathā savyaṃ gomukhaṃ gomukhaṃ tadā// </l> </lg> 
+</body>
+</text>
+</TEI>
