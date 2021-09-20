@@ -1,49 +1,58 @@
-# sanskrit editing suite
-workflow suggestion for encoding and rendering critical editions
+# hp-witness-extraction
+Diplomatic transcription extraction routine for the Haṭhapradīpikā-editing project.
 
 ## Prerequisites
-- up-to-date [TeX Live installation](https://tug.org/texlive/acquire-netinstall.html)
-- XSLT 2.0-processor like [Saxon-HE](http://saxon.sourceforge.net/#F9.9HE)
-- (optional) [tidy](http://www.html-tidy.org/), for slightly more human-readable TEI-export
+- xslt 1.0 processor,
+- grep, sed, uniq, sort, date
 
-## Installation
-- clone this repository to your editing directory with `git clone https://github.com/radardenker/sanskrit-editing-suite`
-
-## Preliminary considerations: text encoding and presentation
-- text encoding is not to be confounded with character encoding, cf. [this site](https://scripts.sil.org/IWS-Chapter02) for a short introduction;
-- text encoding is mostly done with a particular form of presentation (a printed book, web page, poster) in mind, the content is structured and differentiated according to the necessities of the processor (e.g. LaTeX commands separate content from presentational processing instructions), often inside a user interface that displays the encoded information as formatted text in a similar way to the intended result (WYSIWYG, e.g. office suites); the text encoding has to be converted if another form of presentation is desired
-- textual content can also be encoded according to its function regardless of presentation, which is especially useful if:
-  - various presentations should be generated from the same source file,
-  - a subsequent use of the content by yourself or others is foreseeable/desirable,
-  - you don't want to deal with formatting details (yet).
-- general drawbacks of functional markup:
-  - functional markup is usually more intrusive and less intuitive to read,
-  - presentation has to be styled separately.
-
-## Acronyms
-- XML = Extensible Markup Language
-- XSLT = Extensible Stylesheet Language Transformations, 
-- DTD = Document Type Definition, a validation scheme type
-- TEI = Text Encoding Initiative
-- NLP = Natural Language Processing
+## Compatibility
+- the `teiHeader` of the [witness transcriptions](wit_texts/) is optimized for direct upload to [saktumiva](http://saktumiva.org/)
+- the [csv-database of stemmatically relevant readings](hp_1.1-20_stemmapoint-readings.csv) can be exported with the [matrix editor](https://chchch.github.io/sanskrit-alignment/matrix-editor/) to recreate the corresponding [nexus file](hp_1.1-20_stemmapoint-readings.nex), which in turn can be examined with [SplitsTree 5.3.0](https://software-ab.informatik.uni-tuebingen.de/download/splitstree5/welcome.html), cf. [splitsnetwork](stemmapoint_splitsnetwork.png)
 
 ## Usage
-- [general workflow](charts/editing-workflow-with-ekdosis.pdf) with [ekdosis](https://ctan.org/pkg/ekdosis), [LuaLaTeX](https://de.wikipedia.org/wiki/LuaTeX) and [XSLT 2.0](https://www.w3.org/TR/xslt20/)
-  - text encoding: LaTeX, cf. [this file](example.tex)
-  - outputs:
-    - [PDF](https://rawcdn.githack.com/radardenker/sanskrit-editing-suite/master/example.pdf) for publication by compiling three times:
-      ```
-      lualatex example.tex
-      ``` 
-    - [HTML](https://rawcdn.githack.com/radardenker/sanskrit-editing-suite/master/html/example-tei.htm) for web rendering by applying the appropriate stylesheet to the xml file:
-      ```
-      saxon-xslt -s:example-tei.xml -xsl:xslt2-stylesheets/html.xsl -o:html/example-tei.htm
-      ```
-    - [plain text](example-tei.txt) for string search, text mining and NLP by applying the appropriate stylesheet to the xml file:
-      ```
-      saxon-xslt -s:example-tei.xml -xsl:xslt2-stylesheets/plain-text.xsl -o:example-tei.txt
-      ```
-- for selective html and plain text outputs custom stylesheets can be created, cf. [this repo](https://github.com/radardenker/xml-crashcourse) for a short introduction
+1. diplomatic text extraction:
+- browse [wit_texts](wit_texts/) directory for the transcriptions,
+- run `x-wit-texts-all.sh hp_1.1-20.xml` to recreate from the same input file.
+2. readings extraction into csv-database:
+- check out [hp_1.1-20_stemmapoint-readings.csv](hp_1.1-20_stemmapoint-readings.csv) for the database,
+- run `x-wit-readings-csv.sh hp_1.1-20.xml` to recreate from the same input file.
+
+## Normalisation performed on initial release (realized)
+- Changed paragraph elements `<p>` to line group elements `<lg>`, added `<l>` elements and `xml:id` attributes,
+- purged not yet collated witnesses from `<listWit>`,
+- added collated witness "YC" to `<listWit>`,
+- added `wit` attribute with value "ceteri" to `lem` elements without `wit` attribute.
+
+## Encoding suggestions on initial release (realized)
+- encode verses in custom environments with references mapped to xml:id attribute:
+
+```latex
+\usepackage{xparse}
+
+%%% define environments and commands
+\NewDocumentEnvironment{tlg}{O{}O{}}{\begin{verse}}{॥#1\hskip-4pt ॥\\ \end{verse}}
+\NewDocumentCommand{\tl}{m}{#1}
+
+
+%%% TEI mapping
+\TeXtoTEIPat{\begin {tlg}[#1][#2]}{<lg xml:id="#1">}
+\TeXtoTEIPat{\end {tlg}}{</lg>}
+
+\TeXtoTEI{tl}{l}
+
+```
+
+- Create mappings for commands used in the apparatus, like `\om`:
+
+```latex
+%%% TEI mapping
+\TeXtoTEIPat{\om }{}
+```
+
+- The reading with the most witnesses could be encoded with `ceteri` or a similar shorthand for better readability. This however is only unambiguous under two conditions:
+1. `ceteri` can only be used once per `app`-command,
+2. witnesses that omit the given verses all together must be excluded separately from the scope of `ceteri` (not applicable to the current sample?).
+- Make sure all witnesses, including -ac and -pc siglas are declared in the preamble of the .tex-file.
 
 ## Known issues
-- [ekdosis](https://ctan.org/pkg/ekdosis) is still in development, it might take some months until all features can be utilized to its full potential which should replace some of the workarounds used in the [example](example.tex).
+- [ekdosis](https://ctan.org/pkg/ekdosis) is still in development, it might take some time until all features can be utilized to its full potential which should replace some of the workarounds.

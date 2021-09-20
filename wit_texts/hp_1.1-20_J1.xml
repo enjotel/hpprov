@@ -1,42 +1,116 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title><!-- Title --></title>
-<respStmt>
-<resp><!-- Edited by --></resp>
-<name><!-- Name --></name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<distributor><!-- Distributor name  --></distributor>
-</publicationStmt>
-<sourceDesc>
-<listWit><witness>
-<abbr type="siglum">J<hi rend="sub">1</hi></abbr>
-Jodhpur 02231
-<msDesc>
-<msIdentifier/>
-</msDesc>
-</witness></listWit>
-<listPerson xml:id="scholars">
-<person xml:id="nos">
-<persName>
-<abbr type="siglum">nos</abbr>
-<forename>HPP</forename>
-<surname>Team</surname>
-</persName>
-</person>
-</listPerson>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<variantEncoding method="parallel-segmentation" location="internal"/>
-</encodingDesc>
-</teiHeader>
-<text>
-<body>
-<lg xml:id="HP11"> <l> śrīādityanāthāya namo 'stu tasmai yenopadiṣṭā haṭhayogavidyā/</l> <l> virājate pronnatarājayogam āroḍham icchor adhirohiṇīva// </l> </lg> <lg xml:id="HP12"> <l> praṇamya śrī guruṃ nāthaṃ svātmārāmeṇa dhīmatā/</l> <l> kevalaṃ rājayogāya haṭhayogopadiśyate// </l> </lg> <lg xml:id="HP13"> <l> bhrāntvā vahūmatādhvānte rājayogam ajānatam/</l> <l> haṭhapradīpikāṃ cakre svātmārāma kṣamākaraḥ// </l></lg> <lg xml:id="HP14"> <l> haṭhavidyā hi matsendragorakṣādyo vijānate/</l> <l> ātmārāmo mahāyogī jānite tatprasādataḥ// </l> </lg> <lg xml:id="HP15"> <l> ādināthādimatsendraśāmbarānandabhairavā/</l> <l> coraṃgīmīnagorakṣavirūpākṣabileśayā// </l> </lg> <lg xml:id="HP16"> <l> manthānabhairavo yogī siddhibuddhiś ca kanthaviḥ/</l> <l> pauraṇḍakaḥ surānandaḥ siddhipādaś ca carpaṭi// </l> </lg> <lg xml:id="HP17"> <l> kāṇarī pūrvapāṇaś ca dhvaninātho nirañjana/</l> <l> kapālibindunādaś ca kākacaṇḍīśvarādayaḥ// </l> </lg> <lg xml:id="HP18"> <l> adhvamaḥ prabhudevaś ca ghorācolī ca ṭiṇṭiṇiḥ/</l> <l> bhālukā nālabodhaś ca caṇḍakāpālikas tathā// </l> </lg> <lg xml:id="HP19"> <l> ityādayo mahāsiddhāḥ haṭhayogaprabhāvataḥ/</l> <l> khaṇḍayitvā kāladaṇḍaṃ brahmāṇḍaṃ vicaranti te// </l> </lg> <lg xml:id="HP110"> <l> saṃsāratapitaptānām āśrayo yaṃ maho haṭhaḥ/</l> <l> aśeṣayogayuktānām ādhāraḥ kahaṭho maṭhaḥ// </l> </lg> <lg xml:id="HP111"> <l> haṭhavidyāṃ paraṃ gopyā yoginā siddhim icchatā/</l> <l> bhaved vīryavatī goptā nivīryā nu prakāśitā// </l> </lg> <lg xml:id="HP112"> <l> surājye dhārmike deśe surbhikṣe nirupadrave/</l> <l> </l> <l>   </l> <l>  </l> <l> </l> <l> dhanuḥpramāṇaparyantaṃ śilāgnijalavarjitaṃ/</l> <l> ekāntabhuvikāmadhye sthātavyaṃ haṭhayogināṃ//</l> <l> </l> </lg> <lg xml:id="HP113"> <l> alpadvāram arandhragartaviṭapaṃ nātyuccanīcāyitaṃ/</l> <l> samyakgomayasārdra{} {}{}/</l> <l> {} {}{} {}{}/</l> <l> proktaṃ yoga{}{} {}{}{}// </l> </lg> <lg xml:id="HP114"> <l> evaṃvidhe maṭhe sthitvā sarvacintāvivarjitāḥ/</l> <l> gurupadiṣṭamārgeṇa yogam evaṃ sadābhyaset// </l> </lg> <lg xml:id="HP115"> <l> abhyāhāraḥ prayāsaś ca prajalpo niyamāgrahaḥ/</l> <l> janasaṅkara laulyaṃ ca ṣaḍbhir yogo ca naśyati//</l> </lg> <lg xml:id="HP116"> <l> utsāhāt sāhasād vairyāt tattvajñānādiniścayāt/</l> <l> janāsaṅgāttathā samyak ṣaḍbhir yogas tu sidhyati// </l> </lg> <lg xml:id="HP116a"> <l> atha yamaniyamāḥ//</l> <l> ahiṃsā satyam asteyaṃ brahmacaryaṃ kṣamā dhṛtiḥ/</l> <l> dayārjavamitāhāraḥ śaucaṃ caiva yamā daśa//</l> </lg> <lg xml:id="HP116b"> <l> tapaḥ saṃtoṣam āstikyaṃ dānam  īśvarapūjanaṃ/</l> <l> siddhāntaśravaṇaṃ caiva hrī matī ca japo hutaṃ//</l> <l> </l> </lg> <lg xml:id="HP116c"> <l> athāsanāni//</l> </lg> <lg xml:id="HP117"> <l> haṭhasya prathamāṅgatvād āsanaṃ pūrvam ucyate/</l> <l> kuryāt tad āsanaṃ tasmād ārogyaṃ cāṅgalāghavaṃ// </l> </lg> <lg xml:id="HP118"> <l> vasiṣṭhādyaiś ca munibhir matsendrādyaiś ca yogibhiḥ/</l> <l> aṃgīkṛtyā nyāsanāni kathyante kānicinmayā// </l> </lg> <lg xml:id="HP119"> <l> jānūrvor antare samyak kṛtvā pādatalāv ubhau/</l> <l> ṛjukāyasamāsīnaḥ svastikaṃ tat pravakṣyate// </l> </lg> <lg xml:id="HP119a"> <l>  </l> <l>  </l> </lg> <lg xml:id="HP119b"> <l> </l> <l>  </l> </lg> <lg xml:id="HP120"> <l> savye dakṣiṇagulphe tu pṛṣṭhapārśve niyojayet/</l><l> dakṣiṇe tu tathā savyagomukhaṃ gomukhākṛtiḥ// </l> </lg> 
-</body>
-</text>
+  <teiHeader xmlns:t="http://www.tei-c.org/ns/1.0"><fileDesc><titleStmt><title>J1 Jodhpur 02231</title></titleStmt><sourceDesc><msDesc><msIdentifier><placeName><settlement>[city, town, or village]</settlement><region>[region]</region><country>[country]</country></placeName><institution>[institution]</institution><repository>[repository]</repository><collection>[collection]</collection><idno>[manuscript identifier]</idno><idno type="NCC">[NCC identifier]</idno><idno type="siglum">J1</idno></msIdentifier><msContents><summary>[description of manuscript]</summary><msItem n="1" defective="true"><author xml:lang="sa" role="author">[author]</author><author xml:lang="sa" role="commentator">[commentator]</author><title xml:lang="sa">[title of text]</title><title xml:lang="sa" type="commentary">[title of commentary]</title><rubric xml:lang="sa"/><incipit xml:lang="sa"/><explicit xml:lang="sa"/><finalRubric xml:lang="sa"/><textLang mainLang="sa">[Sanskrit in Devanāgarī script.]</textLang></msItem></msContents><physDesc><objectDesc form="pothi"><supportDesc material="paper"><extent><measure quantity="XX" unit="folios"/><dimensions type="leaf" unit="cm"><height>[height]</height><width>[width]</width></dimensions><dimensions type="written" unit="cm"><height>[height]</height><width>[width]</width></dimensions></extent><foliation/><condition>[whether the manuscript is complete, description of wear and damage]</condition></supportDesc><layoutDesc><layout columns="@@Columns@@" writtenLines="XX" ruledLines="XX"><p>[description of marginal frame lines, etc.]</p></layout></layoutDesc></objectDesc><handDesc><handNote scope="sole" script="devanāgarī" medium="black ink"><p>[description of one hand]</p></handNote><handNote scope="major" script="devanāgarī" medium="red ink"><p>[description of another hand]</p></handNote><handNote scope="minor" script="english" medium="green highlighter"><p>[description of another hand]</p></handNote></handDesc><additions><p>[additional remarks]</p></additions><bindingDesc><p>[description of cover, binding, and/or stringholes]</p></bindingDesc></physDesc><history><origin><origDate calendar="" when="">[date]</origDate><origPlace xml:lang="en">[place of production]</origPlace></origin><provenance>[record of ownership]</provenance><acquisition>[how it was acquired]</acquisition></history></msDesc></sourceDesc></fileDesc><revisionDesc><change when="2021-09-14">witness extracted by <ref target="https://github.com/radardenker/hp-witness-extraction">hp-witness-extraction</ref></change></revisionDesc></teiHeader>
+  <text>
+    <body>
+      <lg xml:id="HP11">
+	<l>śrīādināthāya namo 'stu tasmai yenopadiṣṭā haṭhayogavidyā/</l>
+	<l>virājate pronnatarājayogam āroḍhum icchor adhirohiṇīva//</l>
+      </lg>
+      <lg xml:id="HP12">
+	<l>praṇamya śrī guruṃ nāthaṃ svātmārāmeṇa dhīmatā/</l>
+	<l>kevalaṃ rājayogāya haṭhavidyopadiśyate//</l>
+      </lg>
+      <lg xml:id="HP13">
+	<l>bhrāntyā bahumatadhvānte rājayogam ajānatam/</l>
+	<l>haṭhapradīpikāṃ dhatte svātmārāma kṛpākaraḥ//</l>
+      </lg>
+      <lg xml:id="HP14">
+	<l>haṭhavidyā hi matsyendragorakṣādyo vijānate/</l>
+	<l>ātmārāmo 'thavā yogī jānīte tatprasādataḥ//</l>
+      </lg>
+      <lg xml:id="HP15">
+	<l>śrīādināthamatsyendraśābarānandabhairavā/</l>
+	<l>cauraṅgīmīnagorakṣavirūpākṣabileśayā//</l>
+      </lg>
+      <lg xml:id="HP16">
+	<l>manthānabhairavo yogī siddhibuddhiś ca kanthaviḥ/</l>
+	<l>pauraṇṭakaḥ surānandaḥ siddhipādaś ca carpaṭi//</l>
+      </lg>
+      <lg xml:id="HP17">
+	<l>kāṇarī pūjyapāṇaś ca nityanātho nirañjana/</l>
+	<l>kapālībindunāthaś ca kākacaṇḍīśvarādayaḥ//</l>
+      </lg>
+      <lg xml:id="HP18">
+	<l>adhvamaḥ prabhudevaś ca ghoḍācolī ca ṭiṇṭiṇiḥ/</l>
+	<l>bhālukā nālabodhaś ca khaṇḍakāpālikas tathā//</l>
+      </lg>
+      <lg xml:id="HP19">
+	<l>ityādayo mahāsiddhāḥ haṭhayogaprabhāvataḥ/</l>
+	<l>khaṇḍayitvā kāladaṇḍaṃ brahmāṇḍe vicaranti te//</l>
+      </lg>
+      <lg xml:id="HP110">
+	<l>saṃsāratapitaptānāṃ samāśrayamaho haṭhaḥ/</l>
+	<l>aśeṣayogajagatām ādhārakamaṭho haṭhaḥ//</l>
+      </lg>
+      <lg xml:id="HP111">
+	<l>haṭhavidyā paraṃ gopyā yogināṃ siddhim icchatām/</l>
+	<l>bhaved vīryavatī goptā nivīryā nu prakāśitā//</l>
+      </lg>
+      <lg xml:id="HP112">
+	<l>surājye dhārmike deśe subhikṣe nirupadrave/</l>
+	<l/>
+	<l>  </l>
+	<l> </l>
+	<l/>
+	<l> </l>
+	<l>ekānte bhuvikāmadhye sthātavyaṃ haṭhayoginā//</l>
+	<l/>
+      </lg>
+      <lg xml:id="HP113">
+	<l>alpadvāram arandhragartaviṭapaṃ nātyuccanīcāyitaṃ/</l>
+	<l>samyag gomayasāndra{} {}{}/</l>
+	<l>{} {}{} {}{}/</l>
+	<l>proktaṃ yoga{}{} {}{}{}//</l>
+      </lg>
+      <lg xml:id="HP114">
+	<l>evaṃvidhe maṭhe sthitvā sarvacintāvivarjitaḥ/</l>
+	<l>gurūpadiṣṭamārgeṇa yogam evaṃ sadābhyaset//</l>
+      </lg>
+      <lg xml:id="HP115">
+	<l>abhyāhāraḥ prayāsaś ca prajalpo niyamāgrahaḥ/</l>
+	<l>janasaṅgaś ca laulyaṃ ca ṣaḍbhir yogo vinaśyati//</l>
+      </lg>
+      <lg xml:id="HP116">
+	<l>utsāhāt sāhasād vairyāt tattvajñānādiniścayāt/</l>
+	<l>janāsaṅgāttathā samyak ṣaḍbhir yogaḥ prasidhyati//</l>
+      </lg>
+      <lg xml:id="HP116a">
+	<l/>
+	<l>   </l>
+	<l>  </l>
+      </lg>
+      <lg xml:id="HP116b">
+	<l/>
+	<l> </l>
+	<l/>
+      </lg>
+      <lg xml:id="HP116c">
+	<l/>
+      </lg>
+      <lg xml:id="HP117">
+	<l>haṭhasya prathamāṅgatvād āsanaṃ pūrvam ucyate/</l>
+	<l>tatkuryād āsanaṃ sthairyam ārogyaṃ cāṅgapāṭavaṃ//</l>
+      </lg>
+      <lg xml:id="HP118">
+	<l>vasiṣṭhādyaiś ca munibhir matsyendrādyaiś ca yogibhiḥ/</l>
+	<l>aṅgīkṛtā nyāsanāni kathyante kānicinmayā//</l>
+      </lg>
+      <lg xml:id="HP119">
+	<l>jānūrvor antare samyak kṛtvā pādatale ubhe/</l>
+	<l>ṛjukāyasamāsīnaḥ svastikaṃ tat pravakṣyate//</l>
+      </lg>
+      <lg xml:id="HP119a">
+	<l/>
+	<l/>
+      </lg>
+      <lg xml:id="HP119b">
+	<l/>
+	<l/>
+      </lg>
+      <lg xml:id="HP120">
+	<l>savye dakṣiṇagulphe tu pṛṣṭhapārśve niyojayet/</l>
+	<l>dakṣiṇe tu tathā savyagomukhaṃ gomukhaṃ yathā//</l>
+      </lg>
+    </body>
+  </text>
 </TEI>

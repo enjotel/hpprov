@@ -1,0 +1,161 @@
+#NEXUS
+
+BEGIN TAXA;
+  DIMENSIONS NTAX=86;
+  TAXLABELS 'A1' 'B1' 'B2' 'B3' 'C1' 'C2' 'C3' 'C4' 'C4pc' 'C6' 'C7' 'C8' 'C8pc' 'C9' 'C9pc' 'G1' 'G2' 'G3' 'J1' 'J10' 'J10pc' 'J11' 'J12' 'J13' 'J14' 'J15' 'J17' 'J2' 'J3' 'J4' 'J6' 'J6pc' 'J8' 'J8pc' 'L1' 'M1' 'N1' 'N10' 'N11' 'N12' 'N13' 'N16' 'N17' 'N19' 'N2' 'N20' 'N21' 'N22' 'N23' 'N24' 'N25' 'N26' 'N3' 'N4a' 'N5' 'N6' 'N9' 'O1' 'O1pc' 'O2' 'Tue' 'V1' 'V11' 'V12' 'V13' 'V14' 'V15' 'V15pc' 'V16' 'V16pc' 'V17' 'V18' 'V19' 'V2' 'V21' 'V22' 'V25' 'V26' 'V28' 'V3' 'V4' 'V5' 'V6' 'V8' 'Vu' 'YC';
+END;
+
+BEGIN CHARACTERS;
+  DIMENSIONS
+    NCHAR=54;
+  FORMAT 
+    DATATYPE=STANDARD 
+    RESPECTCASE 
+    GAP=- 
+    MISSING=? 
+    SYMBOLS="1 2 3 4 5 6 7 8 9 0 A B C D E F G H K L M N P Q R S T U V W X Y Z a b c d e f g h k l m n p q r s t u v w x y z";
+  CHARSTATELABELS
+1 / 'rAjayogam' 'rAjasaudham' 'rA+yogAn' '{}' 'rAjasaudhAm' 'rAjasaudha' 'rAjasaidhaMm' 'rAjasaukham' 'rAjayogar',
+2 / 'yoginAM' 'yoginA' 'dhImatA' 'yoginI' '{}',
+3 / 'yogopadizyate' 'vidyopadizyate' 'vidyaH pradizyate' 'yogapradizyate' 'yogaH prakAzyate' 'yogoyadizyate' 'yogaH pradRzyate' 'vidyA prakAzayet' 'yogo pradizyate' 'vidyopadRzyate' '{}' 'vidyopadisyate' 'vidyA prakAzyate',
+4 / 'rAjayogam' 'rAjamArgam' '{}',
+5 / 'ajAnatAm' 'ajAnatA' 'ajAnataH' 'prajAnatAM' 'ajAnatam' 'ajAyata' 'ajAnate' 'vijAnatA' 'jAnanaM' '{}' 'ayAnatAM',
+6 / 'kSamAkaraH' 'kRpAkaraH' 'nhmAkaraH' 'kRpAparaH' 'niraMjanaM' 'prakAzyate' '{}' 'krapAkaraH' 'kSRpAkaraH' 'kSapAkaraH' 'niraJjanaH',
+7 / 'svAtmArAmo' 'AtmArAmo' 'AtmArAme' '{}' 'svAtmArAmaH',
+8 / 'AdinAthAdi' 'AdinAtha' 'zrIAdinAtha' 'AdinAthAya' 'AnAthanAtha' 'AdinAthasya' 'zrIAdinAtho' 'zrIAdinAthAdi' 'zrIAdinAthAya' '++dinAthAya' 'AdinAthAz ca',
+9 / 'sAvarA' 'zAbarA' 'zAmbarA' 'zAradA' 'sAgarA' 'zarA' 'cAparA' 'zAMvarA' 'zAgarA' 'zAradaH' 'sAvanA' 'sAgarI' 'sAvadA' 'sAradA' 'zAcarA',
+10 / 'zuddha' 'siddho' 'yogI' 'siddha' 'si+' 'buddhas' 'siddhi' 'zruddha' 'sandhi' 'viddha' 'sidha' 'siddhar' 'viddhir' 'suddha' 'suddho' 'siddhir',
+11 / 'buddhaz ca' 'buddhiz ca' 'pAdaz ca' 'siddhaz ca' 'budhaz ca' 'tudhiz ca' 'budhiz ca' 'nudhaz ca' 'cuddhaz ca' '+ddhaz ca' 'z ca' 'nAthaz ca',
+12 / 'pauraNTakaH' 'pauraNDakaH' 'pauraNDaGka' '{}' 'pauraMTaMka' 'koraNTakaH' 'pauraMThikaH' 'yoraN++' 'ghoraMTakaH' 'goraMTaka' 'kauraNTakaH' 'kauraNDakaH' 'koraMTaka' 'koraMtakaH' 'poraMTakaH' 'pauraTaMkaH' 'kauraMTaka' 'koraNTIkaH' 'paura...kaH' 'pauraMTaka' 'paurarATikaH' 'koraNDakaH' 'pauraMThakaH' 'prauraNTakaH' 'pauraNDakaM' 'kauraMDIkaH' 'kAhapauraNTaka',
+13 / 'surAnandaH' 'sarAnanda' '{}' 'surAnanda' '+sAnanda' 'sadAnandaH' 'sphurAnando' 'sarAnandaH' 'zurAnaMdaH',
+14 / 'siddha' '{}' 'viddha' 'siddhi' 'zrI' 'siddhA',
+15 / 'paz cA' 'pAdaz ca' '{}' 'buddhaz',
+16 / 'pi' '[]' '{}' 'caiva',
+17 / 'carpaTaH' 'carppaTiH' 'carpaTiH' '{}' 'carppaTI' 'carpaTI' 'carpaTi' 'sarvadA' 'parpaTi' 'saJcaTI' 'cirpaTi' 'tarpaTi' 'parpaTiH' 'carpaTIH' 'ca+a.iH',
+18 / 'pUrva' 'pUjya' 'sarva' 'pUrya' 'pUja' 'pUrvva',
+19 / 'dhvaninAtho' 'nityanAtho' 'siddhanAtho' 'bilvanAtho' 'nisanAtho' 'nityaMnAtho' 'dhaninAtho' 'sidhvaniddhanAtho' 'ninAtho' 'svaninAtho' 'nityAnaMdo' '{}' 'bizcanAtho',
+20 / 'kAkacaNDIzvarAdayaH' 'kAkacaNDIzvaro mayaH' 'kAkacaNDIzvarAhvayaH' 'kAkacaNDIzcarAlayaH' 'kAkacaNDIzvarogayaH' 'kAkaDaNDIzvaro gataH' 'kAkacaNDIzvarAdaya' 'kAlacaMDIsvarAhUyaM' 'kAlacaMDIsvarAdayaH' 'kAkacaNDIzvarAhayaH' 'kAkacaNDIzvarogajaH' 'kAkacaMtezvaro mayaH' 'kAkacaMndrIzvarAdayaH' '{}' 'kAkacaNDIzvarAvayaH' 'kAkacaMDizvarAhayaH' 'kAkacaMdezvarogayaH' 'kAkacaNDisurAdayaH' 'kAkacaNDIzcarAdayaH' 'kAkacaNTIdayAkaraH' 'kAkacaNDIzvarA .. ..H' 'kAkacaNDezvarAhayAH' 'kAkaguNDIzvarAhvayaH' 'kAkacaMdIzvarogayaH' 'kAMkAMcaMdrisvarAdayaH',
+21 / 'ca' 'gha' 'pi' '{}' 'la' 'sa' 'caiva' 'ce',
+22 / 'tiNTinI' 'TiNTiNI' 'ciMcinIH' 'ThiNThiNIH' 'TiNTiNIH' 'TiNTiNiH' 'TiMTaNIH' '[]' 'caNDilaH' 'ThiNTiNI' 'ciMciniH' 'tittiNiH' 'ciMcaNI' 'ciMcaNi' 'ciMciNI' 'ciMviNI' 'TiNThiNiH' 'TiTTibhaH' 'TiNThiNIH' 'carpaTaH' 'TiTiNI' 'ciMcilI' 'tiNTiNI' '{}' 'tITiNi' 'TiTiNiH' 'TiMTinI ciMciNIH' 'TiNThiniH' 'DhiDhiviH' 'ciMciNIH' 'ciMcinI' 'TiNTiniH' 'tiMTaNI' 'TindriniH' 'tITINI' 'TiNTiNaH' 'tiNTaNi' 'ciMciNi',
+23 / 'tAlukA' 'bhAlukA' 'vAsukI' 'bhAnukA' 'bAlukIr' 'bhAlukI' 'bhAlukAM' 'vAlukir' 'bhAlukir' 'vAlakir' 'bAlAkI' 'vAlakin' 'bAlukI' 'vAsukir' 'bhAlukIr' 'bhAluko' 'vAlakI' '{}' 'bhAnuki' 'bAlakIr' 'bhAluki' 'bAlukir' 'bhulukI' 'vAsuki' 'bAluko' 'bhAnukI',
+24 / 'nAma bodhaz ca' 'nAgabodhaz ca' 'nAgadevaz ca' 'nAgabhogaz ca' 'nAkabhodhaz ca' 'nAgabodhI ca' 'nAlabodhaz ca' 'nAgabodhiz ca' 'namabAdhaz ca' 'nAgavedhaz ca' 'nAma bhojaz ca' 'nAgavAdhiz ca' 'nAgarodhaz ca' '{}' 'nA .. .. .. z ca' 'nami auDDIza' 'nAma bodhiz ca' 'nArAdevaz ca' 'vAnabodhaz ca' 'nAgaboz ca' 'nAradevaz ca',
+25 / 'prabhAvataH' 'prasAdataH' 'prabhAvata' '{}' 'adhaprasAdataH',
+26 / 'saMsAra' 'azeSa' 'saMsArA' '{}' 'saMsAre',
+27 / 'zrama' 'tApa' 'tapa' 'tapi' '{}' 'tAya',
+28 / 'Azramo yaM' 'samAzrayo' 'samAzraya' 'Azrayo yaM' 'zamAzraya' 'mAzrayo yaM' 'samIzraya' 'Azcaryo yaM' '{}' 'samazra' 'samAzrayaM' 'samAzrayaH',
+29 / 'haTho mataH' 'mAThe haThaH' 'maTho haThaH' 'maTho haraH' 'maho haThaH' 'maho hagaM' 'mATho haThaH' 'maho haTha' 'mato haThaH' '{}' 'nago haThaH' 'prathamo haThaH' 'haTho maThaH' 'mahAmaThaH' 'mate haThaH' 'maThA haTaH' 'haThakramaH' 'ato haThaH' 'maho haTho mata',
+30 / 'jagatAm' 'yuktAnAm' 'jAtInAm' 'tantrANAm' 'siddhAnAm' 'juktAnAm' 'vijJAna' 'jAlAnAm' 'jagatIm' 'jatAm' 'vijJAnaH' 'jAtAnAm' '{}' 'jagatAnam' '.. .. .. .',
+31 / 'AdhAra' 'AdhAraH' 'AdharaH' 'AdhArA' 'sarva' 'AdhArai' 'ptAdhAraH' '{}' 'AdhAre' 'AdhAras' 'AdhArAya',
+32 / 'kamaTho' 'kamaThe' 'kahaTho' 'kamaho' 'siddhi' 'kamalo' 'kama' 'kaMato' '{}' 'tu mato' 'traividya' 'kRto' 'kuDalI' 'kaM maTho',
+33 / 'haThaH' 'haraH' 'maThaH' 'yathA' 'haTha' 'pradAyakA' 'pradAyakaH' '{}' 'haTaH',
+34 / 'viTapaM' 'pIThakAM' 'piThikAM' 'puTakaM' 'paTikaM' 'puTavUM' 'piTapaM' 'piTharaM' 'piThiraM' 'piTakaM' 'madhikaM' 'viTakaM' 'paTakaM' 'viTharaM' 'piThakaM' 'puTitam' 'pIThaM' 'viTapa' 'puTitaM' 'vivaraM' 'piTikAM' '{}' 'piThikaM' 'pIThaMran' 'sahitaM' 'piThake' 'ghaTitaM' 'paTitaM' 'piTiraM' 'vivara' 'vaThipaM maThikaM',
+35 / 'yitaM' 'yataM' 'yutaM' 'pataM' 'pitaM' 'makaM' 'rpitaM' 'vRtaM' '{}' 'ryataM' 'tpite' 'sAnaM' '.. .M' 'tmakaM' 'pittaM' 'yata',
+36 / 'liptamamalaM' 'liptavimalaM' '{}' 'lIptam amalaM' 'lepavimalaM' 'sAMdravimalaM' 'liptam abijaM' 'liptasamalaM' 'liptavimaTaM' 'kAbhiramalaM',
+37 / 'nirdoSa' 'niHzeSaM' 'niHzeSa' 'nizzeSa' '{}' 'nizeSa' 'nidoSi' 'niz. ..',
+38 / 'bAdhojjhitam' 'jantohiMtam' 'bAdhaudditam' 'jantojjhitam' 'vAtodbhidaM' 'jantUjjhitam' 'vAtojjhitaM' 'bodhAtmakaM' 'bAdhAnvitam' '{}' 'bodhodgataM' 'bodhIkSataM' 'jantUtthitaM' 'vAtAr*n*ItaM' 'vodhotsitaM' 'bAdhojgataM' 'vAt dhA*dg*ataM' 'bAdhoghitaM' 'bAdhojjitam' 'jaMbhUdgitAM' 'jaMtajjhitaM' 'jaMturjjitaM' 'jpaMtpUpsitaM' 'jantUhritaM' 'vAhyojhitaH' 'bAdhotsitaM' 'bAndhojjhitam' 'bAdho .itaM' 'bAdhokSitaM' 'jaMtU .. .. ta[M]' 'vAtobhutaM' 'bodhekSitaM' 'jaMtanvitaM' 'vAtaM jitaM' 'vAtovyutaM',
+39 / 'vedikUparacita' 'vedikUparacitaM' 'vedikoparacitaM' 'vedikUparuciraM' 'vedikUparacanaM' 'vedi+paruciraM' 'vedikAndumayutaM' '{}' 'vedikasaracitaM' 'vedikoparuciraM' 'veviracitaM' 'vedikaparuciraM' 'vedikUparucitaM' '[]' 'kUpavediruciraM' 'vedikaparaciraM' 'vedikUparacite' 'vedikAbhiruciraM' 'vedikopararuciraM' 'kUpavediracitaM' 'vedikAvirAcitaM' 'vedikopirAcitaM',
+40 / 'eva samabhyaset' 'evaM sadAbhyaset' 'eva sadAbhyaset' 'evaM samabhyaset' 'AtmavazaM nayeta' 'mArgaM samaMbhyaset' 'evaM samaMbhyaset' 'evam ahAbhyaset' 'mArgaM samabhyaset' '{}' 'evaM samaMbhiset',
+41 / 'pratyAhAraH' 'atyAhAra' 'atyAhAraH' 'alpAhAraH' 'atyAhArAt' 'abhyAhAraH' 'AtmAhAra' 'alpAhAro' 'AtmAhAraH',
+42 / 'SaDbhir yogaz' 'SaDbhir yogaH' 'SaDbhir yogo' 'SaT ca yogaM' 'SaDbhir yoga' 'Dbhir yogo' 'SaDbhir yogA' 'SaDbhir yogair' 'SaDbhi yogaz' 'SaDbhir yoge' 'SaDbhaH yogoz cate',
+43 / 'ca nazyati' 'vinazyati' 'praNazyati' 'vinazyatiH' 'prahAsyati' 'na sidhyati' 'vina..',
+44 / 'nizcayddhairyAt' 'nizcayAdvairyyAt' 'nizcayAr dvairyAt' 'sAhasAd dhairyAt' 'nizcayAd dhairyAt' 'nizcayAd dhairyA' 'niyamAd dhairyyAt' 'nicchA+dhairyaM' 'bhiz ca yA dhairyAt' 'nizcayA dhairyAt' 'sAhasAd vairyAt' 'nizcayAdvairyAt' 'nizciyaudhairya' 'nizcayAdvayAt' 'nizcayoddhairyAt' 'vizcalaM dhairyyaM' '.. .. hasAdvairyAt' 'nikhilAdhairyA' 'nizcayadhairyAt' 'nizcayAt dhairyyAt' 'nizca++dhyairAt' 'nAhasAt dhyairnAt' 'sAhasAd dhairyA' 'nizcayau dhairyyaM' 'sahasAd dhairyAt' 'nizcayAdhairyAt' 'nizcayoM dhairyAt',
+45 / 'jJAnAc ca darzanAt' 'jJAnAc ca nizcalAt' 'jJAnArthadarzanAt' 'jJAtAz ca nizcalAt' 'jJAnAd vinizcayAt' 'jJAnAc ca nizcayAt' 'jJAnavinizcayAt' 'jJAnAtma++nam' 'jJAnAtmadarza+t' 'SAtmatvadarzanAt' 'jJAnAdinizcayAt' 'jJAnAc ca sAhasAt' 'jJAnasya darzanAt' 'jJAnA ca darzanAt' 'jJAnAnudarzitaM' 'jJAnA ccanizcajAj' 'jJAnAz ca darzanAt' 'jJAnAya darzanAt' 'jJAnAddhinizcayaH' 'jJA.. .anizcayAt' 'jJAnaM ca nizcalam' 'nArthadarsanAMga',
+46 / 'yogaz ca sidhyati' 'yogaH prasidhyati' 'yogaz ca siddhati' 'yoga prasidhyati' 'yogas tu sidhyati' 'yoge prasiddhyati' 'yoga prasiddhati' 'yogaMz ca sidhyati' 'yogo prasidhyati' 'yyogaH prasidhyati' 'yogaH prasidhyatiH' 'yogo hi siddhyati' 'yogaH ..sidhyati' 'yogas tu prasidhyati',
+47 / 'kuryAt tad AsanaM' 'tat kuryAd Asana' 'tatkuryAd AsanaM' 'kuryA tad AsanaM' 'tat kuryAd AsanAt' 'tat kuryAd Asane' 'kuryAd AsanaM' 'kuryAt tathAsanaM' 'kurjAsa tad AsanaM' 'kuryAt tad AzanaM' 'stvakuryAd AsanaM tat',
+48 / 'tasmAd' 'sthairyam' 'sthairyAt' 'pUrvam' 'dhairyyaM' 'sthairye' 'tasmAt' 'sthairya' 'skairyam' 'tasyAd' 'asmAt',
+49 / 'pATavaM' 'lAghavaM' 'paTavaM' 'pAdapaM' 'lAccataM' 'pATavam' 'loghavaM' 'lAghavAM' 'sambhavam',
+50 / 'kathyante' 'vakSyante' 'kathyate' 'katthyente' 'vakSyate' 'kathaMte' 'likhyante' 'vakSante',
+51 / 'pAdatale ubhe' 'pAdatalAv ubhau' 'pAdAvubhau Rju' 'pAdAtalau ubhau' 'pAdAtale zubhe' 'pAde tale ubhe' 'padatale ubhe' 'pAdatalpanaM ubhe' 'pAdatalez ca ubhe',
+52 / 'pracakSate' 'prayachate' 'pravakSyate' 'pracakSyate' 'tracakSyate' 'vidur budhAH',
+53 / '()pi' 'tu' 'ca' 'caiva' '{}' 'na',
+54 / 'gomukhAkRtam' 'gomukhAkRtiH' 'gomukhaM tathA' 'gomukhaM yathA' 'nomukhAkRtiH' 'gomukhAkRti' 'gomukhaM tadA' 'gormukhaM tathA' 'gaumukhaM yathA' 'gomukhe yathA' 'gIrmukhaM tathA' 'gomukhaM viduH' '{}' 'tayA' 'ca cicakSate'
+;
+MATRIX
+'A1' 111111111111111111111111111111111111111111111111111111
+'B1' 122112122112112221111222112211211222222222222111112112
+'B2' 123122133213212222221332112321121322332232223222112123
+'B3' 121112112111112231111442112411211432343342234311111112
+'C1' 132132134314323342211252112232111522154332245232221124
+'C2' 122142112111412231111562112411212642362333256111312112
+'C3' 124153145115112252311572111412311751364432161441111213
+'C4' 232134231411112262311682112532111811363333255212221134
+'C4pc' 232134231111112272111692111533111811314333255212221134
+'C6' 222112132126112262231763222532111521374313277222211115
+'C7' 232134134431112262412802112531111922362233245211121124
+'C8' 222112132121112252431263122332111121375323246222211116
+'C8pc' 222112132121112252431263122332111121375323246222211116
+'C9' 121111111117112271111221111411111012112131151511131114
+'C9pc' 121111111117112271111221111411111012112131151511131114
+'G1' 3212621525285122822439A4112344133A21486334288622411137
+'G2' 4251121666496122922539B5133341111B61467353299222111114
+'G3' 2222121774107322022610C6112331111C22494333200253121114
+'J1' 1321522327211422722116271143511111135082632AA232111324
+'J10' 1261111121111122311112621116114111111134321B1511111114
+'J10pc' 126111112111112231111262111611411D111134321B1511111114
+'J11' 22211213542A152432511AD8112332141022314333255262111112
+'J12' 2271111134521122A1211B6911141513317137922326B532111418
+'J13' 1211121321111122221112E2112411111812662223256111112116
+'J14' 22111213871B112222211C601123312141323A4333253232211114
+'J15' 121111189811112271371DD2111412115121114131151211111114
+'J17' 122111112111112251111262111416215E54112431151511111119
+'J2' 52827513596C4422B2281E32312767556F823B21253CC774111110
+'J3' 6321122347243233422912921123311611123621532A6232121124
+'J4' 22215213541D812233201FD21123722110223135223D1232113114
+'J6' 232112234424323342211692112331161122362323255232121124
+'J6pc' 2321122344243233422A1692112338161112362353246522221124
+'J8' 12211613947E412272611ED221141211112261467326D422111113
+'J8pc' 12211613947F4122226112D221141221112261467326D422111113
+'L1' 232132234414323342412G52112531611812362333245232221134
+'M1' 2222121324191122C22B1H5A2123311118213C0333251262111114
+'N1' 121112112112112232711KF2112819111G223DA3323E2311111112
+'N10' 127111118112112231111661111410111H7111243625151111141A
+'N11' 2321122344143233422A1L92112338111812362123246522221134
+'N12' 22221213441G412232221E6B21233A557K253E4333251232111422
+'N13' 122112132116112232231663122332111L21364133246212211116
+'N16' 73213233472A1422322C16D211238111111236231326522212112B
+'N17' 1291111121111122221112621114112718313127311B1811241113
+'N19' 221182133211112232221262112331711M223FB8232FE235111414
+'N2' 22111213871H412222211MG21123912111323G4322353232111114
+'N20' 12211213502K1122322D1N3C2114122141163H492325C236111143
+'N21' 22211213241D1122322E1PC221249B181E223K43272GF232111114
+'N22' 842192132A8L4123312D4QHD44590C898N935084234H193513455C
+'N23' 62221213241D112222231RK2212331111P213L41322A6032215432
+'N24' 122112134B9A9422722F129E1123AB111D223MC433246A32221126
+'N25' 230134234412112262412SL211153D211Q523ND348245485551134
+'N26' 45A307435C2M1122622D1N3C212112214152314933251A32611443
+'N3' 2222121324204122722G16MF1120BC898E227P4383251222111114
+'N4a' 12211213211N112232231663122332111L2136E033246212211116
+'N5' 23213429041P1122D24H25021123311119023Q2323245232221124
+'N6' 121111112111112222111662111411211811112432151111211113
+'N9' 12111111511Q1122218K1T321114121111111RFA39151791161114
+'O1' 22221813441C41423222159G212397557K253S0333251222111122
+'O1pc' 22221813441C41423222159G212397557K253S4333251222111122
+'O2' 231134234414323342412UN2112531211812462333245232221124
+'Tue' 12211213111611223223166H126332111L21364133246212216116
+'V1' 122112182D111422642312621122C9933R373TC4325K1532171114
+'V11' 12711111211R1122119L5122211411211K2137G4326LG107111413
+'V12' 1111111021011122E1011M421114112111111124332M1111111114
+'V13' 222112112116112262231562111412211112314233251222211112
+'V14' 22121113221A112252A21V6221239B001SA23UH323261232117612
+'V15' 23213213541N152432231W321523D111108236E320251268211114
+'V15pc' 23213213541N152432231W321523D21A108236E320251268211114
+'V16' 12112911A111112231B116211114122111111V2431151211131413
+'V16pc' 12112911A111112231B11621111412211111112431151211131413
+'V17' 12211213B121112255211X3821141221111231493326BB3211113D
+'V18' 121110112112112221111662111412211111112431151511111114
+'V19' 232134234414323342496Y8C112391211821362323245922721124
+'V2' 22211213442S412262211262112A31214TB261433325H222111114
+'V21' 23B1322344A4323342217ZP3122BE2111U2867433324K232851116
+'V22' 1221125321161122322M16631223FE119LC18W40327NLC12211116
+'V25' 1221321314BB4122322N8a622223G2AB15223XK3252P6332911412
+'V26' 22C23A23C12B1122322P1NQ3112397557KD23YL2323QM234111412
+'V28' 232132234412212232CQ2bR21124HB2C4V2236M3332R6211121134
+'V3' 122116135421412222211ED223141221112231499325D229111113
+'V4' 121111112111112226111c61111410211151112433251510111113
+'V5' 23213213D3143233422116921123311D5W593Z2333245232828124
+'V6' 1221221AE212112251111dFK1124126338E11a24211S1511211162
+'V8' 9211A2112E1T1622722R1eQL5122K4911XF03bN12A2TNDAA28911E
+'Vu' 122112132F161122322316SM122332111L21364133246212211112
+'YC' 222112132411112232211862112311111T1236L332345222221114
+;
+END;
