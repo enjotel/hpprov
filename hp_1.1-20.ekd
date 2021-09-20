@@ -356,7 +356,7 @@
 <5-x-2>{\selectlanguage {english}savālmikaḥ} \getsiglum {N3}</5-x-2>
 <5-x-2>{\selectlanguage {english}savālikaḥ} \getsiglum {V19}</5-x-2>
 <5-x-2>{\selectlanguage {english}biśleśayāḥ} \getsiglum {V4}</5-x-2>
-<6-x-2>{\selectlanguage {english}\bfseries \LRnum {2}~}{\bfseries \selectlanguage {english}manthāna} \getsiglum {ceteri}\ekdsep </6-x-2>
+<6-x-2>{\selectlanguage {english}\bfseries \LRnum {1}~}{\bfseries \selectlanguage {english}manthāna} \getsiglum {ceteri}\ekdsep </6-x-2>
 <6-x-2>{\selectlanguage {english}\unm śrīmanthāna} \getsiglum {B2}</6-x-2>
 <6-x-2>{\selectlanguage {english}manthāra} \getsiglum {C4,L1,N5}</6-x-2>
 <6-x-2>{\selectlanguage {english}manthāno\skp {-}} \getsiglum {N13,Tue,V1,V22,V28,Vu}</6-x-2>
@@ -424,7 +424,7 @@
 <6-x-2>{\selectlanguage {english}kānuṭiḥ} \getsiglum {V26}</6-x-2>
 <6-x-2>{\selectlanguage {english}ka++} \getsiglum {G1}</6-x-2>
 <6-x-2>{\selectlanguage {english}kārāṭhaḍī} \getsiglum {N26}</6-x-2>
-<6-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries \LRnum {3}~}{\bfseries \selectlanguage {english}pauraṇṭakaḥ\skp {-}} \getsiglum {ceteri}\ekdsep </6-x-2>
+<6-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries \LRnum {2}~}{\bfseries \selectlanguage {english}pauraṇṭakaḥ\skp {-}} \getsiglum {ceteri}\ekdsep </6-x-2>
 <6-x-2>{\selectlanguage {english}pauraṃṭaka} \getsiglum {N22}</6-x-2>
 <6-x-2>{\selectlanguage {english}pauraṃṭhakaḥ\skp {-}} \getsiglum {N5}</6-x-2>
 <6-x-2>{\selectlanguage {english}pauraṇḍakaḥ\skp {-}} \getsiglum {B1,J12,N1,N10,N25,V6,V18,V28}</6-x-2>
@@ -489,7 +489,7 @@
 <6-x-2>{\selectlanguage {english}sañcaṭī} \getsiglum {G3}</6-x-2>
 <6-x-2>{\selectlanguage {english}ca+a.iḥ} \getsiglum {V12}</6-x-2>
 <6-x-2>{\selectlanguage {english}om.} \getsiglum {C1,J3,J6,L1,N11,O2,V5,V19,V21}</6-x-2>
-<7-x-2>{\selectlanguage {english}\bfseries \LRnum {2}~}{\bfseries \selectlanguage {english}kānerī\skp {-}} \getsiglum {ceteri}\ekdsep </7-x-2>
+<7-x-2>{\selectlanguage {english}\bfseries \LRnum {1}~}{\bfseries \selectlanguage {english}kānerī\skp {-}} \getsiglum {ceteri}\ekdsep </7-x-2>
 <7-x-2>{\selectlanguage {english}kanerī\skp {-}} \getsiglum {C6,J14,N2,N3,N19,V2,V6,V17}</7-x-2>
 <7-x-2>{\selectlanguage {english}kaṇerī\skp {-}} \getsiglum {J3,J6,J12,V1,N11,V13}</7-x-2>
 <7-x-2>{\selectlanguage {english}kāṇarī\skp {-}} \getsiglum {J1}</7-x-2>
@@ -550,7 +550,7 @@
 <7-x-2>{\selectlanguage {english}nirañjanāḥ} \getsiglum {O2}</7-x-2>
 <7-x-2>{\selectlanguage {english}virañjanaḥ} \getsiglum {V26}</7-x-2>
 <7-x-2>{\selectlanguage {english}om.} \getsiglum {N22,V16}</7-x-2>
-<7-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries \LRnum {3}~}{\bfseries \selectlanguage {english}kapālī} \getsiglum {ceteri}\ekdsep </7-x-2>
+<7-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries \LRnum {2}~}{\bfseries \selectlanguage {english}kapālī} \getsiglum {ceteri}\ekdsep </7-x-2>
 <7-x-2>{\selectlanguage {english}kapāli} \getsiglum {J2,J15}</7-x-2>
 <7-x-2>{\selectlanguage {english}kāpālī} \getsiglum {C1,C2,J14,N2,V2,V17}</7-x-2>
 <7-x-2>{\selectlanguage {english}kāpāli} \getsiglum {N19}</7-x-2>

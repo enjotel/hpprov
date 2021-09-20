@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2021.1.28)  19 SEP 2021 21:11
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2021.1.28)  20 SEP 2021 10:11
  restricted system commands enabled.
 **hp_1.1-20.tex
 (./hp_1.1-20.tex
@@ -730,7 +730,7 @@ Package caption Info: rotating package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `TU/AdishilaSan(0)/m/n' will be
-(Font)              scaled to size 13.99994pt on input line 3048.
+(Font)              scaled to size 13.99994pt on input line 3234.
 LaTeX Font Info:    Font shape `TU/TeXGyreTermes(0)/bx/n' in size <10> not avail
 able
 (Font)              Font shape `TU/TeXGyreTermes(0)/b/n' tried instead on input 
@@ -6293,7 +6293,7 @@ ca[]
 @@362: line 17.2- t=9998 -> @350
 
 
-Underfull \hbox (badness 1968) in paragraph at lines 1--3048
+Underfull \hbox (badness 1968) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 C$[][]$[]C$[][]$[]N$[][]$[]Tue[]Vulg[]N$[][]$[]N$
 [][]$[]V$[][]$[]V$[][]$ []vi .. jate[] []M$[][]$ []\TU/TeXGyreTermes(0)/m/it/10
  unm.\TU/TeXGyreTermes(0)/m/n/10 te[] []V$[][]$ []om.[] []G$[][]$[]N$[][]$  [][
@@ -6301,7 +6301,7 @@ Underfull \hbox (badness 1968) in paragraph at lines 1--3048
  []
 
 
-Overfull \hbox (60.85802pt too wide) in paragraph at lines 1--3048
+Overfull \hbox (60.85802pt too wide) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 A$[][]$[]B$[][]$[]B$[][]$[]B$[][]$[]C$[][]$[]C$[]
 []$[]C$[][]$[]C$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]N$
 [][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]
@@ -6310,18 +6310,18 @@ Tue[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 1--3048
+Underfull \hbox (badness 1163) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 J$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]V$[][]$ []ad-h
 i-ro-haṇi ca[] []J$[][]$ []ad-hi-roha eva[] []C$[][]$[]J$[][]$[]V$[][]$[]V$[]
 []$ []ad-hi-ro-haṇī ca[] []C$[][]$ []ad-hi-ro-haṇe ca[]
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 3048.
+(Font)              <12> on input line 3234.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 3048.
+(Font)              <8> on input line 3234.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 3048.
+(Font)              <6> on input line 3234.
 @firstpass
 []
 @\penalty via @0 b=0 p=0 d=100
@@ -7521,14 +7521,14 @@ janaḥ[] []V$[][]$ []prakāśy-ate[] []J$[][]$[]V$[][]$ []om.[] []N$[][]$[][][
 @@139: line 16.2- t=9260996 -> @132
 
 
-Underfull \hbox (badness 2326) in paragraph at lines 1--3048
+Underfull \hbox (badness 2326) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 pra-jā-natāṃ[] []C$[][]$ []ajāy-ata[] []G$[]
 []$ []ajā-nate[] []J$[][]$ []ayā-natāṃ[] []V$[][]$ []vi-jā-natā[] []N$[]
 []$ []jā-nanaṃ[] []N$[][]$ []om.[] []N$[][]$
  []
 
 
-Underfull \hbox (badness 1881) in paragraph at lines 1--3048
+Underfull \hbox (badness 1881) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/bx/n/10 2 [][]haṭhapradīpikāṃ[] []\TU/TeXGyreTerme
 s(0)/m/n/10 cet.] []haṭhapradīpikaṃ[] []C$[][]$ []haṭhapradī-pakāṃ[]
  []J$[][]$ []haṭhapradi-pakāṃ[] []J$[][]$
@@ -11182,21 +11182,21 @@ likaḥ[]
 @@298: line 18.2- t=224197 -> @296
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 [] []\TU/TeXGyreTermes(0)/bx/n/10 1 [][]śrīād-inātha[] []\TU/TeXGyreTermes(
 0)/m/n/10 cet.] []ād-ināthāya[] []C$[][]$ []ād-ināthasya[] []G$[][]$ []ān
 āthanātha[] []G$[][]$ []ād-ināthāśca[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 C$[][]$[]V$[][]$ []śrīād-ināthāya[] []N$[][]
 $ []śrīād-inātho[] []G$[][]$ []\TU/TeXGyreTermes(0)/m/it/10 unm.\TU/TeXGyre
 Termes(0)/m/n/10 śrīādināthādi[] []J$[][]$[]V$[][]$ []ād-ināthādi[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 A$[][]$[]B$[][]$[]C$[][]$[]C$[][]$[]J$[][]$[]J$[]
 []$[]J$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]V$[][]$[]V$[][]$[]V$
 [][]$[]V$[][]$[]V$[][]$[]V$[][]$ []\TU/TeXGyreTermes(0)/m/it/10 unm.\TU/TeXGyre
@@ -11204,7 +11204,7 @@ Termes(0)/m/n/10 ādinātha[] []B$[][]$ []++dināthāya[]
  []
 
 
-Underfull \hbox (badness 2717) in paragraph at lines 1--3048
+Underfull \hbox (badness 2717) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 V$[][]$  [][][]\TU/TeXGyreTermes(0)/bx/n/10 mat-sy
 en-dra[] []\TU/TeXGyreTermes(0)/m/n/10 cet.] []mat-sendra[] []C$[][]$[]J$[][]$[
 ]N$[][]$[]N$[][]$[]V$[][]$[]V$[][]$ []mac-can-draṃ[] []G$[][]$ []mat-syen-dra
@@ -11212,7 +11212,7 @@ en-dra[] []\TU/TeXGyreTermes(0)/m/n/10 cet.] []mat-sendra[] []C$[][]$[]J$[][]$[
  []
 
 
-Underfull \hbox (badness 5133) in paragraph at lines 1--3048
+Underfull \hbox (badness 5133) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 macheṃ-dra[] []O$[][]$[]O[]$[][]$ []V$[][]$ []ma
 chedraḥ[] []V$[][]$  [][][]\TU/TeXGyreTermes(0)/bx/n/10 śābarā[] []\TU/TeX
 GyreTermes(0)/m/n/10 cet.] []sā-varā[] []A$[][]$[]C$[][]$[]C$[][]$[]V$[][]$[]
@@ -11245,11 +11245,6 @@ Tue []śāṃ-varā[]
 
 [5]
 @firstpass
-\TU/AdishilaSan(0)/m/n/12 * 
-@\par via @0 b=0 p=-10000 d=100
-@@1: line 1.2- t=100 -> @0
-
-@firstpass
 [][] 
 @\penalty via @0 b=0 p=-10000 d=100
 @@1: line 1.2 t=100 -> @0
@@ -11257,7 +11252,7 @@ Tue []śāṃ-varā[]
 [][] 
 @\penalty via @0 b=0 p=-10000 d=100
 @@1: line 1.2 t=100 -> @0
-[] []\TU/TeXGyreTermes(0)/bx/n/10 2 [][]man-thāna[] []\TU/TeXGyreTermes(0)/m/n
+[] []\TU/TeXGyreTermes(0)/bx/n/10 1 [][]man-thāna[] []\TU/TeXGyreTermes(0)/m/n
 /10 cet.] []\TU/TeXGyreTermes(0)/m/it/10 unm.\TU/TeXGyreTermes(0)/m/n/10 śrīma
 nthāna[] []B$[][]$ []man-thāra[] []C$[][]$[]L$[][]$[]N$[][]$ []man-thāno[] [
 ]N$[][]$[]Tue[]V$[][]$[]V$[][]$[]V$[][]$[]Vulg 
@@ -11719,7 +11714,7 @@ dhatiḥ[]
 @\math via @94 b=37 p=0 d=2209
 @\math via @95 b=1184 p=0 d=1435636
 @@107: line 14.1 t=51396396 -> @94
-  []\TU/TeXGyreTermes(0)/bx/n/10 3 [][]pau-
+  []\TU/TeXGyreTermes(0)/bx/n/10 2 [][]pau-
 @\discretionary via @95 b=1 p=50 d=2621
 @@108: line 14.2- t=51374548 -> @95
 raṇṭakaḥ[] 
@@ -12333,7 +12328,7 @@ paṭiḥ[]
 @@246: line 28.2- t=27283335 -> @245
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 1--3048
+Underfull \hbox (badness 1152) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 C$[][]$[]C$[][]$[]C$[][]$[]N$[][]$[]N$[][]$[]J$[]
 []$[]J$[][]$[]J$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]Tue[]V$[][]
 $[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$ []si+[] []G$[][]$ []
@@ -12341,7 +12336,7 @@ $[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$ []si+[
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 1--3048
+Underfull \hbox (badness 2158) in paragraph at lines 1--3234
 [][][]\TU/TeXGyreTermes(0)/bx/n/10 carpaṭiḥ[] []\TU/TeXGyreTermes(0)/m/n/10
  cet.] []carp-paṭiḥ[] []B$[][]$[]B$[][]$[]J[]$[][]$[]J$[][]$[]J$[][]$[]N$[]
 []$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]V$[][]$[]V$[][]$[]V$[][]$ []carp-pa
@@ -12349,7 +12344,7 @@ Underfull \hbox (badness 2158) in paragraph at lines 1--3048
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 1--3048
+Underfull \hbox (badness 1275) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 carpaṭī[] []C$[][]$[]C$[][]$[]C$[][]$[]V$[][]$
 []V$[][]$[]V$[][]$[]N$[][]$[]N$[][]$ []carpaṭi[] []C[]$[][]$ []C$[][]$[]J$[][
 ]$[]J$[][]$[]J$[][]$[]N$[][]$[]V$[][]$[]N$[][]$ []cir-paṭi[] []J$[][]$ []tarpa
@@ -12357,7 +12352,7 @@ Underfull \hbox (badness 1275) in paragraph at lines 1--3048
  []
 
 
-Underfull \hbox (badness 4242) in paragraph at lines 1--3048
+Underfull \hbox (badness 4242) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 G$[][]$ []parpaṭiḥ[] []M$[][]$ []carpaṭī
 ḥ[] []N$[][]$ []carpaṭaḥ[] []A$[][]$[]V$[][]$ []sar-vadā[] []G$[][]$ []sa
 ñ-caṭī[] []G$[][]$ []ca+a.iḥ[] []V$[][]$ []om.[]
@@ -12389,15 +12384,10 @@ aSan(0)/m/n/12 ॥
 
 [6]
 @firstpass
-[]\TU/AdishilaSan(0)/m/n/12 * 
-@\par via @0 b=0 p=-10000 d=100
-@@1: line 1.2- t=100 -> @0
-
-@firstpass
 [][] 
 @\penalty via @0 b=0 p=-10000 d=100
 @@1: line 1.2 t=100 -> @0
-[] []\TU/TeXGyreTermes(0)/bx/n/10 2 [][]kān-erī[] []\TU/TeXGyreTermes(0)/m/n/
+[] []\TU/TeXGyreTermes(0)/bx/n/10 1 [][]kān-erī[] []\TU/TeXGyreTermes(0)/m/n/
 10 cet.] []kan-erī[] []C$[][]$[]J$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]V$[][]$[]V$[][]$[]V$[][]$ []ka
 ṇerī[] []J$[][]$[]J$[][]$[]J$[][]$[]V$[][]$[]N$[][]$[]V$[][]$ []kāṇarī[]
  []J$[][]$ []kaneri[] []V$[][]$ []kānīro[] 
@@ -12434,7 +12424,7 @@ rmes(0)/bx/n/10 nityanātho[] []\TU/TeXGyreTermes(0)/m/n/10 cet.]
 [][] 
 @\penalty via @0 b=0 p=-10000 d=100
 @@1: line 1.2 t=100 -> @0
-[] []\TU/TeXGyreTermes(0)/bx/n/10 2 [][]kān-erī[] []\TU/TeXGyreTermes(0)/m/n/
+[] []\TU/TeXGyreTermes(0)/bx/n/10 1 [][]kān-erī[] []\TU/TeXGyreTermes(0)/m/n/
 10 cet.] []kan-erī[] []C$[][]$[]J$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]V$[][]$[]V$[][]$[]V$[][]$ []ka
 ṇerī[] []J$[][]$[]J$[][]$[]J$[][]$[]V$[][]$[]N$[][]$[]V$[][]$ []kāṇarī[]
  []J$[][]$ []kaneri[] 
@@ -12884,7 +12874,7 @@ janaḥ[]
 @\math via @86 b=670 p=0 d=462400
 @\math via @87 b=4872 p=0 d=23843924
 @@106: line 12.0 t=51874519 -> @85
-  []\TU/TeXGyreTermes(0)/bx/n/10 3 [][]kapālī[] 
+  []\TU/TeXGyreTermes(0)/bx/n/10 2 [][]kapālī[] 
 @ via @87 b=22 p=0 d=1024
 @ via @88 b=336 p=0 d=119716
 @ via @89 b=772 p=0 d=611524
@@ -25631,7 +25621,7 @@ tathāḥ[]
 @@934: line 35.3- t=37866 -> @897
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 [] []\TU/TeXGyreTermes(0)/bx/n/10 1 [][]al-lāma[] \TU/TeXGyreTermes(0)/m/it/10
  nos scribere\TU/TeXGyreTermes(0)/m/n/10 ] []coni. al-lā-maḥ[] []Tue[]V$[][]
 $[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]Vulg[]N$[][]$[]N$[][]$ []al-la-m
@@ -25639,14 +25629,14 @@ aḥ[]
  []
 
 
-Underfull \hbox (badness 4846) in paragraph at lines 1--3048
+Underfull \hbox (badness 4846) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 C$[][]$[]C$[][]$[]N$[][]$[]J$[][]$[]J$[][]$[]J$[]
 []$[]J$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]V$[][]$[]V$[][]$[]V$[][]$ []avas-ra
 ḥ[] []A$[][]$ []al-lama[] []G$[][]$[]M$[][]$[]O$[][]$[]O[]$[][]$  []al-la-man[] []G$[][]$ []al-
  []
 
 
-Underfull \hbox (badness 5548) in paragraph at lines 1--3048
+Underfull \hbox (badness 5548) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 A$[][]$[]V$[][]$[]B$[][]$[]C$[][]$[]C$[][]$[]J$[]
 []$[]J$[][]$[]J$[][]$[]L$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]V$[][]$[]V$[][]$[]V$
 [][]$[]V$[][]$[]V$[][]$ []ghorā-cola[] []V$[][]$ []ghoḍā-coli[] []V$[][]$ [
@@ -25654,7 +25644,7 @@ Underfull \hbox (badness 5548) in paragraph at lines 1--3048
  []
 
 
-Underfull \hbox (badness 2662) in paragraph at lines 1--3048
+Underfull \hbox (badness 2662) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 B$[][]$ []gho-ja-colī[] []C$[][]$ []ghoḍācul
 ī[] []N$[][]$[]V$[][]$ []ghoḍācūlī[] []M$[][]$[]N$[][]$ []ghoḍāvolī[]
  []J$[][]$ []ṣoḍhā-coḷī[] []G$[][]$ []vaḍā-colī[]
@@ -30193,14 +30183,14 @@ dhi[]
 @@396: line 25.2- t=826073 -> @384
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 om.[] []N$[][]$  [][][]\TU/TeXGyreTermes(0)/bx/n/
 10 tāpa[] []\TU/TeXGyreTermes(0)/m/n/10 cet.] []tāpa[] []N$[][]$ []tapa[] []G$[][]$ []t
 āya[] []Tue []śrama[] []A$[][]$[]C$[][]$[]C[]$[][]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 C$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]J$[]
 []$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]V$[][]$[]V$[][]$[]V$
 [][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$ []tapi[] []J$[][]$ []om.[] [
@@ -30208,7 +30198,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--3048
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 \TU/TeXGyreTermes(0)/bx/n/10 tānāṃ[] []\TU/TeXGyreTermes(0)/m/n/10 cet.] []
 tap-tānām[] []A$[][]$[]B$[][]$[]C$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]N$[][]$[]
 N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$
@@ -30216,7 +30206,7 @@ N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 V$[][]$ []tamānāṃ[] []J$[][]$ []cin-tānām[]
  []V$[][]$ []om.[] []N$[][]$  [][][]\TU/TeXGyreTermes(0)/bx/n/10 samāśrayo[] 
 []\TU/TeXGyreTermes(0)/m/n/10 V$[][]$[]B$[][]$[]C$[][]$[]V$[][]$] []āśrayo ya
@@ -30224,7 +30214,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--3048
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 B$[][]$[]C$[][]$[]C$[][]$[]C$[][]$[]J$[][]$[]J$[]
 []$[]J$[][]$[]J$[][]$[]J$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$
 [][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]
@@ -30232,7 +30222,7 @@ V$[][]$[]V$[][]$ []samāśrayaḥ[]
  []
 
 
-Underfull \hbox (badness 4132) in paragraph at lines 1--3048
+Underfull \hbox (badness 4132) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 C$[][]$[]C$[][]$[]C$[][]$[]C$[][]$[]C$[][]$[]G$[]
 []$[]J$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]L$[][]$[]M$[][]$[]N$[][]$[]N$[][]$[]N$
 [][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]O$[][]$[]Tue[]V$[][]$[]V$[]
@@ -30240,7 +30230,7 @@ Underfull \hbox (badness 4132) in paragraph at lines 1--3048
  []
 
 
-Underfull \hbox (badness 1270) in paragraph at lines 1--3048
+Underfull \hbox (badness 1270) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 ād-hārā[] []J$[][]$ []ād-hārāya[] []V$[][]$
  []ād-hārai[] []L$[][]$[]V$[][]$ []ptād-hāraḥ[] []N$[][]$ []sarva[] []J$[
 ][]$[]O$[][]$[]O[]$[][]$ []V$[][]$[]N$[][]$ []om.[] []N$[][]$[]N$[][]$
@@ -32781,14 +32771,14 @@ bījī[]
 @@219: line 15.2- t=1188841 -> @194
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 [] []\TU/TeXGyreTermes(0)/bx/n/10 1 [][]haṭhavidyā[] []\TU/TeXGyreTermes(0)/
 m/n/10 cet.] []haṭhavidyāṃ[] []J$[][]$[]J$[][]$[]N$[][]$ []haṭavidyā[] 
 []V$[][]$ []om.[] []N$[][]$  [][][]\TU/TeXGyreTermes(0)/bx/n/10 paraṃ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 cet.] []parā[] []C$[][]$[]C$[][]$[]G$[][]$[]J$[]
 []$[]V$[][]$ []om.[] []N$[][]$  [][][]\TU/TeXGyreTermes(0)/bx/n/10 gopyā[] []\
 TU/TeXGyreTermes(0)/m/n/10 cet.] []gopyaṃ[] []B$[][]$[]G$[][]$[]J$[][]$[]N$[]
@@ -32796,27 +32786,27 @@ TU/TeXGyreTermes(0)/m/n/10 cet.] []gopyaṃ[] []B$[][]$[]G$[][]$[]J$[][]$[]N$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 gopya[] []J$[][]$[]N$[][]$ []guhyā[] []G$[][]$ [
 ]gopyāṃ[] []J$[][]$[]V$[][]$ []om.[] []N$[][]$  [][][]\TU/TeXGyreTermes(0)/b
 x/n/10 yo-gināṃ[] []\TU/TeXGyreTermes(0)/m/n/10 cet.] []yo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 \TU/TeXGyreTermes(0)/m/n/10 ginā[] []A$[][]$[]B$[][]$[]C$[][]$[]C$[][]$[]C$[][
 ]$[]C$[][]$[]G$[][]$[]J$[][]$[]J[]$[][]$[]J$[][]$[]L$[][]$[]M$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]O$[][]$[]O[]$[][]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 O$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[]
 []$[]Vulg[]YC []yo-gino[] []J$[][]$ []yogi ..[] []V$[][]$ []yo-gīnāṃ[] []C$
 [][]$[]V$[][]$ []om.[] []N$[][]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 [][][]\TU/TeXGyreTermes(0)/bx/n/10 sid-dhim[] []\TU/TeXGyreTermes(0)/m/n/10 cet.
 ] []sid-dha[] []C$[][]$ []mid-dhim[] []L$[][]$ []om.[] []N$[][]$  [][][]\TU/TeX
 GyreTermes(0)/bx/n/10 ic-cha-tām[] []\TU/TeXGyreTermes(0)/m/n/10 cet.] []ic-cha
@@ -32824,7 +32814,7 @@ tā[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 A$[][]$[]B$[][]$[]B$[][]$[]C$[][]$[]C$[][]$[]C$[]
 []$[]C$[][]$[]C$[][]$[]C$[][]$[]G$[][]$[]J$[][]$[]J[]$[][]$[]J$[][]$[]L$[][]$[]
 M$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$
@@ -32832,7 +32822,7 @@ M$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$
  []
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 1--3048
+Underfull \hbox (badness 1609) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 O$[][]$[]Tue[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[
 ]V$[][]$[]Vulg[]YC []id-hutā[] []C$[][]$ []ichitā[] []J$[][]$ []ic-chito[] []
 V$[][]$ []ic-chitām[] []V$[][]$[]V$[][]$ []om.[] []N$[][]$
@@ -34093,7 +34083,7 @@ dhaye[]
 @@224: line 21.2- t=3395592 -> @217
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 1--3048
+Underfull \hbox (badness 1253) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 J$[][]$[]J$[][]$] []***[] []cet.  []\TU/TeXGyreTe
 rmes(0)/bx/n/10 4 [][]mitāhāraḥ śau-caṃ[] []\TU/TeXGyreTermes(0)/m/n/10 
 J$[][]$] []mitāhāra śauca[] []J$[][]$ []***[] []cet.  []\TU/TeXGyreTermes(0)
@@ -48421,28 +48411,28 @@ inām[]
 @@1144: line 52.3- t=287472 -> @1095
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 [] []\TU/TeXGyreTermes(0)/bx/n/10 1 [][]al-pad-vāram[] []\TU/TeXGyreTermes(0)/
 m/n/10 cet.] []anyad-vāram[] []J$[][]$ []alpāhāram[] []B$[][]$ []alpā..[] [
 ]V$[][]$ []om.[] []N$[][]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 ākalpad-vār[] []N$[][]$ []sval-pad-vāra[] []V$
 [][]$ []+lpad-vāram.[] []V$[][]$  [][][]\TU/TeXGyreTermes(0)/bx/n/10 arandhra[
 ] []\TU/TeXGyreTermes(0)/m/n/10 cet.] []agartta[] []N$[][]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 om.[] []N$[][]$ []raṃdhra[] []N$[][]$ []marandhr
 aṃ[] []V$[][]$  [][][]\TU/TeXGyreTermes(0)/bx/n/10 garta[] []\TU/TeXGyreTerme
 s(0)/m/n/10 cet.] []gataṃ[] []B$[][]$[]N$[][]$[]N$[][]$ []gartta[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 J$[][]$[]J$[][]$[]N$[][]$[]B$[][]$[]C$[][]$[]C$[]
 []$[]C$[][]$[]G$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]O$[][]$[]V$
 [][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]
@@ -48450,14 +48440,14 @@ V$[][]$[]V$[][]$ []garte[] []J$[][]$
  []
 
 
-Underfull \hbox (badness 2205) in paragraph at lines 1--3048
+Underfull \hbox (badness 2205) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 garbha[] []B$[][]$[]C$[][]$[]N$[][]$[]N$[][]$ []ga
 rta|bha|[] []M$[][]$ []ya-tra[] []N$[][]$ []martta[] []V$[][]$ []mantya[] []A$[
 ][]$ []gar-nta[] []N$[][]$ []garta[] []V$[][]$
  []
 
 
-Underfull \hbox (badness 2698) in paragraph at lines 1--3048
+Underfull \hbox (badness 2698) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 om.[] []N$[][]$  [][][]\TU/TeXGyreTermes(0)/bx/n/
 10 sahi-taṃ[] []\TU/TeXGyreTermes(0)/m/n/10 V$[][]$] []pīṭhakāṃ[] []B$[
 ][]$ []piṭhikāṃ[] []B$[][]$ []piṭhikaṃ[] []N$[][]$ []piṭhake[] []V$[
@@ -48465,21 +48455,21 @@ Underfull \hbox (badness 2698) in paragraph at lines 1--3048
  []
 
 
-Underfull \hbox (badness 6157) in paragraph at lines 1--3048
+Underfull \hbox (badness 6157) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 V$[][]$ []paṭakaṃ[] []G$[][]$ []puṭakaṃ[]
  []B$[][]$ []puṭavūṃ[] []C$[][]$ []piṭa-paṃ[] []C$[][]$ []mad-hikaṃ[
 ] []G$[][]$ []viṭa-paṃ[] []A$[][]$[]C$[][]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 puṭi-taṃ[] []N$[][]$[]O$[][]$[]O[]$[][]$ []V$
 [][]$[]V$[][]$ []piṭikāṃ[] []N$[][]$ []paṭikaṃ[] []C$[][]$[]C$[][]$ []
 piṭakaṃ[] []C$[][]$[]J$[][]$[]J$[][]$[]V$[][]$ []viṭa-paṃ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 J$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]J$[]
 []$[]J$[][]$[]J$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]V$[][]$[]V$
 [][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$ []viṭapa[] []N$[][]$ []vi
@@ -48487,35 +48477,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--3048
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 1--3048
+Underfull \hbox (badness 2608) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 C$[][]$[]N$[][]$ []piṭi-raṃ[] []V$[][]$ []p
 īṭhaṃ[] []N$[][]$ []piṭhakaṃ[] []J$[][]$[]N$[][]$[]N$[][]$ []puṭi-tam
 [] []J$[][]$ []vi-varaṃ[] []N$[][]$[]N$[][]$[]Tue[]V$[][]$[]Vulg
  []
 
 
-Underfull \hbox (badness 1881) in paragraph at lines 1--3048
+Underfull \hbox (badness 1881) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 cet.] []nā-tyuc-canicā[] []N$[][]$ []nā-tyuc-c
 ānīcā[] []J$[][]$ []nā-tyuś-canīcā[] []O$[][]$ []nā-tyu-canicā[] []V$[
 ][]$ []nānyud-dhanīcā[]
  []
 
 
-Underfull \hbox (badness 1325) in paragraph at lines 1--3048
+Underfull \hbox (badness 1325) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 C$[][]$ []nāḍayuc-canīcā[] []J$[][]$ []nā-ty
 uc-canīkā[] []N$[][]$ []nā-tyuc-chy-atāyā[] []G$[][]$ []nā-tyuc-canoccā[
 ] []J$[][]$[]N$[][]$[]V$[][]$ [].. yuc-
  []
 
 
-Underfull \hbox (badness 1259) in paragraph at lines 1--3048
+Underfull \hbox (badness 1259) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 cet. []pataṃ[] []C$[][]$ []yata[] []V$[][]$ []ry
 -ataṃ[] []N$[][]$ []rpi-taṃ[] []J$[][]$[]N$[][]$ []tpite[] []V$[][]$ [].. .
 ṃ[] []V$[][]$ []om.[] []N$[][]$ []yi-taṃ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 A$[][]$[]C$[][]$[]C$[][]$[]C$[][]$[]C$[][]$[]G$[]
 []$[]G$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]M$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$
 [][]$[]N$[][]$[]N$[][]$[]N$[][]$[]Tue[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[]
@@ -48523,7 +48513,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--3048
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 1--3048
+Underfull \hbox (badness 4634) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 N$[][]$ []jan-tūt-thi-taṃ[] []M$[][]$ []bād-ho
 -jjhi-tam[] []A$[][]$[]C[]$[][]$ []C$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[
 ]J$[][]$[]J$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]V$[][]$[]V$[][]$[]V$[][]
@@ -48531,28 +48521,28 @@ $[]V$[][]$[]V$[][]$[]V[]$[][]$
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 1--3048
+Underfull \hbox (badness 1668) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 N$[][]$ []bād-ho-jji-tam[] []N$[][]$ []bādho .it
 aṃ[] []V$[][]$ []bod-hīkṣataṃ[] []J$[][]$ []bād-hokṣi-taṃ[] []V$[][
 ]$ []bod-hekṣi-taṃ[] []V$[][]$
  []
 
 
-Underfull \hbox (badness 5817) in paragraph at lines 1--3048
+Underfull \hbox (badness 5817) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 bod-hodgataṃ[] []J$[][]$ []bod-hāt-makaṃ[] [
 ]G$[][]$ []vod-hot-si-taṃ[] []N$[][]$ []bād-hot-si-taṃ[] []O$[][]$[]O[]$[]
 []$  []vā-taṃ ji-taṃ[]
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 1--3048
+Underfull \hbox (badness 1661) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 V$[][]$ []vā-tovyu-taṃ[] []V$[][]$ []vā-to-jjh
 i-taṃ[] []V$[][]$ []vātār*n*ītaṃ[] []N$[][]$ []vāt dhā*dg*ataṃ[] []N$[][]$ []v
 āhy-o-jhi-taḥ[] []N$[][]$
  []
 
 
-Underfull \hbox (badness 1286) in paragraph at lines 1--3048
+Underfull \hbox (badness 1286) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 V$[][]$ []\TU/TeXGyreTermes(0)/m/it/10 unm.\TU/Te
 XGyreTermes(0)/m/n/10 maṇḍapaṃ maṇḍapa[] []V$[][]$ []om.[] []J$[][]$[
 ]N$[][]$  [][][]\TU/TeXGyreTermes(0)/bx/n/10 vedikū-paruci-taṃ[] []\TU/TeXGy
@@ -48560,7 +48550,7 @@ reTermes(0)/m/n/10 V$[][]$[]N$[][]$] []vedikū-parac-i-taṃ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 B$[][]$[]B$[][]$[]C$[][]$[]C$[][]$[]C$[][]$[]L$[]
 []$[]J$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$
 [][]$[]N$[][]$[]N$[][]$[]N$[][]$[]O$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]
@@ -48568,7 +48558,7 @@ V$[][]$[]V$[][]$[]V$[][]$ []vedikū-paru-ci-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 \TU/TeXGyreTermes(0)/m/n/10 raṃ[] []C$[][]$[]C$[][]$[]C[]$[][]$ []C$[][]$[]G$
 [][]$[]J$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]
 N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]O[]$[][]$ []Tue[]V$[][]$[]V$[][]$[]V$[][]$[
@@ -48576,7 +48566,7 @@ N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]O[]$[][]$ []Tue[]V$[][]$[]V$[][]$[]V$[][]$[
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 vedikoparac-i-taṃ[] []B$[][]$[]C$[][]$[]J$[][]$
 []J$[][]$ []vedikū-paracite[] []V$[][]$ []vedikū-paracita[] []A$[][]$ []vedik
 ū-para-canaṃ[] []C$[][]$
@@ -48592,7 +48582,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--3048
 @@2: line 1.2- t=100 -> @0
 
 
-LaTeX Warning: Float too large for page by 69.07999pt on input line 3048.
+LaTeX Warning: Float too large for page by 69.07999pt on input line 3234.
 
 @firstpass
 [][][][][]\TU/AdishilaSan(0)/m/n/12 अल्पद्वार[][][][]मर
@@ -54397,7 +54387,7 @@ ati[]
 @@393: line 20.3- t=15187 -> @372
 
 
-Underfull \hbox (badness 4819) in paragraph at lines 1--3048
+Underfull \hbox (badness 4819) in paragraph at lines 1--3234
 [] []\TU/TeXGyreTermes(0)/bx/n/10 1 [][]atyāhāraḥ[] []\TU/TeXGyreTermes(0)/
 m/n/10 cet.] []atyāhāra[] []B$[][]$[]C$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]J$[]
 []$[]J$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]V$
@@ -54405,7 +54395,7 @@ m/n/10 cet.] []atyāhāra[] []B$[][]$[]C$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]J$[]
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 1--3048
+Underfull \hbox (badness 1478) in paragraph at lines 1--3234
 \TU/TeXGyreTermes(0)/m/n/10 haḥ[] []A$[][]$[]B$[][]$[]C$[][]$[]C$[][]$[]C[]$[
 ][]$ []J$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]N$[][]$[]N$[][]$[]O$[][]$[]O[]$[][]$
  []V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]Vulg []’niya
@@ -54413,7 +54403,7 @@ mā-gra-haḥ[] []J[]$[][]$[]V[]$[][]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 C$[][]$[]C$[][]$[]C$[][]$[]C$[][]$[]C$[][]$[]G$[]
 []$[]G$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]J$
 [][]$[]L$[][]$[]M$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]
@@ -55290,7 +55280,7 @@ ati[]
 @@177: line 25.2- t=5736879 -> @170
 
 
-Underfull \hbox (badness 1436) in paragraph at lines 1--3048
+Underfull \hbox (badness 1436) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 sāhasād dhairyā[] []V$[][]$ []sa-hasād dhairy
 āt[] []V$[][]$ []sāhasād vairyāt[] []J$[][]$[]J$[][]$[]N$[][]$ []niś-ciyaud
 -hairya[] []J$[][]$ []niś-
@@ -56444,14 +56434,14 @@ daśā//[]
 @@131: line 13.2- t=1519031 -> @122
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 [] []\TU/TeXGyreTermes(0)/bx/n/10 1 [][]atha ya-maniyamāḥ//[] []\TU/TeXGyreT
 ermes(0)/m/n/10 C$[][]$[]J$[][]$[]J$[][]$[]N$[][]$[]N$[][]$] []***[] []cet.  []
 \TU/TeXGyreTermes(0)/bx/n/10 2 [][]ahiṃsā[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 B$[][]$[]B$[][]$[]C$[][]$[]C$[][]$[]C$[][]$[]J$[]
 []$[]J$[][]$[]J$[][]$[]J$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$
 [][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$] []***[] []cet.  [][][]\TU/TeXGyreTer
@@ -56459,7 +56449,7 @@ mes(0)/bx/n/10 satya-masteyaṃ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 B$[][]$[]B$[][]$[]C$[][]$[]C$[][]$[]C$[][]$[]J$[]
 []$[]J$[][]$[]J$[][]$[]J$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$
 [][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$] []***[] []cet.  [][][]\TU/TeXGyreTer
@@ -56467,14 +56457,14 @@ mes(0)/bx/n/10 brah-macaryaṃ[]
  []
 
 
-Underfull \hbox (badness 5504) in paragraph at lines 1--3048
+Underfull \hbox (badness 5504) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 B$[][]$[]C$[][]$[]J[]$[][]$[]J$[][]$[]J$[][]$[]N$
 [][]$[]N$[][]$[]V$[][]$[]V$[][]$] []dayār-jaṃva mitāhāraḥ[] []C$[][]$ []
 dayār-j-javamitāhāra[] []V$[][]$ []dayār-javaṃ
  []
 
 
-Underfull \hbox (badness 2302) in paragraph at lines 1--3048
+Underfull \hbox (badness 2302) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 cet.  [][][]\TU/TeXGyreTermes(0)/bx/n/10 śau-ca
 ṃ[] []\TU/TeXGyreTermes(0)/m/n/10 B$[][]$[]B$[][]$[]C$[][]$[]C$[][]$[]C$[][]$
 []J$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][
@@ -59430,14 +59420,14 @@ asanani//[]
 @@277: line 15.3- t=178822 -> @256
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 [] []\TU/TeXGyreTermes(0)/bx/n/10 1 [][]tapaḥ san-toṣa āstikyaṃ[] []\TU/
 TeXGyreTermes(0)/m/n/10 B$[][]$[]N$[][]$[]N$[][]$[]C$[][]$[]V$[][]$[]V$[][]$] [
 ]tapaḥ saṃ-toṣam āstikyaṃ[]
  []
 
 
-Underfull \hbox (badness 1629) in paragraph at lines 1--3048
+Underfull \hbox (badness 1629) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 C$[][]$[]C$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[]
 []$[]J$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]V$[][]$[]V$[][]$ []tapaḥ san-toṣam 
 āstikya[] []B$[][]$ []***[] []cet.  [][][]\TU/TeXGyreTermes(0)/bx/n/10 dā-nam 
@@ -59445,14 +59435,14 @@ Underfull \hbox (badness 1629) in paragraph at lines 1--3048
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 \TU/TeXGyreTermes(0)/bx/n/10 pū-janaṃ/[] []\TU/TeXGyreTermes(0)/m/n/10 B$[][
 ]$[]B$[][]$[]C$[][]$[]C$[][]$[]C$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]N$[
 ][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$] []***[] []cet.  []\TU/TeXGyreTermes(0)/bx/n/10 2 [][]sid-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 \TU/TeXGyreTermes(0)/bx/n/10 dhān-taśravaṇaṃ[] []\TU/TeXGyreTermes(0)/m/n
 /10 B$[][]$[]B$[][]$[]C$[][]$[]C$[][]$[]C$[][]$[]J$[][]$[]J$[][]$[]N$[][]$[]N$[
 ][]$[]N$[][]$[]N$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$] []sid-dhān-taṃ 
@@ -61870,7 +61860,7 @@ havam[]
 @@200: line 16.2- t=49222 -> @199
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 1--3048
+Underfull \hbox (badness 1210) in paragraph at lines 1--3234
 \TU/TeXGyreTermes(0)/m/n/10 cy-ate[] []V$[][]$  []\TU/TeXGyreTermes(0)/bx/n/10 
 2 [][]tatkuryādāsanaṃ[] []\TU/TeXGyreTermes(0)/m/n/10 cet.] []tat kuryād 
 āsana[] []B$[][]$[]C$[][]$[]C$[][]$[]G$[][]$[]G$[][]$[]J[]$[][]$[]J$[][]$[]N$[
@@ -61878,14 +61868,14 @@ Underfull \hbox (badness 1210) in paragraph at lines 1--3048
  []
 
 
-Underfull \hbox (badness 6944) in paragraph at lines 1--3048
+Underfull \hbox (badness 6944) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]YC []tat kury
 ād āsane[] []J$[][]$[]M$[][]$[]V$[][]$ []tat kuryād āsanāt[] []G$[][]$ []ku
 ryāt tad āsanaṃ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--3048
+Underfull \hbox (badness 10000) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 A$[][]$[]B$[][]$[]B$[][]$[]C$[][]$[]C$[][]$[]C$[]
 []$[]C$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$
 [][]$[]N$[][]$[]N$[][]$[]Tue[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[]
@@ -61893,14 +61883,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--3048
  []
 
 
-Underfull \hbox (badness 5939) in paragraph at lines 1--3048
+Underfull \hbox (badness 5939) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 kuryā tad āsanaṃ[] []C$[][]$ []kuryāt tath
 āsanaṃ[] []N$[][]$ []kur-jāsa tad āsanaṃ[] []N$[][]$ []kuryād āsana
 ṃ[]
  []
 
 
-Underfull \hbox (badness 5133) in paragraph at lines 1--3048
+Underfull \hbox (badness 5133) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 J$[][]$ []\TU/TeXGyreTermes(0)/m/it/10 unm.\TU/Te
 XGyreTermes(0)/m/n/10 stvakuryād āsanaṃ tat[] []V$[][]$ []kuryāt tad āśan
 aṃ[] []V$[][]$  [][][]\TU/TeXGyreTermes(0)/bx/n/10 sthairyam[] []\TU/TeXGyreT
@@ -61908,7 +61898,7 @@ ermes(0)/m/n/10 cet.] []tas-mād[]
  []
 
 
-Underfull \hbox (badness 4886) in paragraph at lines 1--3048
+Underfull \hbox (badness 4886) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 A$[][]$[]B$[][]$[]B$[][]$[]C$[][]$[]C$[][]$[]C$[]
 []$[]C$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]J$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$
 [][]$[]N$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][]$ []tas-māt[] []V$[]
@@ -61916,7 +61906,7 @@ Underfull \hbox (badness 4886) in paragraph at lines 1--3048
  []
 
 
-Underfull \hbox (badness 4416) in paragraph at lines 1--3048
+Underfull \hbox (badness 4416) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 cet.] []lāghavaṃ[] []C$[][]$[]C$[][]$[]C$[][]$
 []C$[][]$[]J[]$[][]$[]J$[][]$[]L$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[][]$[]N$[
 ][]$[]N$[][]$[]N$[][]$[]N$[][]$[]O$[][]$[]Tue[]V$[][]$[]V$[][]$[]V$[][]$[]V$[][
@@ -61942,8 +61932,13 @@ Underfull \hbox (badness 4416) in paragraph at lines 1--3048
 @firstpass
 [][][][]\TU/AdishilaSan(0)/m/n/12 तत्कुर्यादासनं[][
 ][][]स्थैर्य[][][][]मारोग्यं[][][][]चाङ्
-ग[][][][]पाटवं[]   ॥[]\TU/TeXGyreTermes(0)/m/n/12 HP117[] \TU/Adi
-shilaSan(0)/m/n/12 ॥ 
+ग[][][][]पाटवं[]  
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[] \TU/AdishilaSan(0)/m/n/12 ॥[]\TU/TeXGyreTermes(0)/m/n/12 HP117[] \TU/Adish
+ilaSan(0)/m/n/12 ॥ 
 @\par via @0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @0
 
@@ -64081,7 +64076,7 @@ cakṣate[]
 @@112: line 15.2- t=3337843 -> @111
 
 
-Underfull \hbox (badness 1360) in paragraph at lines 1--3048
+Underfull \hbox (badness 1360) in paragraph at lines 1--3234
 []\TU/TeXGyreTermes(0)/m/n/10 savya[] []C$[][]$[]J$[][]$ []om.[] []N$[][]$  [][
 ][]\TU/TeXGyreTermes(0)/bx/n/10 go-mukhaṃ[] []\TU/TeXGyreTermes(0)/m/n/10 cet.
 ] []go-mukhe[] []C$[][]$[]C$[][]$[]J$[][]$[]L$[][]$[]O$[][]$[]V$[][]$[]V$[][]$ 
@@ -64116,19 +64111,18 @@ aSan(0)/m/n/12 ॥
 
 Here is how much of LuaTeX's memory you used:
  11348 strings out of 478824
- 381544,1648299 words of node,token memory allocated
+ 381529,1648299 words of node,token memory allocated
  7819 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 861 glyph, 454 attribute, 57 glue_s
 pec, 228 attribute_list, 1 write nodes
-   avail lists: 1:2,2:40966,3:7364,4:98,5:4255,6:30,7:25698,8:4,9:4999,10:31,11:
-935
+   avail lists: 2:40966,3:7364,4:98,5:4255,6:30,7:25698,8:2,9:4999,10:31,11:935
  30505 multiletter control sequences out of 65536+600000
  76 fonts using 10768831 bytes
- 98i,11n,141p,18992b,1684s stack positions out of 5000i,500n,10000p,200000b,200000s
+ 98i,11n,141p,18992b,1678s stack positions out of 5000i,500n,10000p,200000b,200000s
 </home/enjotel/.local/share/fonts/texgyretermes-italic.otf></home/enjotel/.local
 /share/fonts/texgyretermes-bold.otf></home/enjotel/.local/share/fonts/texgyreter
 mes-regular.otf></home/enjotel/.local/share/fonts/AdishilaSan.ttf>
-Output written on hp_1.1-20.pdf (27 pages, 155719 bytes).
+Output written on hp_1.1-20.pdf (27 pages, 155500 bytes).
 
 PDF statistics: 120 PDF objects out of 1000 (max. 8388607)
  75 compressed objects within 1 object stream
