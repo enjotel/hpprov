@@ -880,7 +880,7 @@
 <9-x-2>{\selectlanguage {english}{\supplied {\gap {reason=deleted,unit=syllable, quantity=4}}}} \getsiglum {N22,P3}</9-x-2>
 <9-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}prabhāvataḥ} \getsiglum {ceteri}\ekdsep </9-x-2>
 <9-x-2>{\selectlanguage {english}prabhāvata} \getsiglum {J2}</9-x-2>
-<9-x-2>{\selectlanguage {english}prasādataḥ} \getsiglum {C6,J8,M1,N12,N20,N21,N23,N26,O1,O1pc,V3,V11,V14,V17,V25}</9-x-2>
+<9-x-2>{\selectlanguage {english}prasādataḥ} \getsiglum {Be1,C6,J8,M1,N12,N20,N21,N23,N26,O1,O1pc,V3,V11,V14,V17,V25}</9-x-2>
 <9-x-2>{\selectlanguage {english}om.} \getsiglum {N22,P3}</9-x-2>
 <9-x-2>{\selectlanguage {english}\skp {-}\unm adhaprasādataḥ} \getsiglum {V8}</9-x-2>
 <9-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries \LRnum {2}~}{\bfseries \selectlanguage {english}khaṇḍayitvā} \getsiglum {ceteri}\ekdsep </9-x-2>
@@ -932,7 +932,7 @@
 <10-x-2>{\selectlanguage {english}tamānāṃ} \getsiglum {J2}</10-x-2>
 <10-x-2>{\selectlanguage {english}cintānām} \getsiglum {V11}</10-x-2>
 <10-x-2>{\selectlanguage {english}om.} \getsiglum {N22,P3}</10-x-2>
-<10-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}samāśrayo\skp {-}} \getsiglum {V1,B1,C1,V8}\ekdsep </10-x-2>
+<10-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}samāśrayo\skp {-}} \getsiglum {V1,B1,Be1,C1,V8}\ekdsep </10-x-2>
 <10-x-2>{\selectlanguage {english}āśrayo yaṃ\skp {-}} \getsiglum {B3,C2,C3,C9,J8,J12,J13,J15,J17,N6,N9,N10,N17,N20,N21,P1,P2,P4,P5,R3,V3,V4,V6,V11,V12,V13,V16,V17,V18,V28}</10-x-2>
 <10-x-2>{\selectlanguage {english}samāśrayaḥ\skp {-}} \getsiglum {V21}</10-x-2>
 <10-x-2>{\selectlanguage {english}māśrayo yaṃ\skp {-}} \getsiglum {J10}</10-x-2>
@@ -953,7 +953,7 @@
 <10-x-2>{\selectlanguage {english}haṭho maṭhaḥ} \getsiglum {V1}</10-x-2>
 <10-x-2>{\selectlanguage {english}maṭho haṭhaḥ} \getsiglum {C1,C4,C6,C7,C8,G3,J3,J6,J11,J14,L1,M1,N4a,N5,N11,N12,N13,N19,N23,N25,O2,P6,Tue,V2,V5,Vu,Ko}</10-x-2>
 <10-x-2>{\selectlanguage {english}māṭhe haṭhaḥ} \getsiglum {B2}</10-x-2>
-<10-x-2>{\selectlanguage {english}mate haṭhaḥ} \getsiglum {V21}</10-x-2>
+<10-x-2>{\selectlanguage {english}mate haṭhaḥ} \getsiglum {V21,Be1}</10-x-2>
 <10-x-2>{\selectlanguage {english}māṭho haṭhaḥ} \getsiglum {J4}</10-x-2>
 <10-x-2>{\selectlanguage {english}maṭho haraḥ} \getsiglum {G1,G2}</10-x-2>
 <10-x-2>{\selectlanguage {english}maho haṭha} \getsiglum {N16}</10-x-2>
@@ -991,7 +991,7 @@
 <10-x-2>{\selectlanguage {english}.. .. .. .} \getsiglum {V22}</10-x-2>
 <10-x-2>{\selectlanguage {english}tantrāṇām\skp {-}} \getsiglum {G1,V8}</10-x-2>
 <10-x-2>{\selectlanguage {english}siddhānām\skp {-}} \getsiglum {J12}</10-x-2>
-<10-x-2>{\selectlanguage {english}vijñāna} \getsiglum {J2,O1,O1pc,V26}</10-x-2>
+<10-x-2>{\selectlanguage {english}vijñāna} \getsiglum {Be1,J2,O1,O1pc,V26}</10-x-2>
 <10-x-2>{\selectlanguage {english}vijñānaḥ\skp {-}} \getsiglum {N12}</10-x-2>
 <10-x-2>{\selectlanguage {english}om.} \getsiglum {N3,N22,P3}</10-x-2>
 <10-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}ādhāra} \getsiglum {ceteri}\ekdsep </10-x-2>
@@ -1004,7 +1004,7 @@
 <10-x-2>{\selectlanguage {english}ādhārāya\skp {-}} \getsiglum {V25}</10-x-2>
 <10-x-2>{\selectlanguage {english}ādhārai} \getsiglum {L1,V6}</10-x-2>
 <10-x-2>{\selectlanguage {english}ptādhāraḥ\skp {-}} \getsiglum {N19}</10-x-2>
-<10-x-2>{\selectlanguage {english}sarva} \getsiglum {J2,O1,O1pc,V26,N12}</10-x-2>
+<10-x-2>{\selectlanguage {english}sarva} \getsiglum {Be1,J2,O1,O1pc,V26,N12}</10-x-2>
 <10-x-2>{\selectlanguage {english}om.} \getsiglum {N3,N22,P3}</10-x-2>
 <10-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}kamaṭho\skp {-}} \getsiglum {ceteri}\ekdsep </10-x-2>
 <10-x-2>{\selectlanguage {english}kamaṭho\skp {-}} \getsiglum {N1}</10-x-2>
@@ -1020,7 +1020,7 @@
 <10-x-2>{\selectlanguage {english}kama} \getsiglum {N17}</10-x-2>
 <10-x-2>{\selectlanguage {english}tu mato\skp {-}} \getsiglum {V14}</10-x-2>
 <10-x-2>{\selectlanguage {english}traividya} \getsiglum {V15pc}</10-x-2>
-<10-x-2>{\selectlanguage {english}siddhi} \getsiglum {J2,O1,O1pc,V26,N12}</10-x-2>
+<10-x-2>{\selectlanguage {english}siddhi} \getsiglum {Be1,J2,O1,O1pc,V26,N12}</10-x-2>
 <10-x-2>{\selectlanguage {english}kṛto\skp {-}} \getsiglum {V25}</10-x-2>
 <10-x-2>{\selectlanguage {english}om.} \getsiglum {N3,N22,P3}</10-x-2>
 <10-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}haṭhaḥ} \getsiglum {ceteri}\ekdsep </10-x-2>
@@ -1032,7 +1032,7 @@
 <10-x-2>{\selectlanguage {english}om.} \getsiglum {N3,N22,P3}</10-x-2>
 <10-x-2>{\selectlanguage {english}haṭaḥ} \getsiglum {P7,V22}</10-x-2>
 <10-x-2>{\selectlanguage {english}pradāyakā} \getsiglum {J2}</10-x-2>
-<10-x-2>{\selectlanguage {english}pradāyakaḥ} \getsiglum {V26,N12,O1,O1pc}</10-x-2>
+<10-x-2>{\selectlanguage {english}pradāyakaḥ} \getsiglum {Be1,V26,N12,O1,O1pc}</10-x-2>
 <11-x-2>{\selectlanguage {english}\bfseries \LRnum {1}~}{\bfseries \selectlanguage {english}haṭhavidyā} \getsiglum {ceteri}\ekdsep </11-x-2>
 <11-x-2>{\selectlanguage {english}haṭhavidyāṃ} \getsiglum {J15,J17,R3,N25}</11-x-2>
 <11-x-2>{\selectlanguage {english}haṭavidyā} \getsiglum {V22}</11-x-2>
@@ -1061,6 +1061,7 @@
 <11-x-2>{\selectlanguage {english}icchatā} \getsiglum {A1,B1,B3,C1,C3,C4,C6,C7,C8,G2,J3,J6pc,J13,L1,M1,N4a,N10,N11,N12,N13,N16,N19,N20,N21,N24,N25,O1,O1pc,O2,P2,P4,P7,R3,Tue,V2,V5,V19,V22,V26,Vu,YC,Bo2}</11-x-2>
 <11-x-2>{\selectlanguage {english}idhutā} \getsiglum {C2}</11-x-2>
 <11-x-2>{\selectlanguage {english}ichitā} \getsiglum {J2}</11-x-2>
+<11-x-2>{\selectlanguage {english}ichataṃ} \getsiglum {Be1}</11-x-2>
 <11-x-2>{\selectlanguage {english}icchito} \getsiglum {V11}</11-x-2>
 <11-x-2>{\selectlanguage {english}icchitām} \getsiglum {V18,V25}</11-x-2>
 <11-x-2>{\selectlanguage {english}om.} \getsiglum {N22,P3}</11-x-2>
@@ -1079,9 +1080,11 @@
 <11-x-2>{\selectlanguage {english}om.} \getsiglum {N22,P3}</11-x-2>
 <11-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}guptā} \getsiglum {ceteri}\ekdsep </11-x-2>
 <11-x-2>{\selectlanguage {english}goptā} \getsiglum {J1,N25}</11-x-2>
+<11-x-2>{\selectlanguage {english}gopyā} \getsiglum {Be1}</11-x-2>
 <11-x-2>{\selectlanguage {english}om.} \getsiglum {N22,P3}</11-x-2>
 <11-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}nirvīryā} \getsiglum {ceteri}\ekdsep </11-x-2>
 <11-x-2>{\selectlanguage {english}nirviryā} \getsiglum {J15,N6,V8}</11-x-2>
+<11-x-2>{\selectlanguage {english}nivvīrya} \getsiglum {Be1}</11-x-2>
 <11-x-2>{\selectlanguage {english}nirvīyyā} \getsiglum {B2,C3}</11-x-2>
 <11-x-2>{\selectlanguage {english}nirvīyā} \getsiglum {C9}</11-x-2>
 <11-x-2>{\selectlanguage {english}nirviyyā} \getsiglum {N9}</11-x-2>
@@ -1099,7 +1102,7 @@
 <11-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}tu} \getsiglum {ceteri}\ekdsep </11-x-2>
 <11-x-2>{\selectlanguage {english}ti} \getsiglum {M1,N5,N19,V26}</11-x-2>
 <11-x-2>{\selectlanguage {english}va} \getsiglum {J4,V19}</11-x-2>
-<11-x-2>{\selectlanguage {english}nu} \getsiglum {C1,J1,J2,J14,J15,J17,Bo2}</11-x-2>
+<11-x-2>{\selectlanguage {english}nu} \getsiglum {Be1,C1,J1,J2,J14,J15,J17,Bo2}</11-x-2>
 <11-x-2>{\selectlanguage {english}su} \getsiglum {V6}</11-x-2>
 <11-x-2>{\selectlanguage {english}syāt} \getsiglum {G2}</11-x-2>
 <11-x-2>{\selectlanguage {english}ca} \getsiglum {J11,N3,V15,Ko}</11-x-2>
@@ -1153,7 +1156,7 @@
 <12-x-2>{\selectlanguage {english}\supplied {\gap {reason=editorial,unit=words,quantity=2}}} \getsiglum {ceteri}</12-x-2>
 <12-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries \LRnum {8}~}{\bfseries \selectlanguage {english}\supplied {siddhāṃtaśravaṇaṃ caiva hrīr\skp {-}matiś\skp {-}ca japo hutam}} \getsiglum {J3,J6}\ekdsep </12-x-2>
 <12-x-2>{\selectlanguage {english}\supplied {\gap {unit=words,quantity=5}}} \getsiglum {ceteri}</12-x-2>
-<12-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries \LRnum {9}~}{\bfseries \selectlanguage {english}\supplied {dhanuḥpramāṇaparyantaṃ}} \getsiglum {B1,Bo1,C2,J3,J6,J12,J14,P2,P4,Tue,R5,Vu,V2,V8,V13,V28}\ekdsep </12-x-2>
+<12-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries \LRnum {9}~}{\bfseries \selectlanguage {english}\supplied {dhanuḥpramāṇaparyantaṃ}} \getsiglum {Be1,B1,Bo1,C2,J3,J6,J12,J14,P2,P4,Tue,R5,Vu,V2,V8,V13,V28}\ekdsep </12-x-2>
 <12-x-2>{\selectlanguage {english}\supplied {dhanupramāṇaparyantaṃ}} \getsiglum {J13,N1,N2}</12-x-2>
 <12-x-2>{\selectlanguage {english}\supplied {dhanuprāmāṇaparyantaṃ}} \getsiglum {J11}</12-x-2>
 <12-x-2>{\selectlanguage {english}\supplied {dhanuprāmāṇaparyaṃta}} \getsiglum {R3}</12-x-2>
@@ -1163,6 +1166,7 @@
 <12-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}\supplied {śilāgnijalavarjitaṃ/}} \getsiglum {B1,Bo1,J11,J13,N13,R5,V28}\ekdsep </12-x-2>
 <12-x-2>{\selectlanguage {english}\supplied {śilāgnijalavarjite/}} \getsiglum {B3,J3,J6,J12,N1,N4a,N13,C2,Tue,P2,R3,V2,V4,V8,V13,Vu}</12-x-2>
 <12-x-2>{\selectlanguage {english}\supplied {śilājalāgnivarjite/}} \getsiglum {J14}</12-x-2>
+<12-x-2>{\selectlanguage {english}\supplied {śivāgnijanavarjite/}} \getsiglum {Be1}</12-x-2>
 <12-x-2>{\selectlanguage {english}\supplied {śītāgnijalavarjite}} \getsiglum {Ko}</12-x-2>
 <12-x-2>{\selectlanguage {english}\supplied {śilāgnijalavarjitaṃ}} \getsiglum {P4}</12-x-2>
 <12-x-2>{\selectlanguage {english}\supplied {śilājalāgnivarjitā/}} \getsiglum {N2}</12-x-2>
@@ -1246,7 +1250,7 @@
 <13-x-2>{\selectlanguage {english}piṭapaṃ\skp {-}} \getsiglum {C3}</13-x-2>
 <13-x-2>{\selectlanguage {english}madhikaṃ\skp {-}} \getsiglum {G1}</13-x-2>
 <13-x-2>{\selectlanguage {english}viṭapaṃ\skp {-}} \getsiglum {A1,C8,J10,Bo2}</13-x-2>
-<13-x-2>{\selectlanguage {english}puṭitaṃ\skp {-}} \getsiglum {N12,O1,O1pc,V26,V11}</13-x-2>
+<13-x-2>{\selectlanguage {english}puṭitaṃ\skp {-}} \getsiglum {Be1,N12,O1,O1pc,V26,V11}</13-x-2>
 <13-x-2>{\selectlanguage {english}piṭikāṃ\skp {-}} \getsiglum {N19}</13-x-2>
 <13-x-2>{\selectlanguage {english}paṭikaṃ\skp {-}} \getsiglum {C1,C6}</13-x-2>
 <13-x-2>{\selectlanguage {english}piṭakaṃ\skp {-}} \getsiglum {C9,J4,J11,V15}</13-x-2>
@@ -1326,7 +1330,7 @@
 <13-x-2>{\selectlanguage {english}mṛtti} \getsiglum {V8}</13-x-2>
 <13-x-2>{\selectlanguage {english}lipta} \getsiglum {N20,Ko}</13-x-2>
 <13-x-2>{\selectlanguage {english}om.} \getsiglum {N22,P3,P7}</13-x-2>
-<13-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}liptamamalaṃ} \getsiglum {A1,C3,C4,C6,C8,G1,G2,J10,J12,J15,M1,N4a,N6,N9,N10,N13,N17,N23,R5,Tue,V4,V6,V11,V12,V16,V18,V19,V22,Vu,P5}\ekdsep </13-x-2>
+<13-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}liptamamalaṃ} \getsiglum {Be1,A1,C3,C4,C6,C8,G1,G2,J10,J12,J15,M1,N4a,N6,N9,N10,N13,N17,N23,R5,Tue,V4,V6,V11,V12,V16,V18,V19,V22,Vu,P5}\ekdsep </13-x-2>
 <13-x-2>{\selectlanguage {english}līptam amalaṃ} \getsiglum {J17}</13-x-2>
 <13-x-2>{\selectlanguage {english}liptam abilaṃ} \getsiglum {V1}</13-x-2>
 <13-x-2>{\selectlanguage {english}liptavimalaṃ} \getsiglum {ceteri}</13-x-2>
@@ -1409,7 +1413,7 @@
 <13-x-2>{\selectlanguage {english}vedikūparacitaṃ} \getsiglum {B1,B2,C2,C7,C9,L1,J2,J3,J6,J10,J13,J17,N5,N6,N10,N11,N16,N17,N24,O2,P1,P2,P4,R3,V1,V4,V5,V6,V12,V16,V18,V19,Bo1,Bo2}</13-x-2>
 <13-x-2>{\selectlanguage {english}vedikoparacitaṃ} \getsiglum {B3,C4,J4}</13-x-2>
 <13-x-2>{\selectlanguage {english}vedikūparacite} \getsiglum {V11}</13-x-2>
-<13-x-2>{\selectlanguage {english}vedikūparacita} \getsiglum {A1}</13-x-2>
+<13-x-2>{\selectlanguage {english}vedikūparacita} \getsiglum {A1,Be1}</13-x-2>
 <13-x-2>{\selectlanguage {english}vedikūparacanaṃ} \getsiglum {C8}</13-x-2>
 <13-x-2>{\selectlanguage {english}vedi+paruciraṃ} \getsiglum {G1}</13-x-2>
 <13-x-2>{\selectlanguage {english}vedikoparuciraṃ} \getsiglum {M1,O1}</13-x-2>
@@ -1433,6 +1437,7 @@
 <13-x-2>{\selectlanguage {english}om.} \getsiglum {J1,N22,P3}</13-x-2>
 <13-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}saṃveṣṭitaṃ} \getsiglum {ceteri}\ekdsep </13-x-2>
 <13-x-2>{\selectlanguage {english}samaveṣṭitam} \getsiglum {C8}</13-x-2>
+<13-x-2>{\selectlanguage {english}sāmveṣṭitaṃ} \getsiglum {Be1}</13-x-2>
 <13-x-2>{\selectlanguage {english}saṃveṣṭite} \getsiglum {B1}</13-x-2>
 <13-x-2>{\selectlanguage {english}saṃvetaṃ} \getsiglum {N2}</13-x-2>
 <13-x-2>{\selectlanguage {english}saṃ .. ṣṭitaṃ} \getsiglum {V22}</13-x-2>
@@ -1445,14 +1450,14 @@
 <13-x-2>{\selectlanguage {english}yoktaṃ} \getsiglum {V6}</13-x-2>
 <13-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}yoga} \getsiglum {ceteri}\ekdsep </13-x-2>
 <13-x-2>{\selectlanguage {english}yogi} \getsiglum {J6}</13-x-2>
-<13-x-2>{\selectlanguage {english}om.} \getsiglum {P3}</13-x-2>
+<13-x-2>{\selectlanguage {english}om.} \getsiglum {Be1,P3}</13-x-2>
 <13-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}maṭhasya\skp {-}} \getsiglum {ceteri}\ekdsep </13-x-2>
 <13-x-2>{\selectlanguage {english}haṭhasya\skp {-}} \getsiglum {A1,J4,N16,N17,P7,V16}</13-x-2>
 <13-x-2>{\selectlanguage {english}haṭasya\skp {-}} \getsiglum {N6}</13-x-2>
 <13-x-2>{\selectlanguage {english}mavasya\skp {-}} \getsiglum {J2}</13-x-2>
 <13-x-2>{\selectlanguage {english}maṭha} \getsiglum {N2}</13-x-2>
 <13-x-2>{\selectlanguage {english}mahasya\skp {-}} \getsiglum {N3}</13-x-2>
-<13-x-2>{\selectlanguage {english}om.} \getsiglum {J1,P3}</13-x-2>
+<13-x-2>{\selectlanguage {english}om.} \getsiglum {J1,P3,Be1}</13-x-2>
 <13-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}lakṣaṇam\skp {-}idaṃ} \getsiglum {ceteri}\ekdsep </13-x-2>
 <13-x-2>{\selectlanguage {english}lakṣatmaṇaṃ} \getsiglum {J4}</13-x-2>
 <13-x-2>{\selectlanguage {english}lakṣaṇam iḍaṃ} \getsiglum {N9}</13-x-2>
@@ -1464,11 +1469,11 @@
 <13-x-2>{\selectlanguage {english}siddheḥ\skp {-}} \getsiglum {N25}</13-x-2>
 <13-x-2>{\selectlanguage {english}siddhir\skp {-}} \getsiglum {N9}</13-x-2>
 <13-x-2>{\selectlanguage {english}siddhyair\skp {-}} \getsiglum {G1,G2}</13-x-2>
-<13-x-2>{\selectlanguage {english}om.} \getsiglum {J1,P3}</13-x-2>
+<13-x-2>{\selectlanguage {english}om.} \getsiglum {J1,P3,Be1}</13-x-2>
 <13-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}\skm {r-}haṭhā} \getsiglum {ceteri}\ekdsep </13-x-2>
 <13-x-2>{\selectlanguage {english}haṭā} \getsiglum {V22}</13-x-2>
 <13-x-2>{\selectlanguage {english}haṭha} \getsiglum {N9}</13-x-2>
-<13-x-2>{\selectlanguage {english}om.} \getsiglum {J1,P3}</13-x-2>
+<13-x-2>{\selectlanguage {english}om.} \getsiglum {J1,P3,Be1}</13-x-2>
 <13-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}haṭhābhyāsibhiḥ} \getsiglum {ceteri}\ekdsep </13-x-2>
 <13-x-2>{\selectlanguage {english}bhyāsibhi} \getsiglum {J12}</13-x-2>
 <13-x-2>{\selectlanguage {english}bhyāsabhiḥ} \getsiglum {N3,N5}</13-x-2>
@@ -1478,7 +1483,7 @@
 <13-x-2>{\selectlanguage {english}bhyāsiddhi} \getsiglum {J15}</13-x-2>
 <13-x-2>{\selectlanguage {english}ntyasibhiḥ} \getsiglum {N9}</13-x-2>
 <13-x-2>{\selectlanguage {english}bhyāsinām} \getsiglum {G1}</13-x-2>
-<13-x-2>{\selectlanguage {english}om.} \getsiglum {J1,P3}</13-x-2>
+<13-x-2>{\selectlanguage {english}om.} \getsiglum {J1,P3,Be1}</13-x-2>
 <14-x-2>{\selectlanguage {english}\bfseries \LRnum {1}~}{\bfseries \selectlanguage {english}evaṃvidhe\skp {-}} \getsiglum {ceteri}\ekdsep </14-x-2>
 <14-x-2>{\selectlanguage {english}evaṃvidha} \getsiglum {G1,N17}</14-x-2>
 <14-x-2>{\selectlanguage {english}evavidhe\skp {-}} \getsiglum {J4}</14-x-2>
@@ -1487,15 +1492,15 @@
 <14-x-2>{\selectlanguage {english}evaṃvidham\skp {-}} \getsiglum {J12,N21}</14-x-2>
 <14-x-2>{\selectlanguage {english}evaṃvidhai\skp {-}} \getsiglum {V5}</14-x-2>
 <14-x-2>{\selectlanguage {english}evaṃ bhave\skp {-}} \getsiglum {V6}</14-x-2>
-<14-x-2>{\selectlanguage {english}om.} \getsiglum {N4a,V22,Ko,P3}</14-x-2>
+<14-x-2>{\selectlanguage {english}om.} \getsiglum {Be1,N4a,V22,Ko,P3}</14-x-2>
 <14-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}maṭhe\skp {-}} \getsiglum {ceteri}\ekdsep </14-x-2>
 <14-x-2>{\selectlanguage {english}maṭho\skp {-}} \getsiglum {N20}</14-x-2>
 <14-x-2>{\selectlanguage {english}maṭha} \getsiglum {N22}</14-x-2>
-<14-x-2>{\selectlanguage {english}om.} \getsiglum {N4a,V22,Ko,P3}</14-x-2>
+<14-x-2>{\selectlanguage {english}om.} \getsiglum {Be1,N4a,V22,Ko,P3}</14-x-2>
 <14-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}sthitvā} \getsiglum {ceteri}\ekdsep </14-x-2>
 <14-x-2>{\selectlanguage {english}smitvā} \getsiglum {N22}</14-x-2>
 <14-x-2>{\selectlanguage {english}sthītvā} \getsiglum {V11}</14-x-2>
-<14-x-2>{\selectlanguage {english}om.} \getsiglum {N4a,V22,Ko,P3}</14-x-2>
+<14-x-2>{\selectlanguage {english}om.} \getsiglum {Be1,N4a,V22,Ko,P3}</14-x-2>
 <14-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}sarva} \getsiglum {ceteri}\ekdsep </14-x-2>
 <14-x-2>{\selectlanguage {english}sarvva} \getsiglum {P1}</14-x-2>
 <14-x-2>{\selectlanguage {english}sarvaṃ\skp {-}} \getsiglum {J3}</14-x-2>
@@ -1503,28 +1508,28 @@
 <14-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}cintā} \getsiglum {ceteri}\ekdsep </14-x-2>
 <14-x-2>{\selectlanguage {english}cinttā} \getsiglum {P1}</14-x-2>
 <14-x-2>{\selectlanguage {english}cinta} \getsiglum {V26}</14-x-2>
-<14-x-2>{\selectlanguage {english}om.} \getsiglum {N4a,V22,Ko,P3}</14-x-2>
+<14-x-2>{\selectlanguage {english}om.} \getsiglum {Be1,N4a,V22,Ko,P3}</14-x-2>
 <14-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}vivarjitaḥ} \getsiglum {ceteri}\ekdsep </14-x-2>
 <14-x-2>{\selectlanguage {english}vivarjitāḥ} \getsiglum {C3,J15,N16,V11}</14-x-2>
 <14-x-2>{\selectlanguage {english}vivarjjitaḥ} \getsiglum {P1}</14-x-2>
 <14-x-2>{\selectlanguage {english}vivarjitam} \getsiglum {G3}</14-x-2>
 <14-x-2>{\selectlanguage {english}vivarjitā} \getsiglum {J12}</14-x-2>
 <14-x-2>{\selectlanguage {english}vivarjatā} \getsiglum {N9}</14-x-2>
-<14-x-2>{\selectlanguage {english}om.} \getsiglum {N4a,V22,Ko,P3}</14-x-2>
+<14-x-2>{\selectlanguage {english}om.} \getsiglum {Be1,N4a,V22,Ko,P3}</14-x-2>
 <14-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries \LRnum {2}~}{\bfseries \selectlanguage {english}gurūpa} \getsiglum {ceteri}\ekdsep </14-x-2>
 <14-x-2>{\selectlanguage {english}gurupa} \getsiglum {J8,J12,J17}</14-x-2>
 <14-x-2>{\selectlanguage {english}guropa} \getsiglum {N19}</14-x-2>
-<14-x-2>{\selectlanguage {english}om.} \getsiglum {N4a,V22,Ko,P3}</14-x-2>
+<14-x-2>{\selectlanguage {english}om.} \getsiglum {Be1,N4a,V22,Ko,P3}</14-x-2>
 <14-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}diṣṭa} \getsiglum {ceteri}\ekdsep </14-x-2>
 <14-x-2>{\selectlanguage {english}deśa} \getsiglum {C1,C6,C8,N5,P7,R5,V5}</14-x-2>
 <14-x-2>{\selectlanguage {english}viṣṭa} \getsiglum {N25}</14-x-2>
 <14-x-2>{\selectlanguage {english}\unm ste\skp {-}} \getsiglum {V8}</14-x-2>
-<14-x-2>{\selectlanguage {english}om.} \getsiglum {N4a,V22,Ko,P3}</14-x-2>
+<14-x-2>{\selectlanguage {english}om.} \getsiglum {Be1,N4a,V22,Ko,P3}</14-x-2>
 <14-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}mārgeṇa} \getsiglum {ceteri}\ekdsep </14-x-2>
 <14-x-2>{\selectlanguage {english}mātreṇa} \getsiglum {N5}</14-x-2>
 <14-x-2>{\selectlanguage {english}mātreṇā} \getsiglum {N20}</14-x-2>
 <14-x-2>{\selectlanguage {english}mārgtreṇā} \getsiglum {N23}</14-x-2>
-<14-x-2>{\selectlanguage {english}om.} \getsiglum {N4a,V22,Ko,P3}</14-x-2>
+<14-x-2>{\selectlanguage {english}om.} \getsiglum {Be1,N4a,V22,Ko,P3}</14-x-2>
 <14-x-2>\hskip 0.75em{\selectlanguage {english}\bfseries }{\bfseries \selectlanguage {english}yogam} \getsiglum {ceteri}\ekdsep </14-x-2>
 <14-x-2>{\selectlanguage {english}mana} \getsiglum {J4}</14-x-2>
 <14-x-2>{\selectlanguage {english}yoga} \getsiglum {J8,N20,N26,V3,V17}</14-x-2>
